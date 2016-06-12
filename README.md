@@ -15,7 +15,7 @@ For an up-to-date list of the themes I have published, visit [http://www.protesi
 
 ## Acknowledgements
 
-I was greatly inspired in my work by Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized). My gratitude also extends to Bram de Haan for his [Atelier schemes](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/) and to Chris Kempson for the original [base16 project](http://chriskempson.github.io/base16/). Further thanks to Simurai, whose [DuoTone syntax theme](https://github.com/simurai/duotone-syntax) has provided the starting point for the actual code structure of Oliveira's Atom packages.
+I was greatly inspired in my work by Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized). My gratitude also extends to Bram de Haan for his [Atelier schemes](http://atelierbram.github.io/syntax-highlighting/atelier-schemes/) and to Chris Kempson for the original [base16 project](http://chriskempson.github.io/base16/). Further thanks to Simurai, whose [DuoTone syntax theme](https://github.com/simurai/duotone-syntax) has provided the starting point for the actual code structure of the Atom packages.
 
 ## Miscellaneous
 
