@@ -1,0 +1,18 @@
+scheme: "Cyprium"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "374934" # Dark background
+dhl: "475944" # Dark highlight
+dt2: "879984" # Dark bg text secondary
+dt1: "A7B9A4" # Dark bg text primary
+lbg: "EBE9DA" # Light background
+lhl: "DBD9CA" # Light highlight
+lt2: "9B998A" # Light bg text secondary
+lt1: "6B695A" # Light bg text primary
+red: "C36A5F" # Red
+ora: "B37521" # Orange
+gre: "6B8C4A" # Green
+blu: "3C959A" # Blue
+mag: "BB6384" # Magenta
+yel: "A38E10" # Yellow
+cya: "5C9B85" # Cyan
+vio: "8B85BA" # Violet
