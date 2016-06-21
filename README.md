@@ -8,8 +8,7 @@ For the time being, you will find the following herein:
 
 - an SCSS stylesheet of each theme that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
-- screenshots of each theme's palette, light and dark variants;
-- links to each theme's project page and corresponding Atom package.
+- links to each theme's project page and corresponding Atom package (where applicable).
 
 For an up-to-date list of the themes I have published, visit [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes).
 

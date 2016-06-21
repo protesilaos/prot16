@@ -1,6 +1,6 @@
 # Symbiosis syntax theme
 
-Medium-to-high contrast theme, loosely inspired by the Metroid® video game series. Purple, red, and teal are the most prevalent colours, complemented by blue and orange.
+Medium-to-high contrast theme, loosely inspired by the Metroid video game series. Purple, red, and teal are the most prevalent colours, complemented by blue and orange.
 
 *Symbiosis* comes in separate light and dark variants.
 
