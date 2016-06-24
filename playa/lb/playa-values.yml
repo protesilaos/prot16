@@ -1,0 +1,18 @@
+scheme: "Playa"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "234154" # Dark background
+dhl: "335F64" # Dark highlight
+dt2: "638F94" # Dark bg text secondary
+dt1: "93BFC4" # Dark bg text primary
+lbg: "FAF1E0" # Light background
+lhl: "EAE1D0" # Light highlight
+lt2: "AAA190" # Light bg text secondary
+lt1: "7A7160" # Light bg text primary
+red: "CA6E6A" # Red
+ora: "CB8D6A" # Orange
+yel: "DDBA7D" # Yellow
+gre: "7DB97A" # Green
+cya: "35C5BD" # Cyan
+blu: "65AFCD" # Blue
+vio: "AA85CB" # Violet
+mag: "CB7E9A" # Magenta

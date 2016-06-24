@@ -1,0 +1,143 @@
+/*
+    Name: Playa
+    Author: Protesilaos Stavrou (http://www.protesilaos.com)
+    Description: Tested with Rouge-enabled Jekyll sites
+    Theme URL: http://www.protesilaos.com/playa
+*/
+
+// Variables ----------------------------
+
+$dbg: #234154; // Dark background
+$dhl: #335F64; // Dark highlight
+$dt2: #638F94; // Dark bg text secondary
+$dt1: #93BFC4; // Dark bg text primary
+
+$lbg: #FAF1E0; // Light background
+$lhl: #EAE1D0; // Light highlight
+$lt2: #AAA190; // Light bg text secondary
+$lt1: #7A7160; // Light bg text primary
+
+$red: #CA6E6A; // Red
+$ora: #CB8D6A; // Orange
+$yel: #DDBA7D; // Yellow
+$gre: #7DB97A; // Green
+
+$cya: #35C5BD; // Cyan
+$blu: #65AFCD; // Blue
+$vio: #AA85CB; // Violet
+$mag: #CB7E9A; // Magenta
+
+// Base Defaults ------------------------
+// Just swap $l with $d in the following three lines to switch between dark/light
+
+$text1: $lt1;
+$text2: $lt2;
+$background: $lbg;
+
+// Colour order
+// No need to configure
+
+$primary1: $blu;
+$primary2: $gre;
+$primary3: $cya;
+
+$secondary1: $ora;
+$secondary2: $yel;
+
+$tertiary1: $red;
+$tertiary2: $vio;
+$tertiary3: $mag;
+
+// Syntax -------------------------------
+// Classes are prefixed with .highlight
+
+.highlight {
+  background: $background;
+  color: $text1;
+
+  .w {
+    color: $text1;
+  }
+
+  .c,
+  .cd,
+  .cm,
+  .c1,
+  .cs,
+  .o,
+  .ow,
+  .p,
+  .pi {
+    color: $text2;
+  }
+
+  .cp,
+  .nt,
+  .nn,
+  .nc,
+  .no {
+    color: $primary1;
+  }
+
+  .nv,
+  .na {
+    color: $primary2;
+  }
+
+  .gh {
+    color: $primary2;
+    font-weight: bold;
+  }
+
+  .m,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo,
+  .mb,
+  .mx,
+  .ss,
+  .nb,
+  .gi,
+  .s,
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .s1 {
+    color: $primary3;
+  }
+
+  .nf,
+  .sr {
+    color: $secondary1;
+  }
+
+  .si,
+  .se {
+    color: $secondary2;
+  }
+
+
+  .kc,
+  .kt,
+  .kd {
+    color: $tertiary1;
+  }
+
+  .k,
+  .kn,
+  .kp,
+  .kr,
+  .kv {
+    color: $tertiary2;
+  }
+
+  .err,
+  .gd {
+    color: $tertiary3;
+  }
+}
