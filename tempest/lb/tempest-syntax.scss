@@ -1,0 +1,143 @@
+/*
+    Name: Tempest
+    Author: Protesilaos Stavrou (http://www.protesilaos.com)
+    Description: Tested with Rouge-enabled Jekyll sites
+    Theme URL: http://www.protesilaos.com/tempest
+*/
+
+// Variables ----------------------------
+
+$dbg: #282C36; // Dark background
+$dhl: #383C46; // Dark highlight
+$dt2: #686C76; // Dark bg text secondary
+$dt1: #A8ACB6; // Dark bg text primary
+
+$lbg: #F1F2F7; // Light background
+$lhl: #E1E2E7; // Light highlight
+$lt2: #818287; // Light bg text secondary
+$lt1: #414247; // Light bg text primary
+
+$red: #A97552; // Red
+$ora: #C78956; // Orange
+$gre: #48B7A7; // Green
+$blu: #3C8CBB; // Blue
+
+$mag: #C789A6; // Magenta
+$yel: #B9A552; // Yellow
+$cya: #55AFAF; // Cyan
+$vio: #7A7DCA; // Violet
+
+// Base Defaults ------------------------
+// Just swap $l with $d in the following three lines to switch between dark/light
+
+$text1: $lt1;
+$text2: $lt2;
+$background: $lbg;
+
+// Colour order
+// No need to configure
+
+$primary1: $blu;
+$primary2: $cya;
+$primary3: $vio;
+
+$secondary1: $ora;
+$secondary2: $red;
+
+$tertiary1: $mag;
+$tertiary2: $gre;
+$tertiary3: $yel;
+
+// Syntax -------------------------------
+// Classes are prefixed with .highlight
+
+.highlight {
+  background: $background;
+  color: $text1;
+
+  .w {
+    color: $text1;
+  }
+
+  .c,
+  .cd,
+  .cm,
+  .c1,
+  .cs,
+  .o,
+  .ow,
+  .p,
+  .pi {
+    color: $text2;
+  }
+
+  .cp,
+  .nt,
+  .nn,
+  .nc,
+  .no {
+    color: $primary1;
+  }
+
+  .nv,
+  .na {
+    color: $primary2;
+  }
+
+  .gh {
+    color: $primary2;
+    font-weight: bold;
+  }
+
+  .m,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo,
+  .mb,
+  .mx,
+  .ss,
+  .nb,
+  .gi,
+  .s,
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .s1 {
+    color: $primary3;
+  }
+
+  .nf,
+  .sr {
+    color: $secondary1;
+  }
+
+  .si,
+  .se {
+    color: $secondary2;
+  }
+
+
+  .kc,
+  .kt,
+  .kd {
+    color: $tertiary1;
+  }
+
+  .k,
+  .kn,
+  .kp,
+  .kr,
+  .kv {
+    color: $tertiary2;
+  }
+
+  .err,
+  .gd {
+    color: $tertiary3;
+  }
+}
