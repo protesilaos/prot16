@@ -1,0 +1,18 @@
+scheme: "Reverie"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "443638" # Dark background
+dhl: "544648" # Dark highlight
+dt2: "847678" # Dark bg text secondary
+dt1: "B4A6A8" # Dark bg text primary
+lbg: "FFF0F2" # Light background
+lhl: "EFE0E2" # Light highlight
+lt2: "8F8082" # Light bg text secondary
+lt1: "5F5052" # Light bg text primary
+red: "A14699" # Red
+ora: "D9766D" # Orange
+gre: "119F8C" # Green
+blu: "179CC5" # Blue
+mag: "DD619F" # Magenta
+yel: "D9A652" # Yellow
+cya: "5FB8B4" # Cyan
+vio: "A77CCF" # Violet

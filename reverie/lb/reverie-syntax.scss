@@ -1,31 +1,31 @@
 /*
-    Name: Tempest
+    Name: Reverie
     Author: Protesilaos Stavrou (http://www.protesilaos.com)
     Description: Tested with Rouge-enabled Jekyll sites
-    Theme URL: http://www.protesilaos.com/tempest
+    Theme URL: http://www.protesilaos.com/reverie
 */
 
 // Variables ----------------------------
 
-$dbg: #282C36; // Dark background
-$dhl: #383C46; // Dark highlight
-$dt2: #686C76; // Dark bg text secondary
-$dt1: #A8ACB6; // Dark bg text primary
+$dbg: #443638; // Dark background
+$dhl: #544648; // Dark highlight
+$dt2: #847678; // Dark bg text secondary
+$dt1: #B4A6A8; // Dark bg text primary
 
-$lbg: #F1F2F7; // Light background
-$lhl: #E1E2E7; // Light highlight
-$lt2: #818287; // Light bg text secondary
-$lt1: #414247; // Light bg text primary
+$lbg: #FFF0F2; // Light background
+$lhl: #EFE0E2; // Light highlight
+$lt2: #8F8082; // Light bg text secondary
+$lt1: #5F5052; // Light bg text primary
 
-$red: #A97552; // Red
-$ora: #C78956; // Orange
-$gre: #48B788; // Green
-$blu: #3C8CBB; // Blue
+$red: #A14699; // Red
+$ora: #D9766D; // Orange
+$gre: #119F8C; // Green
+$blu: #179CC5; // Blue
 
-$mag: #C789A6; // Magenta
-$yel: #B9A552; // Yellow
-$cya: #55AFAF; // Cyan
-$vio: #7A7DCA; // Violet
+$mag: #DD619F; // Magenta
+$yel: #D9A652; // Yellow
+$cya: #5FB8B4; // Cyan
+$vio: #A77CCF; // Violet
 
 // Base Defaults ------------------------
 // Just swap $l with $d in the following three lines to switch between dark/light
@@ -37,16 +37,16 @@ $background: $lbg;
 // Colour order
 // No need to configure
 
-$primary1: $blu;
-$primary2: $cya;
-$primary3: $vio;
+$primary1: $mag;
+$primary2: $yel;
+$primary3: $cya;
 
-$secondary1: $ora;
-$secondary2: $red;
+$secondary1: $gre;
+$secondary2: $ora;
 
-$tertiary1: $mag;
-$tertiary2: $gre;
-$tertiary3: $yel;
+$tertiary1: $blu;
+$tertiary2: $vio;
+$tertiary3: $red;
 
 // Syntax -------------------------------
 // Classes are prefixed with .highlight
