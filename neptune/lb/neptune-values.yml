@@ -4,10 +4,10 @@ dbg: "282C36" # Dark background
 dhl: "383C46" # Dark highlight
 dt2: "686C76" # Dark bg text secondary
 dt1: "A8ACB6" # Dark bg text primary
-lbg: "F1F2F7" # Light background
-lhl: "E1E2E7" # Light highlight
-lt2: "818287" # Light bg text secondary
-lt1: "414247" # Light bg text primary
+lbg: "F0F1F8" # Light background
+lhl: "E0E1E8" # Light highlight
+lt2: "808188" # Light bg text secondary
+lt1: "404148" # Light bg text primary
 red: "A97552" # Red
 ora: "C78956" # Orange
 gre: "48B788" # Green
