@@ -1,4 +1,4 @@
-# Neptune website theme
+# Neptune website and syntax theme
 
 A medium contrast theme. *Neptune* comes in light and dark variants.
 
