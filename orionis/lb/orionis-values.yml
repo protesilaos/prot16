@@ -1,0 +1,18 @@
+scheme: "Orionis"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "1F2A2D" # Dark background
+dhl: "2F3A3D" # Dark highlight
+dt2: "5F6A6D" # Dark bg text secondary
+dt1: "8F9A9D" # Dark bg text primary
+lbg: "EFF1F3" # Light background
+lhl: "DFE1E3" # Light highlight
+lt2: "8F9193" # Light bg text secondary
+lt1: "5F6163" # Light bg text primary
+red: "974F6C" # Red
+ora: "9D7427" # Orange
+gre: "5B935B" # Green
+blu: "4D8AB3" # Blue
+mag: "AD6E8F" # Magenta
+yel: "9A8F0C" # Yellow
+cya: "52A6AD" # Cyan
+vio: "7E7EAD" # Violet
