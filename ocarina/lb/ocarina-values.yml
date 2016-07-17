@@ -1,0 +1,18 @@
+scheme: "Ocarina"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "212C2D" # Dark background
+dhl: "313C3D" # Dark highlight
+dt2: "616C6D" # Dark bg text secondary
+dt1: "919C9D" # Dark bg text primary
+lbg: "EBEBE7" # Light background
+lhl: "DBDBD7" # Light highlight
+lt2: "9B9B97" # Light bg text secondary
+lt1: "6B6B67" # Light bg text primary
+red: "BA6F5B" # Red
+ora: "A2853A" # Orange
+yel: "93A34A" # Yellow
+gre: "3D9D54" # Green
+cya: "48A99B" # Cyan
+blu: "2AA2A5" # Blue
+vio: "7A99BA" # Violet
+mag: "A77B9B" # Magenta
