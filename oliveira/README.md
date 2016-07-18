@@ -12,8 +12,8 @@ Dark variant: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/them
 
 ## Screenshots
 
-![oliveira dark screenshot](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/oliveira_dark_sample.png)
+![oliveira dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/oliveira/img/oliveira_dark_sample.png)
 
-![oliveira light screenshot](https://raw.githubusercontent.com/protesilaos/oliveira/master/img/oliveira_light_sample.png)
+![oliveira light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/oliveira/img/oliveira_light_sample.png)
 
 *The font in the screenshots is Source Code Pro*.
