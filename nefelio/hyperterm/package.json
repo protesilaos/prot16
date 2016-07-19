@@ -1,17 +1,18 @@
 {
   "name": "nefelio-dark",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/protesilaos/prot16/nefelio/hyperterm"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protesilaos/prot16/nefelio/hyperterm"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HyperTerm port of the Nefelio colour scheme.",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
     "nefelio",
-    "dark"  ],
+    "dark"
+  ],
   "author": {
     "name": "Protesilaos Stavrou",
     "email": "public@protesilaos.com",
