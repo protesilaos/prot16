@@ -1,3 +1,3 @@
-# EXPERIMENTAL HyperTerm port
+# HyperTerm port
 
-I just discovered [HyperTerm](https://hyperterm.org/). Will run tests to determine best way to port all Prot16 themes.
+This is a preliminary port for [HyperTerm](https://hyperterm.org/). As of now, it does not use the entire palette. Future tests may change this state of affairs.
