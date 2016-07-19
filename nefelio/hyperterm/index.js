@@ -1,7 +1,6 @@
-
 const backgroundColor = '#282326'
 const foregroundColor = '#989396'
-const cursorColor = foregroundColor
+const cursorColor = '#CA6F5F'
 const borderColor = backgroundColor
 
 const colors = [
@@ -16,7 +15,7 @@ const colors = [
   '#C34D95', // magenta
   '#686366', // medium gray
   '#9A9FA2', // light gray
-  '#EAEFF2', // white
+  '#EAEFF2', // light
   foregroundColor
 ]
 
@@ -28,12 +27,6 @@ exports.decorateConfig = config => {
     backgroundColor,
     borderColor,
     cursorColor,
-    colors,
-    termCSS: `
-      ${config.termCSS || ''}
-      .cursor-node {
-        mix-blend-mode: difference;
-      }
-    `
+    colors
   })
 }
