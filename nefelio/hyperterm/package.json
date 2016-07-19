@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/protesilaos/prot16/nefelio/hyperterm"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "HyperTerm port of the Nefelio colour scheme.",
   "main": "index.js",
   "keywords": [

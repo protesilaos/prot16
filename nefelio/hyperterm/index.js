@@ -6,20 +6,20 @@ exports.decorateConfig = (config) => {
     cursorColor: '#C34D95',
     colors: [
       '#282326', // dark
-      '#CA6F5F', // orange
       '#C34D95', // magenta
+      '#34B7BD', // cyan
       '#956CDA', // violet
       '#3F8EDA', // blue
       '#1CB57A', // green
-      '#34B7BD', // cyan
+      '#CA6F5F', // orange
       '#6A6F72', // gray dark
       '#9A9FA2', // gray light
-      '#CA6F5F', // orange
       '#C34D95', // magenta
+      '#34B7BD', // cyan
       '#956CDA', // violet
       '#3F8EDA', // blue
       '#1CB57A', // green
-      '#34B7BD', // cyan
+      '#CA6F5F', // orange
       '#EAEFF2', // light
     ],
     css: `
