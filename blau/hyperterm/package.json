@@ -1,0 +1,22 @@
+{
+  "name": "hyperterm-blau-light",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protesilaos/prot16/blau/hyperterm"
+  },
+  "version": "0.1.0",
+  "description": "HyperTerm port of the Blau colour scheme.",
+  "main": "index.js",
+  "keywords": [
+    "hyperterm",
+    "hyperterm-theme",
+    "blau",
+    "light"
+  ],
+  "author": {
+    "name": "Protesilaos Stavrou",
+    "email": "public@protesilaos.com",
+    "url": "http://www.protesilaos.com"
+  },
+  "license": "MIT"
+}
