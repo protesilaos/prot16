@@ -12,8 +12,8 @@ exports.decorateConfig = (config) => {
       '#4D8AB3', // blue
       '#9D7427', // orange
       '#52A6AD', // cyan
-      '#6A6F72', // gray dark
-      '#9A9FA2', // gray light
+      '#5F6A6D', // gray dark
+      '#8F9193', // gray light
       '#7E7EAD', // violet
       '#AD6E8F', // magenta
       '#5B935B', // green
