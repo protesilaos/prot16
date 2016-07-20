@@ -1,16 +1,16 @@
 {
-  "name": "hyperterm-symbiosis-dark",
+  "name": "hyperterm-gaia-dark",
   "repository": {
     "type": "git",
-    "url": "https://github.com/protesilaos/prot16/symbiosis/hyperterm"
+    "url": "https://github.com/protesilaos/prot16/gaia/hyperterm"
   },
-  "version": "0.1.1",
-  "description": "HyperTerm port of the Symbiosis colour scheme.",
+  "version": "0.1.0",
+  "description": "HyperTerm port of the Gaia colour scheme.",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
-    "symbiosis",
+    "gaia",
     "dark"
   ],
   "author": {
