@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/protesilaos/prot16/orionis/hyperterm"
   },
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "HyperTerm port of the Orionis colour scheme.",
   "main": "index.js",
   "keywords": [
