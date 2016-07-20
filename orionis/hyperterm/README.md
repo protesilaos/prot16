@@ -8,4 +8,4 @@ Install it by adding `hyperterm-orionis-dark` to the plugins list in `~/.hyperte
 
 Project page: [http://www.protesilaos.com/orionis](http://www.protesilaos.com/orionis)
 
-*Nefelio* was originally developed for the Atom text editor. This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.
+*Orionis* was originally developed for the Atom text editor. This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.
