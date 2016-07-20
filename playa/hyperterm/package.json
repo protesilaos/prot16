@@ -1,16 +1,16 @@
 {
-  "name": "hyperterm-ficus-light",
+  "name": "hyperterm-playa-light",
   "repository": {
     "type": "git",
-    "url": "https://github.com/protesilaos/prot16/ficus/hyperterm"
+    "url": "https://github.com/protesilaos/prot16/playa/hyperterm"
   },
-  "version": "0.1.1",
-  "description": "HyperTerm port of the Ficus colour scheme.",
+  "version": "0.1.0",
+  "description": "HyperTerm port of the Playa colour scheme.",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
-    "ficus",
+    "playa",
     "light"
   ],
   "author": {
