@@ -2,15 +2,18 @@
 
 ## Colour schemes and syntax themes
 
-This is the master repo of all the syntax highlighting colour schemes I have developed. **The present repository is a work in progress.** The objective is to populate it with all my work on syntax theming.
-
-For the time being, you will find the following herein:
+This is the master repo of all the colour schemes I have developed. For the time being, you will find the following herein:
 
 - an SCSS stylesheet of each theme that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
-- links to each theme's project page and corresponding Atom package (where applicable).
+- a package with the HyperTerm port of each theme (where applicable);
+- links to each theme's project page and corresponding Atom ports.
 
-For an up-to-date list of the themes I have published, visit [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes).
+For an up-to-date list of the packages I have released, see:
+
+- **My website.** [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes)
+- **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos)
+- **NPM profile.** [https://www.npmjs.com/~protesilaos](https://www.npmjs.com/~protesilaos)
 
 ## Acknowledgements
 
