@@ -3,23 +3,23 @@ exports.decorateConfig = (config) => {
     foregroundColor: '#919D9C',
     backgroundColor: '#212D2C',
     borderColor: '#313D3C',
-    cursorColor: '#BD6D36',
+    cursorColor: '#A87226',
     colors: [
       '#212D2C', // dark
-      '#C14F4D', // red
-      '#48BB9A', // cyan
-      '#9A69BD', // violet
-      '#4D8CBD', // blue
-      '#66AB24', // green
-      '#BD6D36', // orange
+      '#B95846', // red
+      '#48A597', // cyan
+      '#9166AB', // violet
+      '#3D8CAD', // blue
+      '#669824', // green
+      '#A87226', // orange
       '#616D6C', // gray dark
       '#9C9A99', // gray light
-      '#C14F4D', // red
-      '#48BB9A', // cyan
-      '#9A69BD', // violet
-      '#4D8CBD', // blue
-      '#66AB24', // green
-      '#BD6D36', // orange
+      '#B95846', // red
+      '#48A597', // cyan
+      '#9166AB', // violet
+      '#3D8CAD', // blue
+      '#669824', // green
+      '#A87226', // orange
       '#FCFAF9', // light
     ],
     css: `
@@ -34,7 +34,7 @@ exports.decorateConfig = (config) => {
         background-color: #313D3C;
       }
       .tab_active::before {
-        border-bottom: 1px solid #BD6D36;
+        border-bottom: 1px solid #A87226;
       }
     `
   })
