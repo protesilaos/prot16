@@ -4,7 +4,7 @@
     "type": "git",
     "url": "https://github.com/protesilaos/prot16/symbiosis/hyperterm"
   },
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "HyperTerm port of the Symbiosis colour scheme.",
   "main": "index.js",
   "keywords": [
