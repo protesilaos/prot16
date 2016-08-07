@@ -1,0 +1,18 @@
+scheme: "Magus"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "322A29" # Dark background
+dhl: "423A39" # Dark highlight
+dt2: "726A69" # Dark bg text secondary
+dt1: "A29A99" # Dark bg text primary
+lbg: "F2EDE6" # Light background
+lhl: "E2DDD6" # Light highlight
+lt2: "A29D96" # Light bg text secondary
+lt1: "625D56" # Light bg text primary
+red: "BD5956" # Red
+ora: "BB7321" # Orange
+gre: "8B972A" # Green
+blu: "5C8CAA" # Blue
+mag: "B881A8" # Magenta
+yel: "C1A222" # Yellow
+cya: "65AB85" # Cyan
+vio: "7A7DA7" # Violet
