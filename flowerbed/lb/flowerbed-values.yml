@@ -8,10 +8,10 @@ lbg: "ECF3F2" # Light background
 lhl: "DCE3E2" # Light highlight
 lt2: "8C9392" # Light bg text secondary
 lt1: "5C6362" # Light bg text primary
-red: "D85A87" # Red
+red: "D86A87" # Red
 ora: "D89A47" # Orange
 yel: "CD9A8A" # Yellow
-gre: "5CAC7D" # Green
+gre: "5CBC7D" # Green
 cya: "1CABA1" # Cyan
 blu: "4AA7D2" # Blue
 vio: "7988CA" # Violet
