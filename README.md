@@ -29,4 +29,4 @@ As of June 12, 2016, this repository replaces the following three:
 - Blau - [https://github.com/protesilaos/blau](https://github.com/protesilaos/blau)
 - Cyprium - [https://github.com/protesilaos/cyprium](https://github.com/protesilaos/cyprium)
 
-These were created at a time when I did not have an overarching plan on my syntax-themes-related work. Their maintenance had to be discontinued, as individual repos are hard to maintain at scale.
+These were created at a time when I did not have an overarching plan for my syntax-themes-related work. Their maintenance had to be discontinued, as individual repos are hard to maintain at scale.
