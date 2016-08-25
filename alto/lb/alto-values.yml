@@ -1,18 +1,18 @@
 scheme: "Alto"
 author: "Protesilaos Stavrou (http://www.protesilaos.com)"
-dbg: "181D1A" # Dark background
-dhl: "282D2A" # Dark highlight
-dt2: "686D6A" # Dark bg text secondary
-dt1: "989D9A" # Dark bg text primary
-lbg: "FAFBFC" # Light background
-lhl: "EAEBEC" # Light highlight
-lt2: "8A8B8C" # Light bg text secondary
-lt1: "4A4B4C" # Light bg text primary
+dbg: "182D2A" # Dark background
+dhl: "283D3A" # Dark highlight
+dt2: "687D7A" # Dark bg text secondary
+dt1: "98ADAA" # Dark bg text primary
+lbg: "FAFAEC" # Light background
+lhl: "EAEADC" # Light highlight
+lt2: "8A8A7C" # Light bg text secondary
+lt1: "5A5A4C" # Light bg text primary
 red: "C6414D" # Red
-ora: "D9754D" # Orange
-yel: "D9A53D" # Yellow
-gre: "679D35" # Green
-cya: "379AAB" # Cyan
-blu: "267DC6" # Blue
-vio: "9E6BCD" # Violet
-mag: "DC6C95" # Magenta
+ora: "C9753D" # Orange
+yel: "C6A13D" # Yellow
+gre: "679945" # Green
+cya: "57AB8B" # Cyan
+blu: "378BBD" # Blue
+vio: "9A7BC8" # Violet
+mag: "C97885" # Magenta
