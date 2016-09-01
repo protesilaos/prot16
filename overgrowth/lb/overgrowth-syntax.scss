@@ -17,7 +17,7 @@ $lhl: #D6D5C2; // Light highlight
 $lt2: #A6A592; // Light bg text secondary
 $lt1: #767562; // Light bg text primary
 
-$red: #CA4A4A; // Red
+$red: #CA6A4A; // Red
 $ora: #BB7628; // Orange
 $yel: #A8950D; // Yellow
 $gre: #4BA212; // Green
@@ -39,14 +39,14 @@ $background: $lbg;
 
 $primary1: $gre;
 $primary2: $ora;
-$primary3: $yel;
+$primary3: $red;
 
-$secondary1: $mag;
-$secondary2: $cya;
+$secondary1: $yel;
+$secondary2: $mag;
 
 $tertiary1: $blu;
 $tertiary2: $vio;
-$tertiary3: $red;
+$tertiary3: $cya;
 
 // Syntax -------------------------------
 // Classes are prefixed with .highlight
