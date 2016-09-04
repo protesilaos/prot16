@@ -10,9 +10,9 @@ lt2: "808188" # Light bg text secondary
 lt1: "404148" # Light bg text primary
 red: "A97552" # Red
 ora: "C78956" # Orange
-gre: "48B788" # Green
-blu: "3C8CBB" # Blue
-mag: "C789A6" # Magenta
 yel: "B9A552" # Yellow
+gre: "48B788" # Green
 cya: "55AFAF" # Cyan
+blu: "3C8CBB" # Blue
 vio: "7A7DCA" # Violet
+mag: "C789A6" # Magenta

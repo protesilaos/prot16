@@ -2,18 +2,32 @@
 
 ## Colour schemes and syntax themes
 
-This is the master repo of all the colour schemes I have developed. For the time being, you will find the following herein:
+This is the master repo of all the colour schemes I have developed. For the time being, you will find the following under each item's directory:
 
-- an SCSS stylesheet of each theme that can be used in Jekyll websites;
+- an SCSS stylesheet that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
-- a package with the HyperTerm port of each theme (where applicable);
-- a short description followed by a link to each theme's project page.
+- a package with the HyperTerm port (where applicable);
+- a short description followed by a link to each theme's project page on my website.
 
 For an up-to-date list of the packages I have released, see:
 
-- **My website.** [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes)
-- **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos)
-- **NPM profile.** [https://www.npmjs.com/~protesilaos](https://www.npmjs.com/~protesilaos)
+- **My website.** [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes).
+- **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos) (each Atom theme has its own GitHub repo).
+- **npm profile.** [https://www.npmjs.com/~protesilaos](https://www.npmjs.com/~protesilaos).
+
+## (NEW) Base16-builder
+
+All of the Prot16 schemes have been ported to the new [Base16-builder](https://github.com/base16-builder/base16-builder). This is a neat npm tool meant to produce themes for a whole range of applications (including terminal emulators). I use it to create ports of Prot16 items for *Terminator*, *Vim*, and *Mutt*.
+
+Here is the command to get the dark variant of `bionis` for Terminator:
+
+```shell
+base16-builder -s bionis -t terminator -b dark
+```
+
+Visit the Base16-builder repository for more details. [Contact me](http://www.protesilaos.com/contact/) if you need any help.
+
+*The files are also kept herein under the `all-ports/base16-builder` dir*. 
 
 ## Choosing a theme
 
