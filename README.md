@@ -17,7 +17,7 @@ For an up-to-date list of the packages I have released, see:
 
 ## (NEW) Base16-builder
 
-All of the Prot16 schemes have been ported to the new [Base16-builder](https://github.com/base16-builder/base16-builder). This is a neat npm tool meant to produce themes for a whole range of applications (including terminal emulators). I use it to create ports of Prot16 items for *Terminator*, *Vim*, and *Mutt*.
+All of the Prot16 schemes have been submitted to the new [Base16-builder](https://github.com/base16-builder/base16-builder). This is a neat npm tool designed to produce themes for a whole range of applications (including terminal emulators). I use it to create ports for *Terminator*, *Vim*, and *Mutt*.
 
 Here is the command to get the dark variant of `bionis` for Terminator:
 
@@ -27,7 +27,7 @@ base16-builder -s bionis -t terminator -b dark
 
 Visit the Base16-builder repository for more details. [Contact me](http://www.protesilaos.com/contact/) if you need any help.
 
-*The files are also kept herein under the `all-ports/base16-builder` dir*. 
+*The files are also kept herein under the `all-ports/base16-builder` directory*. 
 
 ## Choosing a theme
 
