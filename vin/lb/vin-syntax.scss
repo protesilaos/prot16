@@ -1,0 +1,143 @@
+/*
+    Name: Vin
+    Author: Protesilaos Stavrou (http://www.protesilaos.com)
+    Description: Tested with Rouge-enabled Jekyll sites
+    Theme URL: http://www.protesilaos.com/vin
+*/
+
+// Variables ----------------------------
+
+$dbg: #162212; // Dark background
+$dhl: #263222; // Dark highlight
+$dt2: #566252; // Dark bg text secondary
+$dt1: #869282; // Dark bg text primary
+
+$lbg: #D6E5C2; // Light background
+$lhl: #C6D5B2; // Light highlight
+$lt2: #768562; // Light bg text secondary
+$lt1: #465532; // Light bg text primary
+
+$red: #982B45; // Red
+$ora: #7D4A1D; // Orange
+$yel: #7D851D; // Yellow
+$gre: #568A2D; // Green
+
+$cya: #469272; // Cyan
+$blu: #564E8D; // Blue
+$vio: #7D5896; // Violet
+$mag: #944D7A; // Magenta
+
+// Base Defaults ------------------------
+// Just swap $l with $d in the following three lines to switch between dark/light
+
+$text1: $lt1;
+$text2: $lt2;
+$background: $lbg;
+
+// Colour order
+// No need to configure
+
+$primary1: $vio;
+$primary2: $gre;
+$primary3: $red;
+
+$secondary1: $mag;
+$secondary2: $cya;
+
+$tertiary1: $ora;
+$tertiary2: $blu;
+$tertiary3: $yel;
+
+// Syntax -------------------------------
+// Classes are prefixed with .highlight
+
+.highlight {
+  background: $background;
+  color: $text1;
+
+  .w {
+    color: $text1;
+  }
+
+  .c,
+  .cd,
+  .cm,
+  .c1,
+  .cs,
+  .o,
+  .ow,
+  .p,
+  .pi {
+    color: $text2;
+  }
+
+  .cp,
+  .nt,
+  .nn,
+  .nc,
+  .no {
+    color: $primary1;
+  }
+
+  .nv,
+  .na {
+    color: $primary2;
+  }
+
+  .gh {
+    color: $primary2;
+    font-weight: bold;
+  }
+
+  .m,
+  .mf,
+  .mh,
+  .mi,
+  .il,
+  .mo,
+  .mb,
+  .mx,
+  .ss,
+  .nb,
+  .gi,
+  .s,
+  .sb,
+  .sc,
+  .sd,
+  .s2,
+  .sh,
+  .sx,
+  .s1 {
+    color: $primary3;
+  }
+
+  .nf,
+  .sr {
+    color: $secondary1;
+  }
+
+  .si,
+  .se {
+    color: $secondary2;
+  }
+
+
+  .kc,
+  .kt,
+  .kd {
+    color: $tertiary1;
+  }
+
+  .k,
+  .kn,
+  .kp,
+  .kr,
+  .kv {
+    color: $tertiary2;
+  }
+
+  .err,
+  .gd {
+    color: $tertiary3;
+  }
+}
