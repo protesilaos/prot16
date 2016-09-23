@@ -1,13 +1,13 @@
 scheme: "Symbiosis"
 author: "Protesilaos Stavrou (http://www.protesilaos.com)"
-dbg: "212D2C" # Dark background
-dhl: "313D3C" # Dark highlight
+dbg: "111D1C" # Dark background
+dhl: "212D2C" # Dark highlight
 dt2: "616D6C" # Dark bg text secondary
-dt1: "919D9C" # Dark bg text primary
+dt1: "A1ADAC" # Dark bg text primary
 lbg: "FCFAF9" # Light background
 lhl: "ECEAE9" # Light highlight
-lt2: "9C9A99" # Light bg text secondary
-lt1: "5C5A59" # Light bg text primary
+lt2: "8C8A89" # Light bg text secondary
+lt1: "4C4A49" # Light bg text primary
 red: "B95846" # Red
 ora: "A87226" # Orange
 yel: "A89641" # Yellow

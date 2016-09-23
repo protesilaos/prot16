@@ -2,7 +2,9 @@
 
 ## Colour schemes and syntax themes
 
-This is the master repo of all the colour schemes I have developed. For the time being, you will find the following under each item's directory:
+This is the master repository of all the colour schemes I have developed. It does not include the Atom ports, as these have their own repo per theme.
+
+For the time being, you will find the following under each item's directory:
 
 - an SCSS stylesheet that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
