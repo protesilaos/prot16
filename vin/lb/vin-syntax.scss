@@ -7,25 +7,25 @@
 
 // Variables ----------------------------
 
-$dbg: #162212; // Dark background
-$dhl: #263222; // Dark highlight
-$dt2: #566252; // Dark bg text secondary
-$dt1: #869282; // Dark bg text primary
+$dbg: #101D04; // Dark background
+$dhl: #202D14; // Dark highlight
+$dt2: #606D54; // Dark bg text secondary
+$dt1: #B0BDA4; // Dark bg text primary
 
-$lbg: #D6E5C2; // Light background
-$lhl: #C6D5B2; // Light highlight
-$lt2: #768562; // Light bg text secondary
-$lt1: #465532; // Light bg text primary
+$lbg: #EFFDD4; // Light background
+$lhl: #DFEDC4; // Light highlight
+$lt2: #7F8D64; // Light bg text secondary
+$lt1: #3F4D24; // Light bg text primary
 
-$red: #982B45; // Red
-$ora: #7D4A1D; // Orange
+$red: #A3415C; // Red
+$ora: #8D522D; // Orange
 $yel: #7D851D; // Yellow
-$gre: #568A2D; // Green
+$gre: #487D14; // Green
 
-$cya: #469272; // Cyan
-$blu: #564E8D; // Blue
-$vio: #7D5896; // Violet
-$mag: #944D7A; // Magenta
+$cya: #13865A; // Cyan
+$blu: #5A5DA8; // Blue
+$vio: #8858A5; // Violet
+$mag: #AC587A; // Magenta
 
 // Base Defaults ------------------------
 // Just swap $l with $d in the following three lines to switch between dark/light
@@ -37,15 +37,15 @@ $background: $lbg;
 // Colour order
 // No need to configure
 
-$primary1: $vio;
-$primary2: $gre;
+$primary1: $gre;
+$primary2: $vio;
 $primary3: $red;
 
 $secondary1: $mag;
 $secondary2: $cya;
 
-$tertiary1: $ora;
-$tertiary2: $blu;
+$tertiary1: $blu;
+$tertiary2: $ora;
 $tertiary3: $yel;
 
 // Syntax -------------------------------
