@@ -1,4 +1,4 @@
-# Neptune theme (dark variant)
+# DEPRECATED Neptune theme (dark variant)
 
 A medium contrast theme.
 

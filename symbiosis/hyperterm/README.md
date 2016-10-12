@@ -1,4 +1,4 @@
-# Symbiosis theme (dark variant)
+# DEPRECATED Symbiosis theme (dark variant)
 
 *Symbiosis* is a medium-to-high contrast theme, loosely inspired by the Metroid video game series.
 

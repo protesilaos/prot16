@@ -1,4 +1,4 @@
-# Nefelio theme (dark variant)
+# DEPRECATED Nefelio theme (dark variant)
 
 High-contrast with vivid colours. Inspired by nebulae.
 

@@ -1,4 +1,4 @@
-# Playa theme (light variant)
+# DEPRECATED Playa theme (light variant)
 
 *Playa* is a low-contrast theme that conveys a feeling of summer and seaside.
 

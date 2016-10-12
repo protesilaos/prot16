@@ -1,4 +1,4 @@
-# Gaia theme (dark variant)
+# DEPRECATED Gaia theme (dark variant)
 
 *Gaia* is a low-to-medium contrast theme that delivers an earthly feel.
 

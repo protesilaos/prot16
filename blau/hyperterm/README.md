@@ -1,4 +1,4 @@
-# Blau theme (light variant)
+# DEPRECATED Blau theme (light variant)
 
 *Blau* is a medium contrast colour scheme inspired by FC Barcelona.
 

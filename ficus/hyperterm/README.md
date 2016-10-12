@@ -1,4 +1,4 @@
-# Ficus theme (light variant)
+# DEPRECATED Ficus theme (light variant)
 
 *Ficus* is a medium-to-high contrast colour scheme inspired by figs.
 

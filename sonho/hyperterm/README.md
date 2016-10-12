@@ -1,4 +1,4 @@
-# Sonho theme (dark variant)
+# DEPRECATED Sonho theme (dark variant)
 
 A high contrast theme.
 

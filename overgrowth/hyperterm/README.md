@@ -1,4 +1,4 @@
-# Overgrowth theme (dark variant)
+# DEPRECATED Overgrowth theme (dark variant)
 
 Medium-to-high contrast theme.
 

@@ -2,38 +2,23 @@
 
 ## Colour schemes and syntax themes
 
-This is the master repository of all the colour schemes I have developed. It does not include the Atom ports, as these have their own repo per theme.
-
-For the time being, you will find the following under each item's directory:
+This is the master repository of all the colour schemes I have developed. For the time being, you will find the following under each item's directory:
 
 - an SCSS stylesheet that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
-- a package with the HyperTerm port (where applicable);
+- ~~a package with the HyperTerm port (where applicable);~~ **DEPRECATED** *as that project has evolved and I no longer use it*;
 - a short description followed by a link to each theme's project page on my website.
+
+This repository **does not include the Atom editor themes**, as these have their own GitHub repos per item (one for the light and another for the dark version).
 
 For an up-to-date list of the packages I have released, see:
 
 - **My website.** [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes).
 - **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos) (each Atom theme has its own GitHub repo).
-- **npm profile.** [https://www.npmjs.com/~protesilaos](https://www.npmjs.com/~protesilaos).
-
-<!-- ## (NEW) Base16-builder
-
-All of the Prot16 schemes have been submitted to the new [Base16-builder](https://github.com/base16-builder/base16-builder). This is a neat npm tool designed to produce themes for a whole range of applications (including terminal emulators). I use it to create ports for *Terminator*, *Vim*, and *Mutt*.
-
-Here is the command to get the dark variant of `bionis` for Terminator:
-
-```shell
-base16-builder -s bionis -t terminator -b dark
-```
-
-Visit the Base16-builder repository for more details. [Contact me](http://www.protesilaos.com/contact/) if you need any help.
-
-*The files are also kept herein under the `all-ports/base16-builder` directory*.  -->
 
 ## Choosing a theme
 
-This is up to personal preference. I like them all. That is why I publish them. At any rate, here is a short list to help you get started:
+This is up to personal preference. I like them all. That is why I publish them. At any rate, here is a short list with some suggestions to help you get started:
 
 - low contrast
   - Cyprium

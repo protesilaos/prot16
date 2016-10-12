@@ -1,4 +1,4 @@
-# Ocarina theme (light variant)
+# DEPRECATED Ocarina theme (light variant)
 
 *Ocarina* is a medium contrast colour scheme loosely inspired by *The Legend of Zelda* video game series. It has been created as a tribute to Zelda's 30th anniversary.
 

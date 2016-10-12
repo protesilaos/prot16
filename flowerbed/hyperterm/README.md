@@ -1,4 +1,4 @@
-# Flowerbed theme (dark variant)
+# DEPRECATED Flowerbed theme (dark variant)
 
 *Flowerbed* is a medium-to-high contrast theme with vivid colours.
 

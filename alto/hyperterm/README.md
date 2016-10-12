@@ -1,4 +1,4 @@
-# Alto theme (dark variant)
+# DEPRECATED Alto theme (dark variant)
 
 *Alto* is a medium-to-high contrast colour scheme. It has been developed with the intention of appearing generic though not without a personality of its own.
 

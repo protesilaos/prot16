@@ -1,4 +1,4 @@
-# Orionis theme (dark variant)
+# DEPRECATED Orionis theme (dark variant)
 
 *Orionis* is a low-to-medium contrast colour scheme. Its most prevalent colours are variants of magenta, violet, blue, cyan, and green.
 
