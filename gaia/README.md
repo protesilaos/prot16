@@ -6,5 +6,5 @@ Project page: [http://www.protesilaos.com/gaia](http://www.protesilaos.com/gaia)
 
 ## Atom syntax themes
 
-Gaia light: [https://atom.io/themes/gaia-syntax](https://atom.io/themes/gaia-syntax)
-Gaia dark: [https://atom.io/themes/gaia-dark-syntax](https://atom.io/themes/gaia-dark-syntax)
+- Gaia light: [https://atom.io/themes/gaia-syntax](https://atom.io/themes/gaia-syntax)
+- Gaia dark: [https://atom.io/themes/gaia-dark-syntax](https://atom.io/themes/gaia-dark-syntax)
