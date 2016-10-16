@@ -6,5 +6,5 @@ Project page: [http://www.protesilaos.com/ficus](http://www.protesilaos.com/ficu
 
 ## Atom syntax themes
 
-Ficus light: [https://atom.io/themes/ficus-syntax](https://atom.io/themes/ficus-syntax)
-Ficus dark: [https://atom.io/themes/ficus-dark-syntax](https://atom.io/themes/ficus-dark-syntax)
+- Ficus light: [https://atom.io/themes/ficus-syntax](https://atom.io/themes/ficus-syntax)
+- Ficus dark: [https://atom.io/themes/ficus-dark-syntax](https://atom.io/themes/ficus-dark-syntax)
