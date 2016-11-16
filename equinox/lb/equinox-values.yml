@@ -1,0 +1,18 @@
+scheme: "Equinox"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "1D1921" # Dark background
+dhl: "2D2931" # Dark highlight
+dt2: "7D7981" # Dark bg text secondary
+dt1: "ADA9B1" # Dark bg text primary
+lbg: "FCFAFE" # Light background
+lhl: "ECEAEE" # Light highlight
+lt2: "7C7A7E" # Light bg text secondary
+lt1: "3C3A3E" # Light bg text primary
+red: "9A334F" # Red
+ora: "936A48" # Orange
+yel: "958336" # Yellow
+gre: "138E6C" # Green
+cya: "369AA6" # Cyan
+blu: "536CB2" # Blue
+vio: "8955BA" # Violet
+mag: "CC5D9A" # Magenta
