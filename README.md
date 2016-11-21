@@ -18,16 +18,16 @@ For an up-to-date list of the packages I have released, see:
 
 ## Choosing a theme
 
-This is up to personal preference. I like them all. That is why I publish them. At any rate, here is a short list with some suggestions to help you get started:
+This is up to personal preference. I like them all. That is why I publish them. That granted, here is a short list with some suggestions to help you get started:
 
 - low contrast
-  - Cyprium
+  - Gaia
   - Playa
 - medium contrast
   - Flowerbed
-  - Symbiosis
+  - Neptune
 - high contrast
-  - Bionis
+  - Equinox
   - Ficus
 
 ## Acknowledgements
