@@ -1,0 +1,18 @@
+scheme: "Archaic"
+author: "Protesilaos Stavrou (http://www.protesilaos.com)"
+dbg: "2E2926" # Dark background
+dhl: "3E3936" # Dark highlight
+dt2: "7E7976" # Dark bg text secondary
+dt1: "AEA9A6" # Dark bg text primary
+lbg: "FEF1D8" # Light background
+lhl: "EEE1C8" # Light highlight
+lt2: "9E9178" # Light bg text secondary
+lt1: "5E5138" # Light bg text primary
+red: "AB5637" # Red
+ora: "C76D26" # Orange
+yel: "A97906" # Yellow
+gre: "688A38" # Green
+cya: "368876" # Cyan
+blu: "4884AD" # Blue
+vio: "8A6BB5" # Violet
+mag: "A25763" # Magenta

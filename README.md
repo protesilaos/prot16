@@ -28,7 +28,7 @@ This is up to personal preference. I like them all. That is why I publish them. 
   - Neptune
 - high contrast
   - Equinox
-  - Ficus
+  - Archaic
 
 ## Acknowledgements
 
