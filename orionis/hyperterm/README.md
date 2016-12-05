@@ -6,6 +6,6 @@
 
 Install it by adding `hyperterm-orionis-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/orionis](http://www.protesilaos.com/orionis)
+Project page: [https://protesilaos.com/orionis](https://protesilaos.com/orionis)
 
 *Orionis* was originally developed for the Atom text editor. This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.

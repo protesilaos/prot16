@@ -6,6 +6,6 @@
 
 Install it by adding `hyperterm-ficus-light` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/ficus](http://www.protesilaos.com/ficus)
+Project page: [https://protesilaos.com/ficus](https://protesilaos.com/ficus)
 
 This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.

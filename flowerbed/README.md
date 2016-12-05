@@ -4,7 +4,7 @@ Medium-to-high contrast with vivid colours.
 
 *Flowerbed* comes in light and dark variants.
 
-Project page: [http://www.protesilaos.com/flowerbed](http://www.protesilaos.com/flowerbed)
+Project page: [https://protesilaos.com/flowerbed](https://protesilaos.com/flowerbed)
 
 Light variant: [https://atom.io/themes/flowerbed-syntax](https://atom.io/themes/flowerbed-syntax)
 

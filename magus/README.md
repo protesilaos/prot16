@@ -2,7 +2,7 @@
 
 *Magus* is a medium contrast theme. It was originally developed as an alternative style for the redesign of my website, with the intention to enhance legibility while using a pleasant, 16-colour palette.
 
-Project page: [http://www.protesilaos.com/magus](http://www.protesilaos.com/magus)
+Project page: [https://protesilaos.com/magus](https://protesilaos.com/magus)
 
 Atom text editor light version: [https://atom.io/themes/magus-syntax](https://atom.io/themes/magus-syntax)
 

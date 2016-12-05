@@ -2,7 +2,7 @@
 
 Medium-to-high contrast theme. Its overall presentation hints towards the blue side of spectrum. The most prevalent colours are variants of blue, purple, teal, and cyan complemented by warmer tones of light brown and magenta.
 
-Project page: [http://www.protesilaos.com/equinox](http://www.protesilaos.com/equinox)
+Project page: [https://protesilaos.com/equinox](https://protesilaos.com/equinox)
 
 ## Atom syntax themes
 

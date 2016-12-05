@@ -6,6 +6,6 @@ A high contrast theme.
 
 Install it by adding `hyperterm-sonho-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/sonho](http://www.protesilaos.com/sonho)
+Project page: [https://protesilaos.com/sonho](https://protesilaos.com/sonho)
 
 *Sonho* was originally developed for the Atom text editor. This package is a provisional port to [HyperTerm](https://hyperterm.org/).

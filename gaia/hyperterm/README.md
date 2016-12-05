@@ -6,6 +6,6 @@
 
 Install it by adding `hyperterm-gaia-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/gaia](http://www.protesilaos.com/gaia)
+Project page: [https://protesilaos.com/gaia](https://protesilaos.com/gaia)
 
 *Gaia* was originally developed for the Atom text editor. This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.

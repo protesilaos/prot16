@@ -6,6 +6,6 @@ Medium-to-high contrast theme.
 
 Install it by adding `hyperterm-overgrowth-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/overgrowth](http://www.protesilaos.com/overgrowth)
+Project page: [https://protesilaos.com/overgrowth](https://protesilaos.com/overgrowth)
 
 *Overgrowth* was originally developed for the Atom text editor. This package is a provisional port to [HyperTerm](https://hyperterm.org/).

@@ -6,6 +6,6 @@
 
 Install it by adding `hyperterm-alto-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/alto](http://www.protesilaos.com/alto)
+Project page: [https://protesilaos.com/alto](https://protesilaos.com/alto)
 
 *Alto* was originally developed for the Atom text editor. This package is a provisional port to [HyperTerm](https://hyperterm.org/).

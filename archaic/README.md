@@ -2,7 +2,7 @@
 
 Medium-to-high contrast syntax theme that draws inspiration from ancient wall paintings. Its palette consists of colours with an 'earthly' feel. The most prevalent accent values are variants of deep orange, amber, orange, green, and dark magenta.
 
-Project page: [http://www.protesilaos.com/archaic](http://www.protesilaos.com/archaic)
+Project page: [https://protesilaos.com/archaic](https://protesilaos.com/archaic)
 
 ## Atom syntax themes
 

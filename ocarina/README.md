@@ -6,4 +6,4 @@
 
 The theme's most prevalent colours are variations of green, cyan, orange, yellow, and violet.
 
-Project page: [http://www.protesilaos.com/ocarina](http://www.protesilaos.com/ocarina)
+Project page: [https://protesilaos.com/ocarina](https://protesilaos.com/ocarina)

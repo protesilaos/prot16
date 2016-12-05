@@ -13,7 +13,7 @@ This repository **does not include the Atom editor themes**, as these have their
 
 For an up-to-date list of the packages I have released, see:
 
-- **My website.** [http://www.protesilaos.com/schemes](http://www.protesilaos.com/schemes).
+- **My website.** [https://protesilaos.com/schemes](https://protesilaos.com/schemes).
 - **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos).
 
 ## Choosing a theme

@@ -2,4 +2,4 @@
 
 A medium contrast theme. *Neptune* comes in light and dark variants.
 
-Project page: [http://www.protesilaos.com/neptune](http://www.protesilaos.com/neptune)
+Project page: [https://protesilaos.com/neptune](https://protesilaos.com/neptune)

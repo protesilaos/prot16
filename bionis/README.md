@@ -2,7 +2,7 @@
 
 *Bionis* is a high contrast theme. It was originally developed for the redesign of my website, with the intention to enhance legibility while using a pleasant, 16-colour palette.
 
-Project page: [http://www.protesilaos.com/bionis](http://www.protesilaos.com/bionis)
+Project page: [https://protesilaos.com/bionis](https://protesilaos.com/bionis)
 
 Atom text editor light version: [https://atom.io/themes/bionis-syntax](https://atom.io/themes/bionis-syntax)
 

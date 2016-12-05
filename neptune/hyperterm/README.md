@@ -6,6 +6,6 @@ A medium contrast theme.
 
 Install it by adding `hyperterm-neptune-dark` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/neptune](http://www.protesilaos.com/neptune)
+Project page: [https://protesilaos.com/neptune](https://protesilaos.com/neptune)
 
 *Neptune* was originally developed for the Atom text editor. This package is a provisional port to [HyperTerm](https://hyperterm.org/).

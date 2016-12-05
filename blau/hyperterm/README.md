@@ -6,6 +6,6 @@
 
 Install it by adding `hyperterm-blau-light` to the plugins list in `~/.hyperterm.js`.
 
-Project page: [http://www.protesilaos.com/blau](http://www.protesilaos.com/blau)
+Project page: [https://protesilaos.com/blau](https://protesilaos.com/blau)
 
 *Blau* was originally developed for the Atom text editor. This package is a preliminary port to [HyperTerm](https://hyperterm.org/). As of now, it does not use the theme's entire palette.
