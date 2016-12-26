@@ -6,8 +6,8 @@ dt2: "857A87" # Dark bg text secondary
 dt1: "B5AAB7" # Dark bg text primary
 lbg: "FBF8FD" # Light background
 lhl: "EBE8ED" # Light highlight
-lt2: "8B888D" # Light bg text secondary
-lt1: "3B383D" # Light bg text primary
+lt2: "9B989D" # Light bg text secondary
+lt1: "4B484D" # Light bg text primary
 red: "C25A5B" # Red
 ora: "CB6832" # Orange
 yel: "BA8A00" # Yellow
