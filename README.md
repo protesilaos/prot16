@@ -6,15 +6,15 @@ This is the master repository of all the colour schemes I have developed. For th
 
 - an SCSS stylesheet that can be used in Jekyll websites;
 - a YAML file with the colour values in HEX format;
-- ~~a package with the HyperTerm port (where applicable);~~ **DEPRECATED**;
 - a short description followed by a link to each theme's project page on my website.
+- ~~a package with the HyperTerm port (where applicable);~~ **DEPRECATED**;
 
 This repository **does not include the Atom editor themes**, as these have their own GitHub repos per item (one for the light and another for the dark version).
 
 For an up-to-date list of the packages I have released, see:
 
 - **My website.** [https://protesilaos.com/schemes](https://protesilaos.com/schemes).
-- **Atom profile.** [https://atom.io/users/protesilaos](https://atom.io/users/protesilaos).
+- **Atom profile.** [https://atom.io/users/protesilaos/themes](https://atom.io/users/protesilaos/themes).
 
 ## Choosing a theme
 
