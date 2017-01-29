@@ -1,5 +1,10 @@
-# Caprice syntax theme
+# Caprice theme
 
-Medium-to-high contrast theme. Its most prevalent colours are variants of violet, green, blue, cyan, and orange (brown).
+Medium-to-high contrast theme hinting towards the blue-purple side of the spectrum.
 
 Project page: [https://protesilaos.com/caprice](https://protesilaos.com/caprice)
+
+## Atom syntax themes
+
+- Caprice light: [https://atom.io/themes/caprice-syntax](https://atom.io/themes/caprice-syntax)
+- Caprice dark: [https://atom.io/themes/caprice-dark-syntax](https://atom.io/themes/caprice-dark-syntax)

@@ -1,5 +1,10 @@
 # Overgrowth theme
 
-Medium-to-high contrast theme. The most prevalent colours are variants of green, orange, red, yellow, and magenta.
+Medium-to-high contrast theme with a tropical, vibrant feel.
 
 Project page: [https://protesilaos.com/overgrowth](https://protesilaos.com/overgrowth)
+
+## Atom syntax themes
+
+- Overgrowth light: [https://atom.io/themes/overgrowth-syntax](https://atom.io/themes/overgrowth-syntax)
+- Overgrowth dark: [https://atom.io/themes/overgrowth-dark-syntax](https://atom.io/themes/overgrowth-dark-syntax)

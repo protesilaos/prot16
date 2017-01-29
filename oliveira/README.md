@@ -1,5 +1,10 @@
-# Oliveira syntax theme
+# Oliveira theme
 
-Medium contrast theme. The most prevalent colours are variants of green, violet, blue, cyan, and magenta.
+Medium contrast theme inspired by olives and olive trees.
 
 Project page: [https://protesilaos.com/oliveira](https://protesilaos.com/oliveira)
+
+## Atom syntax themes
+
+- Oliveira light: [https://atom.io/themes/oliveira-syntax](https://atom.io/themes/oliveira-syntax)
+- Oliveira dark: [https://atom.io/themes/oliveira-dark-syntax](https://atom.io/themes/oliveira-dark-syntax)
