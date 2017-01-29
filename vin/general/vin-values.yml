@@ -1,0 +1,18 @@
+scheme: "Vin"
+author: "Protesilaos Stavrou (https://protesilaos.com)"
+dbg: "101D04" # Dark background
+dhl: "202D14" # Dark highlight
+dt2: "606D54" # Dark bg text secondary
+dt1: "B0BDA4" # Dark bg text primary
+lbg: "EFFDD4" # Light background
+lhl: "DFEDC4" # Light highlight
+lt2: "7F8D64" # Light bg text secondary
+lt1: "3F4D24" # Light bg text primary
+red: "A3415C" # Red
+ora: "8D522D" # Orange
+yel: "7D851D" # Yellow
+gre: "487D14" # Green
+cya: "13865A" # Cyan
+blu: "5A5DA8" # Blue
+vio: "8858A5" # Violet
+mag: "AC587A" # Magenta

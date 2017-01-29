@@ -1,6 +1,6 @@
 # Equinox theme
 
-Medium-to-high contrast theme. Its overall presentation hints towards the blue side of spectrum. The most prevalent colours are variants of blue, purple, teal, and cyan complemented by warmer tones of light brown and magenta.
+Medium-to-high contrast theme. Its overall presentation hints towards the blue side of spectrum.
 
 Project page: [https://protesilaos.com/equinox](https://protesilaos.com/equinox)
 

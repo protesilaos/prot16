@@ -1,6 +1,6 @@
 # Gaia theme
 
-A low-to-medium contrast theme that delivers an earthly feel. The most prevalent colours are brown, orange, green, cyan, and yellow.
+A low-to-medium contrast theme that delivers an earthly feel.
 
 Project page: [https://protesilaos.com/gaia](https://protesilaos.com/gaia)
 
