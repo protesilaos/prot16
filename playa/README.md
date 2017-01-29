@@ -1,5 +1,10 @@
-# Playa website and syntax theme
+# Playa theme
 
-A low-contrast theme that conveys a feeling of summer and seaside. *Playa* comes in light and dark variants. The most prevalent colours are blue, green, cyan, orange, and yellow.
+A low-contrast theme that conveys a feeling of summer and seaside.
 
 Project page: [https://protesilaos.com/playa](https://protesilaos.com/playa)
+
+## Atom syntax themes
+
+- Playa light: [https://atom.io/themes/playa-syntax](https://atom.io/themes/playa-syntax)
+- Playa dark: [https://atom.io/themes/playa-dark-syntax](https://atom.io/themes/playa-dark-syntax)

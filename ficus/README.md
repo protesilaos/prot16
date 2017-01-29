@@ -1,6 +1,6 @@
 # Ficus theme
 
-A high contrast theme. The most prevalent colours are variants of magenta, violet, green, yellow, and cyan.
+A high contrast theme inspired by figs.
 
 Project page: [https://protesilaos.com/ficus](https://protesilaos.com/ficus)
 

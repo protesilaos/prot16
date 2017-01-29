@@ -1,9 +1,12 @@
-# Ocarina syntax theme
+# Ocarina theme
 
 > It's dangerous to go alone! Take this.
 
 *Ocarina* is a medium contrast colour scheme loosely inspired by *The Legend of Zelda* video game series. It has been created as a tribute to Zelda's 30th anniversary.
 
-The theme's most prevalent colours are variations of green, cyan, orange, yellow, and violet.
-
 Project page: [https://protesilaos.com/ocarina](https://protesilaos.com/ocarina)
+
+## Atom syntax themes
+
+- Ocarina light: [https://atom.io/themes/ocarina-syntax](https://atom.io/themes/ocarina-syntax)
+- Ocarina dark: [https://atom.io/themes/ocarina-dark-syntax](https://atom.io/themes/ocarina-dark-syntax)

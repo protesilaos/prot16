@@ -1,17 +1,10 @@
-# Flowerbed syntax theme
+# Flowerbed theme
 
-Medium-to-high contrast with vivid colours.
-
-*Flowerbed* comes in light and dark variants.
+Medium-to-high contrast with vivid colours. Inspired by flowers.
 
 Project page: [https://protesilaos.com/flowerbed](https://protesilaos.com/flowerbed)
 
-Light variant: [https://atom.io/themes/flowerbed-syntax](https://atom.io/themes/flowerbed-syntax)
+## Atom syntax themes
 
-Dark variant: [https://atom.io/themes/flowerbed-dark-syntax](https://atom.io/themes/flowerbed-dark-syntax)
-
-## Screenshots
-
-![flowerbed dark screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_dark_sample.png)
-
-![flowerbed light screenshot](https://raw.githubusercontent.com/protesilaos/prot16/master/flowerbed/img/flowerbed_light_sample.png)
+- Flowerbed light: [https://atom.io/themes/flowerbed-syntax](https://atom.io/themes/flowerbed-syntax)
+- Flowerbed dark: [https://atom.io/themes/flowerbed-dark-syntax](https://atom.io/themes/flowerbed-dark-syntax)
