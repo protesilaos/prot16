@@ -145,7 +145,7 @@ FILE_FOOTER = '</dict>
 
 scheme_names = %w(alto archaic bionis blau caprice cyprium equinox ficus flowerbed gaia magus nefelio neptune ocarina oliveira orionis overgrowth playa seabed sonho symbiosis vin)
 scheme_names.each do |scheme_name|
-  input_file = "#{scheme_name}/lb/#{scheme_name}-values.yml"
+  input_file = "#{scheme_name}/general/#{scheme_name}-values.yml"
   scheme = YAML.load_file input_file
   scheme.keys.each { |k| scheme[k.delete("\$")] = scheme[k]}
   profile_name = scheme['scheme']
