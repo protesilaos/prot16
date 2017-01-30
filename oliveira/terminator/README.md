@@ -1,6 +1,6 @@
 # Terminator terminal emulator
 
-**This is experimental. Not all use cases have been checked. Colour mapping may require further refinements. Also note that I have only tested this on my Arch Linux and Linux Mint machines.**
+**This is experimental. Not all use cases have been checked. Colour mapping may require further refinements. Also note that I have only tested this on my Arch Linux and Linux Mint (17.3, 18.0, 18.1) machines.**
 
 To change your config file in Terminator, edit `~/.config/terminator`.
 
