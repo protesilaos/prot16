@@ -11,7 +11,10 @@ This is the master repository of all the items I have developed. Each directory 
   - a YAML file with the colour values in HEX format;
 - under `terminator`:
   - plain text files which contain the necessary configurations for modifying the colours of the terminal;
-  - a README with further instructions.
+  - a README with further instructions;
+- under `iterm2`:
+  - files for both the light and dark instantiation of each item;
+  - a README with a short proviso and attribution to the author of this work.
 
 *TODO: Include GNOME terminal files.*
 
@@ -46,7 +49,7 @@ Are you using any of these colour schemes with a terminal emulator or some other
 
 ### Thanks to
 
-- [metalelf0](https://github.com/metalelf0) for the iterm2 port of `ficus-light`
+- [metalelf0](https://github.com/metalelf0) for all the iterm2 ports, plus the `prot16_to_iterm2.rb` script.
 
 ## Acknowledgements
 
