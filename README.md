@@ -2,7 +2,7 @@
 
 ## Colour schemes and syntax themes
 
-*Prot16* is a collection of 16-colour-palette schemes. These consist of 8 base values, divided by two groups into 'light' and 'dark', plus 8 accent values which remain constant across light and dark instantiations. The accents are variants of red, orange, yellow, green, cyan, blue, violet, and magenta.
+*Prot16* is a collection of 16-colour-palette schemes. These consist of 8 base values, divided by two groups into 'light' and 'dark', plus 8 accent values which remain constant across light and dark instantiations. The idea is to easily transition from light to dark while retaining the same feel. The accents are variants of red, orange, yellow, green, cyan, blue, violet, and magenta.
 
 This is the master repository of all the items I have developed. Each directory covers a specific colour scheme. It contains files related to the various ports that are available. For the time being, you will find the following under each item's directory:
 
