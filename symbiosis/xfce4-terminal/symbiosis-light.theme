@@ -1,0 +1,11 @@
+[Scheme]
+Name=Symbiosis light
+ColorForeground=#4C4A49
+ColorBackground=#FCFAF9
+ColorCursor=#4C4A49
+ColorBold=#4C4A49
+ColorPalette=#212D2C;#B95846;#669824;#A89641;#3D8CAD;#BB7EAA;#48A597;#ECEAE9;#111D1C;#A87226;#4C4A49;#616D6C;#8C8A89;#9166AB;#A1ADAC;#FCFAF9
+TabActivityColor=#669824
+ColorSelectionBackground=#ECEAE9
+ColorSelection=#4C4A49
+

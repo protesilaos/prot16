@@ -1,0 +1,11 @@
+[Scheme]
+Name=Flowerbed dark
+ColorForeground=#A3B9C9
+ColorBackground=#233949
+ColorCursor=#A3B9C9
+ColorBold=#A3B9C9
+ColorPalette=#334959;#D86A87;#5CBC7D;#CD9A8A;#4AA7D2;#BC74AF;#1CABA1;#DCE3E2;#233949;#D89A47;#5C6362;#738999;#8C9392;#7988CA;#A3B9C9;#ECF3F2
+TabActivityColor=#5CBC7D
+ColorSelectionBackground=#334959
+ColorSelection=#A3B9C9
+

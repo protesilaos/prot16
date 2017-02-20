@@ -1,0 +1,11 @@
+[Scheme]
+Name=Neptune dark
+ColorForeground=#A8ACB6
+ColorBackground=#282C36
+ColorCursor=#A8ACB6
+ColorBold=#A8ACB6
+ColorPalette=#383C46;#A97552;#48B788;#B9A552;#3C8CBB;#C789A6;#55AFAF;#E0E1E8;#282C36;#C78956;#404148;#686C76;#808188;#7A7DCA;#A8ACB6;#F0F1F8
+TabActivityColor=#48B788
+ColorSelectionBackground=#383C46
+ColorSelection=#A8ACB6
+

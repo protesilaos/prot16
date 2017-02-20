@@ -1,0 +1,11 @@
+[Scheme]
+Name=Alto dark
+ColorForeground=#98ADAA
+ColorBackground=#182D2A
+ColorCursor=#98ADAA
+ColorBold=#98ADAA
+ColorPalette=#283D3A;#C6414D;#679945;#C6A13D;#378BBD;#C97885;#57AB8B;#EAEADC;#182D2A;#C9753D;#5A5A4C;#687D7A;#8A8A7C;#9A7BC8;#98ADAA;#FAFAEC
+TabActivityColor=#679945
+ColorSelectionBackground=#283D3A
+ColorSelection=#98ADAA
+

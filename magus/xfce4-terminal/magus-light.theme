@@ -1,0 +1,11 @@
+[Scheme]
+Name=Magus light
+ColorForeground=#625D56
+ColorBackground=#F2EDE6
+ColorCursor=#625D56
+ColorBold=#625D56
+ColorPalette=#423A39;#BD5956;#8B972A;#C1A222;#5C8CAA;#B881A8;#65AB85;#E2DDD6;#322A29;#BB7321;#625D56;#726A69;#A29D96;#7A7DA7;#A29A99;#F2EDE6
+TabActivityColor=#8B972A
+ColorSelectionBackground=#E2DDD6
+ColorSelection=#625D56
+

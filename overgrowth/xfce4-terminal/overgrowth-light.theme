@@ -1,0 +1,11 @@
+[Scheme]
+Name=Overgrowth light
+ColorForeground=#767562
+ColorBackground=#E6E5D2
+ColorCursor=#767562
+ColorBold=#767562
+ColorPalette=#334F44;#CA6A4A;#4BA212;#A8950D;#359FCA;#BB6E8A;#15B59B;#D6D5C2;#233F34;#BB7628;#767562;#637F74;#A6A592;#8A6EBB;#93AFA4;#E6E5D2
+TabActivityColor=#4BA212
+ColorSelectionBackground=#D6D5C2
+ColorSelection=#767562
+

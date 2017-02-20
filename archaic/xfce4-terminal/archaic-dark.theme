@@ -1,0 +1,11 @@
+[Scheme]
+Name=Archaic dark
+ColorForeground=#AEA9A6
+ColorBackground=#2E2926
+ColorCursor=#AEA9A6
+ColorBold=#AEA9A6
+ColorPalette=#3E3936;#AB5637;#688A38;#A97906;#4884AD;#A25763;#368876;#EEE1C8;#2E2926;#C76D26;#5E5138;#7E7976;#9E9178;#8A6BB5;#AEA9A6;#FEF1D8
+TabActivityColor=#688A38
+ColorSelectionBackground=#3E3936
+ColorSelection=#AEA9A6
+

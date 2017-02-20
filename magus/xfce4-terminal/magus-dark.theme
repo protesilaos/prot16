@@ -1,0 +1,11 @@
+[Scheme]
+Name=Magus dark
+ColorForeground=#A29A99
+ColorBackground=#322A29
+ColorCursor=#A29A99
+ColorBold=#A29A99
+ColorPalette=#423A39;#BD5956;#8B972A;#C1A222;#5C8CAA;#B881A8;#65AB85;#E2DDD6;#322A29;#BB7321;#625D56;#726A69;#A29D96;#7A7DA7;#A29A99;#F2EDE6
+TabActivityColor=#8B972A
+ColorSelectionBackground=#423A39
+ColorSelection=#A29A99
+

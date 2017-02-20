@@ -1,0 +1,11 @@
+[Scheme]
+Name=Nefelio light
+ColorForeground=#6A6F72
+ColorBackground=#EAEFF2
+ColorCursor=#6A6F72
+ColorBold=#6A6F72
+ColorPalette=#383336;#BA3D5A;#1CB57A;#CA9E5D;#3F8EDA;#C34D95;#34B7BD;#DADFE2;#282326;#CA6F5F;#6A6F72;#686366;#9A9FA2;#956CDA;#989396;#EAEFF2
+TabActivityColor=#1CB57A
+ColorSelectionBackground=#DADFE2
+ColorSelection=#6A6F72
+

@@ -1,0 +1,11 @@
+[Scheme]
+Name=Bionis dark
+ColorForeground=#B5AAB7
+ColorBackground=#251A27
+ColorCursor=#B5AAB7
+ColorBold=#B5AAB7
+ColorPalette=#352A37;#C25A5B;#4DA35C;#BA8A00;#5A7ACD;#C25783;#439B9B;#EBE8ED;#251A27;#CB6832;#4B484D;#857A87;#9B989D;#AA6BC5;#B5AAB7;#FBF8FD
+TabActivityColor=#4DA35C
+ColorSelectionBackground=#352A37
+ColorSelection=#B5AAB7
+

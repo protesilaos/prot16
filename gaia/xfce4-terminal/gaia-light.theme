@@ -1,0 +1,11 @@
+[Scheme]
+Name=Gaia light
+ColorForeground=#6B6D5F
+ColorBackground=#EBEDDF
+ColorCursor=#6B6D5F
+ColorBold=#6B6D5F
+ColorPalette=#3D3E3F;#9D6936;#8B9C3A;#BDAA4A;#6C9CBA;#BD9198;#85AF85;#DBDDCF;#2D2E2F;#B38121;#6B6D5F;#7D7E7F;#9B9D8F;#8A8DB7;#ADAEAF;#EBEDDF
+TabActivityColor=#8B9C3A
+ColorSelectionBackground=#DBDDCF
+ColorSelection=#6B6D5F
+

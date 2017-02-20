@@ -1,0 +1,11 @@
+[Scheme]
+Name=Ocarina dark
+ColorForeground=#919C9D
+ColorBackground=#212C2D
+ColorCursor=#919C9D
+ColorBold=#919C9D
+ColorPalette=#313C3D;#BA6F5B;#3D9D54;#93A34A;#2AA2A5;#A77B9B;#48A99B;#DBDBD7;#212C2D;#A2853A;#6B6B67;#616C6D;#9B9B97;#7A99BA;#919C9D;#EBEBE7
+TabActivityColor=#3D9D54
+ColorSelectionBackground=#313C3D
+ColorSelection=#919C9D
+

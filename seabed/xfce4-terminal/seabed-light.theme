@@ -1,0 +1,11 @@
+[Scheme]
+Name=Seabed light
+ColorForeground=#96ADB8
+ColorBackground=#162D38
+ColorCursor=#96ADB8
+ColorBold=#96ADB8
+ColorPalette=#161D28;#78456B;#2D886C;#6A865A;#3A6A8D;#846B85;#35838C;#263D48;#060D18;#6A867A;#96ADB8;#666D78;#667D88;#4D5B94;#969DA8;#162D38
+TabActivityColor=#2D886C
+ColorSelectionBackground=#263D48
+ColorSelection=#96ADB8
+

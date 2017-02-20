@@ -1,0 +1,11 @@
+[Scheme]
+Name=Sonho light
+ColorForeground=#5F5052
+ColorBackground=#FFF0F2
+ColorCursor=#5F5052
+ColorBold=#5F5052
+ColorPalette=#5A4648;#CD4679;#11BF8C;#D9A652;#479CB5;#DD619F;#5FB8B4;#EFE0E2;#4A3638;#D9766D;#5F5052;#8A7678;#8F8082;#A77CCF;#BAA6A8;#FFF0F2
+TabActivityColor=#11BF8C
+ColorSelectionBackground=#EFE0E2
+ColorSelection=#5F5052
+

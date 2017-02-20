@@ -1,0 +1,11 @@
+[Scheme]
+Name=Playa light
+ColorForeground=#7A7160
+ColorBackground=#FAF1E0
+ColorCursor=#7A7160
+ColorBold=#7A7160
+ColorPalette=#335F64;#CA6E6A;#7DB97A;#DDBA7D;#65AFCD;#CB7E9A;#35C5BD;#EAE1D0;#234154;#CB8D6A;#7A7160;#638F94;#AAA190;#AA85CB;#93BFC4;#FAF1E0
+TabActivityColor=#7DB97A
+ColorSelectionBackground=#EAE1D0
+ColorSelection=#7A7160
+
