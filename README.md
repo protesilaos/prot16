@@ -9,17 +9,24 @@ This is the master repository of all the items I have developed. Each directory 
 - under `general`:
   - an `SCSS` stylesheet that can be used in Jekyll websites (or be adapted accordingly);
   - a `YAML` file with the colour values in `HEX` format;
-- under `terminator`:
-  - plain text files which contain the necessary configurations for modifying the colours of the terminal;
-  - a `README` with further instructions;
+- under `hyper`:
+  - generic config files (for light/dark variants) with the colour mapping of the theme;
+  - a `README` with further instructions, which also explains why these are not delivered as `npm` packages;
 - under `iterm2`:
   - files for both the light and dark instantiations of each item;
   - a `README` with a short proviso and attribution to the author of this work;
-- under `hyper`:
-  - generic config files (for light/dark variants) with the colour mapping of the theme;
-  - a `README` with further instructions, which also explains why these are not delivered as `npm` packages.
+- under `terminator`:
+  - plain text files which contain the necessary configurations for modifying the colours of the terminal;
+  - a `README` with further instructions;
+- under `vim`:
+  - ready theme files for Vim, which support both terminal and gui variants (though terminals must use the equivalent palette);
+- under `vim-airline`:
+  - theme files for the popular Vim Airline plugin, which support both terminal and gui variants (though terminals must use the equivalent palette);
+- under `xfce4-terminal`:
+  - ready theme files that can be implemented to the XFCE4 terminal;
+  - a `README` with further instructions.
 
-*TODO: Include GNOME terminal files.*
+*You can also get the theme you want for your favourite application by using the new [Prot16 Builder](https://github.com/protesilaos/prot16-builder).*
 
 ## No Atom editor ports in here
 
@@ -60,4 +67,4 @@ You can [contact me](https://protesilaos.com/contact/) in advance if you need an
 
 I was greatly inspired in my work by Ethan Schoonover's [Solarized](http://ethanschoonover.com/solarized). My colour schemes follow his design philosophy of a 16-colour palette that can easily transition from a light to a dark variant.
 
-The label "Prot16" is a play on my nickname and Chris Kempson's base16.
+The label "Prot16" is a play on my nickname and Chris Kempson's Base16.
