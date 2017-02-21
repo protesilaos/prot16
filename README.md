@@ -32,10 +32,7 @@ This is the master repository of all the items I have developed. Each directory 
 
 This repository **does not include the Atom editor themes**, as these have their own GitHub repos per item (one for the light and another for the dark version).
 
-For an up-to-date list of the packages I have released, see:
-
-- **Atom profile.** [https://atom.io/users/protesilaos/themes](https://atom.io/users/protesilaos/themes).
-- **My website.** [https://protesilaos.com/schemes](https://protesilaos.com/schemes).
+For an up-to-date list of the packages I have released, see: https://github.com/protesilaos/prot16-atom-index
 
 ## Classification of themes
 
