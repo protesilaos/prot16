@@ -26,13 +26,20 @@ This is the master repository of all the items I have developed. Each directory 
   - ready theme files that can be implemented to the XFCE4 terminal;
   - a `README` with further instructions.
 
-*You can also get the theme you want for your favourite application by using the new [Prot16 Builder](https://github.com/protesilaos/prot16-builder).*
+*NOTE: You can also get the theme you want for your favourite application by using the new [Prot16 Builder](https://github.com/protesilaos/prot16-builder).*
 
 ## No Atom editor ports in here
 
 This repository **does not include the Atom editor themes**, as these have their own GitHub repos per item (one for the light and another for the dark version).
 
 For an up-to-date list of the packages I have released, see: https://github.com/protesilaos/prot16-atom-index
+
+## Vim plugins
+
+The Vim and Vim Airline files have their own git repositories, so that they can be installed as plugins.
+
+- For the syntax themes: https://github.com/protesilaos/prot16-vim
+- For Vim Airline: https://github.com/protesilaos/prot16-vim-airline
 
 ## Classification of themes
 
