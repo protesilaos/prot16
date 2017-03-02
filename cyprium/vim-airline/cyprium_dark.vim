@@ -38,27 +38,27 @@ let s:ctermblu = 4
 let s:ctermvio = 13
 let s:ctermmag = 5
 
-let s:N1   = [ s:guidhl, s:guigre, s:ctermdhl, s:ctermgre ]
-let s:N2   = [ s:guilhl, s:guilt1, s:ctermlhl, s:ctermlt1 ]
-let s:N3   = [ s:guiora, s:guidhl, s:ctermora, s:ctermdhl ]
+let s:N1   = [ s:guidbg, s:guidt2, s:ctermdbg, s:ctermdt2 ]
+let s:N2   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
+let s:N3   = [ s:guidt2, s:guidbg, s:ctermdt2, s:ctermdbg ]
 let g:airline#themes#cyprium_dark#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
-let s:I1   = [ s:guidhl, s:guiblu, s:ctermdhl, s:ctermblu ]
-let s:I2   = [ s:guilhl, s:guilt1, s:ctermlhl, s:ctermlt1 ]
-let s:I3   = [ s:guiora, s:guidhl, s:ctermora, s:ctermdhl ]
+let s:I1   = [ s:guidhl, s:guigre, s:ctermdhl, s:ctermgre ]
+let s:I2   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
+let s:I3   = [ s:guidt2, s:guidbg, s:ctermdt2, s:ctermdbg ]
 let g:airline#themes#cyprium_dark#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 
 let s:R1   = [ s:guidhl, s:guired, s:ctermdhl, s:ctermred ]
-let s:R2   = [ s:guilhl, s:guilt1, s:ctermlhl, s:ctermlt1 ]
-let s:R3   = [ s:guiora, s:guidhl, s:ctermora, s:ctermdhl ]
+let s:R2   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
+let s:R3   = [ s:guidt2, s:guidbg, s:ctermdt2, s:ctermdbg ]
 let g:airline#themes#cyprium_dark#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s:R3)
 
 let s:V1   = [ s:guidhl, s:guivio, s:ctermdhl, s:ctermvio ]
-let s:V2   = [ s:guilhl, s:guilt1, s:ctermlhl, s:ctermlt1 ]
-let s:V3   = [ s:guiora, s:guidhl, s:ctermora, s:ctermdhl ]
+let s:V2   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
+let s:V3   = [ s:guidt2, s:guidbg, s:ctermdt2, s:ctermdbg ]
 let g:airline#themes#cyprium_dark#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
 
-let s:IA1   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
+let s:IA1   = [ s:guidt1, s:guidbg, s:ctermdt1, s:ctermdbg ]
 let s:IA2   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
 let s:IA3   = [ s:guidt1, s:guidhl, s:ctermdt1, s:ctermdhl ]
 let g:airline#themes#cyprium_dark#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)

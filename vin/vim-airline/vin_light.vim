@@ -38,27 +38,27 @@ let s:ctermblu = 4
 let s:ctermvio = 13
 let s:ctermmag = 5
 
-let s:N1   = [ s:guilhl, s:guigre, s:ctermlhl, s:ctermgre ]
-let s:N2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:N3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:N1   = [ s:guilbg, s:guilt2, s:ctermlbg, s:ctermlt2 ]
+let s:N2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:N3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#vin_light#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
-let s:I1   = [ s:guilhl, s:guiblu, s:ctermlhl, s:ctermblu ]
-let s:I2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:I3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:I1   = [ s:guilhl, s:guigre, s:ctermlhl, s:ctermgre ]
+let s:I2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:I3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#vin_light#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 
 let s:R1   = [ s:guilhl, s:guired, s:ctermlhl, s:ctermred ]
-let s:R2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:R3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:R2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:R3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#vin_light#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s:R3)
 
 let s:V1   = [ s:guilhl, s:guivio, s:ctermlhl, s:ctermvio ]
-let s:V2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:V3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:V2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:V3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#vin_light#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
 
-let s:IA1   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:IA1   = [ s:guilt1, s:guilbg, s:ctermlt1, s:ctermlbg ]
 let s:IA2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
 let s:IA3   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
 let g:airline#themes#vin_light#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)

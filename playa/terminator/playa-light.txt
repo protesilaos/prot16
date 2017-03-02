@@ -1,13 +1,13 @@
 [global_config]
   title_inactive_bg_color = "#EAE1D0"
   title_inactive_fg_color = "#AAA190"
-  title_receive_bg_color = "#65AFCD"
+  title_receive_bg_color = "#CA6E6A"
   title_receive_fg_color = "#FAF1E0"
-  title_transmit_bg_color = "#CA6E6A"
+  title_transmit_bg_color = "#65AFCD"
   title_transmit_fg_color = "#FAF1E0"
 [profiles]
   [[default]]
-    palette = "#335F64:#CA6E6A:#7DB97A:#DDBA7D:#65AFCD:#CB7E9A:#35C5BD:#EAE1D0:#234154:#CB8D6A:#7A7160:#AAA190:#638F94:#AA85CB:#93BFC4:#FAF1E0"
+    palette = "#335F64:#CA6E6A:#7DB97A:#DDBA7D:#65AFCD:#CB7E9A:#35C5BD:#EAE1D0:#234154:#CB8D6A:#7A7160:#638F94:#AAA190:#AA85CB:#93BFC4:#FAF1E0"
     foreground_color = "#7A7160"
     background_color = "#FAF1E0"
 

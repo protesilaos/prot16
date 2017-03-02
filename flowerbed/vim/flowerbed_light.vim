@@ -1,7 +1,7 @@
 " Name: Flowerbed light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/flowerbed
-" Version: 0.0.1.alpha-20170219
+" Version: 0.0.1.alpha-20170226
 " Note: This is an early version. May undergo significant changes.
 
 set background=light
@@ -9,17 +9,17 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "flowerbed-light"
+let g:colors_name = "flowerbed_light"
 
 " General
 " -----------------
 hi Normal guibg=#ECF3F2 guifg=#5C6362 ctermbg=none ctermfg=10
 
 hi Comment gui=italic guifg=#8C9392 cterm=italic ctermfg=12
-hi Todo gui=bold guifg=#D89A47 cterm=bold ctermfg=9
+hi Todo gui=none guibg=#DCE3E2 guifg=#D89A47 cterm=none ctermbg=7 ctermfg=9
 
-hi Warning gui=bold guibg=#CD9A8A guifg=#233949 cterm=bold ctermbg=3 ctermfg=8
-hi Error gui=bold guibg=#D86A87 guifg=#233949 cterm=bold ctermbg=1 ctermfg=8
+hi Warning gui=none guibg=#CD9A8A guifg=#233949 cterm=none ctermbg=3 ctermfg=8
+hi Error gui=none guibg=#D86A87 guifg=#233949 cterm=none ctermbg=1 ctermfg=8
 
 " Constructs
 " -----------------
@@ -34,7 +34,7 @@ hi StorageClass guifg=#5C6362 ctermfg=10
 hi String guifg=#7988CA ctermfg=13
 hi Character guifg=#4AA7D2 ctermfg=4
 
-hi Identifier guifg=#5CBC7D ctermfg=2
+hi Identifier gui=none guifg=#5CBC7D cterm=none ctermfg=2
 hi Function guifg=#5CBC7D ctermfg=2
 hi Keyword guifg=#5CBC7D ctermfg=2
 hi Statement guifg=#1CABA1 ctermfg=6
@@ -60,36 +60,40 @@ hi Special guifg=#4AA7D2 ctermfg=4
 hi SpecialChar guifg=#D89A47 ctermfg=9
 hi Tag guifg=#5CBC7D ctermfg=2
 hi Delimeter guifg=#5C6362 ctermfg=10
-hi SpecialComment gui=bold guifg=#D86A87 cterm=bold ctermfg=1
+hi SpecialComment gui=none guifg=#D86A87 cterm=none ctermfg=1
 hi Debug guifg=#CD9A8A
 
-hi LineNr guifg=#A3B9C9 ctermfg=14
+" Other
+" -----------------
+hi LineNr guifg=#8C9392 ctermfg=12
 hi Cursor guifg=#5C6362 ctermfg=10
-hi CursorLine guibg=#A3B9C9 ctermbg=14
-hi CursorLineNr gui=bold guifg=#738999 cterm=bold ctermfg=11
-hi ColorColumn guibg=#A3B9C9 ctermbg=14
+hi CursorLine gui=none guibg=#DCE3E2 cterm=none ctermbg=7
+hi CursorLineNr gui=none guibg=#DCE3E2 guifg=#738999 cterm=none ctermbg=7 ctermfg=11
+hi ColorColumn guibg=#8C9392 ctermbg=12
 
 hi Folded guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
 
-hi NonText guifg=#A3B9C9 ctermfg=14
-hi SpecialKey guifg=#A3B9C9 ctermfg=14
+hi NonText guifg=#8C9392 ctermfg=12
+hi SpecialKey guifg=#8C9392 ctermfg=12
 
 hi Directory guifg=#1CABA1 ctermfg=6
 hi SpecialKey guifg=#D89A47 ctermfg=9
 hi MoreMsg guifg=#8C9392 ctermfg=12
-hi Question guifg=#CD9A8A ctermfg=3
+hi Question gui=none guifg=#CD9A8A cterm=none ctermfg=3
 hi VimOption guifg=#BC74AF ctermfg=5
 hi VimGroup guifg=#1CABA1 ctermfg=6
 hi Underlined guifg=#7988CA ctermfg=13
 hi Ignore guifg=#D86A87 ctermfg=9
 
+" Diffs
+" -----------------
 hi DiffAdd guibg=#5CBC7D guifg=#233949 ctermbg=2 ctermfg=8
-hi DiffDelete gui=bold guibg=#D86A87 guifg=#233949 ctermbg=1 cterm=bold ctermfg=8
+hi DiffDelete gui=none guibg=#D86A87 guifg=#233949 ctermbg=1 cterm=none ctermfg=8
 hi DiffChange guibg=#D89A47 guifg=#233949 ctermbg=9 ctermfg=8
-hi DiffText gui=bold guibg=#BC74AF guifg=#233949 cterm=bold ctermbg=5 ctermfg=8
+hi DiffText gui=none guibg=#BC74AF guifg=#233949 cterm=none ctermbg=5 ctermfg=8
 
 hi diffAdded guifg=#5CBC7D ctermfg=2
 hi diffRemoved guifg=#D86A87 ctermfg=1
-hi diffNewFile gui=bold guifg=#4AA7D2 ctermfg=4
-hi diffFile gui=bold guifg=#CD9A8A cterm=bold ctermfg=3
+hi diffNewFile gui=none guifg=#4AA7D2 ctermfg=4
+hi diffFile gui=none guifg=#CD9A8A cterm=none ctermfg=3
 

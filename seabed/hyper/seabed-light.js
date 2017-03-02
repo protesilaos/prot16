@@ -44,7 +44,7 @@ module.exports = {
     // including the 6 x 6 color cubes and the grayscale map, just provide
     // an array here instead of a color map object
     colors: {
-      black: '#060D18',
+      black: '#161D28',
       red: '#78456B',
       green: '#2D886C',
       yellow: '#6A865A',
@@ -52,11 +52,11 @@ module.exports = {
       magenta: '#846B85',
       cyan: '#35838C',
       white: '#263D48',
-      lightBlack: '#161D28',
+      lightBlack: '#060D18',
       lightRed: '#6A867A',
       lightGreen: '#96ADB8',
-      lightYellow: '#667D88',
-      lightBlue: '#666D78',
+      lightYellow: '#666D78',
+      lightBlue: '#667D88',
       lightMagenta: '#4D5B94',
       lightCyan: '#969DA8',
       lightWhite: '#162D38'

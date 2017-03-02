@@ -6,12 +6,12 @@
 let g:airline#themes#termina_light#palette = {}
 let s:guidbg = "#1A2225"
 let s:guidhl = "#2A3235"
-let s:guilt1 = "#71624D"
+let s:guilt1 = "#5E5C4E"
 let s:guidt2 = "#5A6265"
-let s:guilt2 = "#A1927D"
+let s:guilt2 = "#9E9C8E"
 let s:guidt1 = "#8A9295"
-let s:guilhl = "#E1D2BD"
-let s:guilbg = "#F1E2CD"
+let s:guilhl = "#EEECDE"
+let s:guilbg = "#FEFCEE"
 let s:guired = "#985637"
 let s:guiora = "#9D6A47"
 let s:guiyel = "#9A813D"
@@ -38,27 +38,27 @@ let s:ctermblu = 4
 let s:ctermvio = 13
 let s:ctermmag = 5
 
-let s:N1   = [ s:guilhl, s:guigre, s:ctermlhl, s:ctermgre ]
-let s:N2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:N3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:N1   = [ s:guilbg, s:guilt2, s:ctermlbg, s:ctermlt2 ]
+let s:N2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:N3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#termina_light#palette.normal = airline#themes#generate_color_map(s:N1, s:N2, s:N3)
 
-let s:I1   = [ s:guilhl, s:guiblu, s:ctermlhl, s:ctermblu ]
-let s:I2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:I3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:I1   = [ s:guilhl, s:guigre, s:ctermlhl, s:ctermgre ]
+let s:I2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:I3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#termina_light#palette.insert = airline#themes#generate_color_map(s:I1, s:I2, s:I3)
 
 let s:R1   = [ s:guilhl, s:guired, s:ctermlhl, s:ctermred ]
-let s:R2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:R3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:R2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:R3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#termina_light#palette.replace = airline#themes#generate_color_map(s:R1, s:R2, s:R3)
 
 let s:V1   = [ s:guilhl, s:guivio, s:ctermlhl, s:ctermvio ]
-let s:V2   = [ s:guidhl, s:guidt1, s:ctermdhl, s:ctermdt1 ]
-let s:V3   = [ s:guiora, s:guilhl, s:ctermora, s:ctermlhl ]
+let s:V2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:V3   = [ s:guilt2, s:guilbg, s:ctermlt2, s:ctermlbg ]
 let g:airline#themes#termina_light#palette.visual = airline#themes#generate_color_map(s:V1, s:V2, s:V3)
 
-let s:IA1   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
+let s:IA1   = [ s:guilt1, s:guilbg, s:ctermlt1, s:ctermlbg ]
 let s:IA2   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
 let s:IA3   = [ s:guilt1, s:guilhl, s:ctermlt1, s:ctermlhl ]
 let g:airline#themes#termina_light#palette.inactive = airline#themes#generate_color_map(s:IA1, s:IA2, s:IA3)
