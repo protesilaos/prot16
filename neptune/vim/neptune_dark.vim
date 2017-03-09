@@ -14,12 +14,16 @@ let g:colors_name = "neptune_dark"
 " General
 " -----------------
 hi Normal guibg=#282C36 guifg=#A8ACB6 ctermbg=none ctermfg=14
+hi Visual guibg=#383C46 guifg=#A8ACB6 ctermbg=0 ctermfg=14
+hi Search guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#686C76 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#383C46 guifg=#A97552 cterm=none ctermbg=0 ctermfg=1
 
 hi Warning gui=none guibg=#B9A552 guifg=#F0F1F8 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#A97552 guifg=#F0F1F8 cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#55AFAF ctermfg=6
 hi VimGroup guifg=#3C8CBB ctermfg=4
 hi Underlined guifg=#7A7DCA ctermfg=13
 hi Ignore guifg=#C78956 ctermfg=1
+
+hi SpellBad guibg=#A97552 guifg=#F0F1F8 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#383C46 guifg=#F0F1F8 ctermbg=0 ctermfg=15
+hi SpellRare guibg=#7A7DCA guifg=#F0F1F8 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

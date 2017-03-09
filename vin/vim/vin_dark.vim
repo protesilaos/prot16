@@ -14,12 +14,16 @@ let g:colors_name = "vin_dark"
 " General
 " -----------------
 hi Normal guibg=#101D04 guifg=#B0BDA4 ctermbg=none ctermfg=14
+hi Visual guibg=#202D14 guifg=#B0BDA4 ctermbg=0 ctermfg=14
+hi Search guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#606D54 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#202D14 guifg=#5A5DA8 cterm=none ctermbg=0 ctermfg=4
 
 hi Warning gui=none guibg=#7D851D guifg=#EFFDD4 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#A3415C guifg=#EFFDD4 cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#A3415C ctermfg=1
 hi VimGroup guifg=#487D14 ctermfg=4
 hi Underlined guifg=#AC587A ctermfg=5
 hi Ignore guifg=#8D522D ctermfg=4
+
+hi SpellBad guibg=#A3415C guifg=#EFFDD4 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#202D14 guifg=#EFFDD4 ctermbg=0 ctermfg=15
+hi SpellRare guibg=#8858A5 guifg=#EFFDD4 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

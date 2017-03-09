@@ -14,12 +14,16 @@ let g:colors_name = "flowerbed_light"
 " General
 " -----------------
 hi Normal guibg=#ECF3F2 guifg=#5C6362 ctermbg=none ctermfg=10
+hi Visual guibg=#DCE3E2 guifg=#5C6362 ctermbg=7 ctermfg=10
+hi Search guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#8C9392 cterm=italic ctermfg=12
 hi Todo gui=none guibg=#DCE3E2 guifg=#D89A47 cterm=none ctermbg=7 ctermfg=9
 
 hi Warning gui=none guibg=#CD9A8A guifg=#233949 cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#D86A87 guifg=#233949 cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#BC74AF ctermfg=5
 hi VimGroup guifg=#1CABA1 ctermfg=6
 hi Underlined guifg=#7988CA ctermfg=13
 hi Ignore guifg=#D86A87 ctermfg=9
+
+hi SpellBad guibg=#D86A87 guifg=#ECF3F2 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
+hi SpellRare guibg=#7988CA guifg=#ECF3F2 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

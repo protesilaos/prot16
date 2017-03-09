@@ -14,12 +14,16 @@ let g:colors_name = "equinox_light"
 " General
 " -----------------
 hi Normal guibg=#FCFAFE guifg=#3C3A3E ctermbg=none ctermfg=10
+hi Visual guibg=#ECEAEE guifg=#3C3A3E ctermbg=7 ctermfg=10
+hi Search guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#7C7A7E cterm=italic ctermfg=12
 hi Todo gui=none guibg=#ECEAEE guifg=#CC5D9A cterm=none ctermbg=7 ctermfg=5
 
 hi Warning gui=none guibg=#859356 guifg=#1D1921 cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#9A334F guifg=#1D1921 cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#138E6C ctermfg=2
 hi VimGroup guifg=#536CB2 ctermfg=4
 hi Underlined guifg=#369AA6 ctermfg=6
 hi Ignore guifg=#936A48 ctermfg=5
+
+hi SpellBad guibg=#9A334F guifg=#FCFAFE ctermbg=1 ctermfg=15
+hi SpellCap guibg=#ECEAEE guifg=#1D1921 ctermbg=7 ctermfg=8
+hi SpellRare guibg=#8955BA guifg=#FCFAFE ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

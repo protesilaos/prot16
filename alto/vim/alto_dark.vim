@@ -14,12 +14,16 @@ let g:colors_name = "alto_dark"
 " General
 " -----------------
 hi Normal guibg=#182D2A guifg=#98ADAA ctermbg=none ctermfg=14
+hi Visual guibg=#283D3A guifg=#98ADAA ctermbg=0 ctermfg=14
+hi Search guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#687D7A cterm=italic ctermfg=11
 hi Todo gui=none guibg=#283D3A guifg=#C9753D cterm=none ctermbg=0 ctermfg=9
 
 hi Warning gui=none guibg=#C6A13D guifg=#FAFAEC cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#C6414D guifg=#FAFAEC cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#9A7BC8 ctermfg=13
 hi VimGroup guifg=#378BBD ctermfg=4
 hi Underlined guifg=#57AB8B ctermfg=6
 hi Ignore guifg=#C6A13D ctermfg=9
+
+hi SpellBad guibg=#C6414D guifg=#FAFAEC ctermbg=1 ctermfg=15
+hi SpellCap guibg=#283D3A guifg=#FAFAEC ctermbg=0 ctermfg=15
+hi SpellRare guibg=#9A7BC8 guifg=#FAFAEC ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

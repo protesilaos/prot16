@@ -14,12 +14,16 @@ let g:colors_name = "caprice_light"
 " General
 " -----------------
 hi Normal guibg=#FEFBFC guifg=#2E2B2C ctermbg=none ctermfg=10
+hi Visual guibg=#EEEBEC guifg=#2E2B2C ctermbg=7 ctermfg=10
+hi Search guibg=#587EBC guifg=#FEFBFC ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#7E7B7C cterm=italic ctermfg=12
 hi Todo gui=none guibg=#EEEBEC guifg=#983D4F cterm=none ctermbg=7 ctermfg=1
 
 hi Warning gui=none guibg=#A58A30 guifg=#211B29 cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#983D4F guifg=#211B29 cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#587EBC guifg=#FEFBFC ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#585EBC ctermfg=4
 hi VimGroup guifg=#8955A2 ctermfg=13
 hi Underlined guifg=#587EBC ctermfg=6
 hi Ignore guifg=#9A5D38 ctermfg=1
+
+hi SpellBad guibg=#983D4F guifg=#FEFBFC ctermbg=1 ctermfg=15
+hi SpellCap guibg=#EEEBEC guifg=#211B29 ctermbg=7 ctermfg=8
+hi SpellRare guibg=#8955A2 guifg=#FEFBFC ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#587EBC guifg=#FEFBFC ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

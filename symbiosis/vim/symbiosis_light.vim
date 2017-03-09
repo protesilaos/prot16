@@ -14,12 +14,16 @@ let g:colors_name = "symbiosis_light"
 " General
 " -----------------
 hi Normal guibg=#FCFAF9 guifg=#4C4A49 ctermbg=none ctermfg=10
+hi Visual guibg=#ECEAE9 guifg=#4C4A49 ctermbg=7 ctermfg=10
+hi Search guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#8C8A89 cterm=italic ctermfg=12
 hi Todo gui=none guibg=#ECEAE9 guifg=#669824 cterm=none ctermbg=7 ctermfg=2
 
 hi Warning gui=none guibg=#A89641 guifg=#111D1C cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#B95846 guifg=#111D1C cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#48A597 ctermfg=6
 hi VimGroup guifg=#9166AB ctermfg=13
 hi Underlined guifg=#3D8CAD ctermfg=4
 hi Ignore guifg=#A89641 ctermfg=2
+
+hi SpellBad guibg=#B95846 guifg=#FCFAF9 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#ECEAE9 guifg=#111D1C ctermbg=7 ctermfg=8
+hi SpellRare guibg=#9166AB guifg=#FCFAF9 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

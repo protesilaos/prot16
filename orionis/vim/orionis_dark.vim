@@ -14,12 +14,16 @@ let g:colors_name = "orionis_dark"
 " General
 " -----------------
 hi Normal guibg=#1F2A2D guifg=#8F9A9D ctermbg=none ctermfg=14
+hi Visual guibg=#2F3A3D guifg=#8F9A9D ctermbg=0 ctermfg=14
+hi Search guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#5F6A6D cterm=italic ctermfg=11
 hi Todo gui=none guibg=#2F3A3D guifg=#974F6C cterm=none ctermbg=0 ctermfg=1
 
 hi Warning gui=none guibg=#9A8F0C guifg=#EFF1F3 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#974F6C guifg=#EFF1F3 cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#4D8AB3 ctermfg=4
 hi VimGroup guifg=#AD6E8F ctermfg=5
 hi Underlined guifg=#52A6AD ctermfg=6
 hi Ignore guifg=#9D7427 ctermfg=1
+
+hi SpellBad guibg=#974F6C guifg=#EFF1F3 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#2F3A3D guifg=#EFF1F3 ctermbg=0 ctermfg=15
+hi SpellRare guibg=#7E7EAD guifg=#EFF1F3 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

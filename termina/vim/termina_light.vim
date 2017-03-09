@@ -14,12 +14,16 @@ let g:colors_name = "termina_light"
 " General
 " -----------------
 hi Normal guibg=#FEFCEE guifg=#5E5C4E ctermbg=none ctermfg=10
+hi Visual guibg=#EEECDE guifg=#5E5C4E ctermbg=7 ctermfg=10
+hi Search guibg=#629298 guifg=#FEFCEE ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9E9C8E cterm=italic ctermfg=12
 hi Todo gui=none guibg=#EEECDE guifg=#A3636D cterm=none ctermbg=7 ctermfg=5
 
 hi Warning gui=none guibg=#9A813D guifg=#1A2225 cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#985637 guifg=#1A2225 cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#629298 guifg=#FEFCEE ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#9D6A47 ctermfg=9
 hi VimGroup guifg=#728852 ctermfg=2
 hi Underlined guifg=#629298 ctermfg=6
 hi Ignore guifg=#9A813D ctermfg=5
+
+hi SpellBad guibg=#985637 guifg=#FEFCEE ctermbg=1 ctermfg=15
+hi SpellCap guibg=#EEECDE guifg=#1A2225 ctermbg=7 ctermfg=8
+hi SpellRare guibg=#8479A6 guifg=#FEFCEE ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#629298 guifg=#FEFCEE ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

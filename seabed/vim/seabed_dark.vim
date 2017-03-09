@@ -14,12 +14,16 @@ let g:colors_name = "seabed_dark"
 " General
 " -----------------
 hi Normal guibg=#060D18 guifg=#969DA8 ctermbg=none ctermfg=14
+hi Visual guibg=#161D28 guifg=#969DA8 ctermbg=0 ctermfg=14
+hi Search guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#666D78 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#161D28 guifg=#6A865A cterm=none ctermbg=0 ctermfg=3
 
 hi Warning gui=none guibg=#6A865A guifg=#162D38 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#78456B guifg=#162D38 cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#846B85 ctermfg=5
 hi VimGroup guifg=#3A6A8D ctermfg=4
 hi Underlined guifg=#2D886C ctermfg=2
 hi Ignore guifg=#78456B ctermfg=3
+
+hi SpellBad guibg=#78456B guifg=#162D38 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#161D28 guifg=#162D38 ctermbg=0 ctermfg=15
+hi SpellRare guibg=#4D5B94 guifg=#162D38 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

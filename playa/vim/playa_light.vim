@@ -14,12 +14,16 @@ let g:colors_name = "playa_light"
 " General
 " -----------------
 hi Normal guibg=#FAF1E0 guifg=#7A7160 ctermbg=none ctermfg=10
+hi Visual guibg=#EAE1D0 guifg=#7A7160 ctermbg=7 ctermfg=10
+hi Search guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#AAA190 cterm=italic ctermfg=12
 hi Todo gui=none guibg=#EAE1D0 guifg=#CA6E6A cterm=none ctermbg=7 ctermfg=1
 
 hi Warning gui=none guibg=#DDBA7D guifg=#234154 cterm=none ctermbg=3 ctermfg=8
 hi Error gui=none guibg=#CA6E6A guifg=#234154 cterm=none ctermbg=1 ctermfg=8
+
+hi MatchParen guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#35C5BD ctermfg=6
 hi VimGroup guifg=#65AFCD ctermfg=4
 hi Underlined guifg=#CB8D6A ctermfg=9
 hi Ignore guifg=#AA85CB ctermfg=1
+
+hi SpellBad guibg=#CA6E6A guifg=#FAF1E0 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#EAE1D0 guifg=#234154 ctermbg=7 ctermfg=8
+hi SpellRare guibg=#AA85CB guifg=#FAF1E0 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

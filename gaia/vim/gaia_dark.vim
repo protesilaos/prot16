@@ -14,12 +14,16 @@ let g:colors_name = "gaia_dark"
 " General
 " -----------------
 hi Normal guibg=#2D2E2F guifg=#ADAEAF ctermbg=none ctermfg=14
+hi Visual guibg=#3D3E3F guifg=#ADAEAF ctermbg=0 ctermfg=14
+hi Search guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#7D7E7F cterm=italic ctermfg=11
 hi Todo gui=none guibg=#3D3E3F guifg=#6C9CBA cterm=none ctermbg=0 ctermfg=4
 
 hi Warning gui=none guibg=#BDAA4A guifg=#EBEDDF cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#9D6936 guifg=#EBEDDF cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#B38121 ctermfg=9
 hi VimGroup guifg=#9D6936 ctermfg=1
 hi Underlined guifg=#85AF85 ctermfg=6
 hi Ignore guifg=#8A8DB7 ctermfg=4
+
+hi SpellBad guibg=#9D6936 guifg=#EBEDDF ctermbg=1 ctermfg=15
+hi SpellCap guibg=#3D3E3F guifg=#EBEDDF ctermbg=0 ctermfg=15
+hi SpellRare guibg=#8A8DB7 guifg=#EBEDDF ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

@@ -14,12 +14,16 @@ let g:colors_name = "cyprium_dark"
 " General
 " -----------------
 hi Normal guibg=#374934 guifg=#A7B9A4 ctermbg=none ctermfg=14
+hi Visual guibg=#475944 guifg=#A7B9A4 ctermbg=0 ctermfg=14
+hi Search guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#879984 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#475944 guifg=#A36A5F cterm=none ctermbg=0 ctermfg=1
 
 hi Warning gui=none guibg=#A38E10 guifg=#EBE9DA cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#A36A5F guifg=#EBE9DA cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#6B8C4A ctermfg=2
 hi VimGroup guifg=#A38E10 ctermfg=3
 hi Underlined guifg=#5C9B85 ctermfg=6
 hi Ignore guifg=#8B85BA ctermfg=1
+
+hi SpellBad guibg=#A36A5F guifg=#EBE9DA ctermbg=1 ctermfg=15
+hi SpellCap guibg=#475944 guifg=#EBE9DA ctermbg=0 ctermfg=15
+hi SpellRare guibg=#8B85BA guifg=#EBE9DA ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

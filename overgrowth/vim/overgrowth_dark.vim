@@ -14,12 +14,16 @@ let g:colors_name = "overgrowth_dark"
 " General
 " -----------------
 hi Normal guibg=#233F34 guifg=#93AFA4 ctermbg=none ctermfg=14
+hi Visual guibg=#334F44 guifg=#93AFA4 ctermbg=0 ctermfg=14
+hi Search guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#637F74 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#334F44 guifg=#359FCA cterm=none ctermbg=0 ctermfg=4
 
 hi Warning gui=none guibg=#A8950D guifg=#E6E5D2 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#CA6A4A guifg=#E6E5D2 cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#CA6A4A ctermfg=1
 hi VimGroup guifg=#4BA212 ctermfg=4
 hi Underlined guifg=#A8950D ctermfg=3
 hi Ignore guifg=#8A6EBB ctermfg=4
+
+hi SpellBad guibg=#CA6A4A guifg=#E6E5D2 ctermbg=1 ctermfg=15
+hi SpellCap guibg=#334F44 guifg=#E6E5D2 ctermbg=0 ctermfg=15
+hi SpellRare guibg=#8A6EBB guifg=#E6E5D2 ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------

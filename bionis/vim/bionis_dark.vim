@@ -14,12 +14,16 @@ let g:colors_name = "bionis_dark"
 " General
 " -----------------
 hi Normal guibg=#251A27 guifg=#B5AAB7 ctermbg=none ctermfg=14
+hi Visual guibg=#352A37 guifg=#B5AAB7 ctermbg=0 ctermfg=14
+hi Search guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#857A87 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#352A37 guifg=#CB6832 cterm=none ctermbg=0 ctermfg=9
 
 hi Warning gui=none guibg=#BA8A00 guifg=#FBF8FD cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#C25A5B guifg=#FBF8FD cterm=none ctermbg=1 ctermfg=15
+
+hi MatchParen guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
 
 " Constructs
 " -----------------
@@ -84,6 +88,11 @@ hi VimOption guifg=#4DA35C ctermfg=2
 hi VimGroup guifg=#5A7ACD ctermfg=4
 hi Underlined guifg=#C25783 ctermfg=5
 hi Ignore guifg=#C25A5B ctermfg=9
+
+hi SpellBad guibg=#C25A5B guifg=#FBF8FD ctermbg=1 ctermfg=15
+hi SpellCap guibg=#352A37 guifg=#FBF8FD ctermbg=0 ctermfg=15
+hi SpellRare guibg=#AA6BC5 guifg=#FBF8FD ctermbg=13 ctermfg=15
+hi SpellLocal guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
 
 " Diffs
 " -----------------
