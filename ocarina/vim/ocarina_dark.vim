@@ -1,8 +1,7 @@
 " Name: Ocarina dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/ocarina
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#313C3D guifg=#9B9B97 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#616C6D ctermbg=11
 
 hi Folded guibg=#313C3D guifg=#EBEBE7 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#313C3D guifg=#EBEBE7 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#616C6D ctermfg=11
 hi SpecialKey guifg=#616C6D ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#BA6F5B guifg=#EBEBE7 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#313C3D guifg=#EBEBE7 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#7A99BA guifg=#EBEBE7 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#48A99B guifg=#EBEBE7 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#313C3D guifg=#EBEBE7 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#93A34A guifg=#EBEBE7 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#616C6D ctermbg=11
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Flowerbed dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/flowerbed
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#334959 guifg=#8C9392 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#738999 ctermbg=11
 
 hi Folded guibg=#334959 guifg=#ECF3F2 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#334959 guifg=#ECF3F2 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#738999 ctermfg=11
 hi SpecialKey guifg=#738999 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#D86A87 guifg=#ECF3F2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#334959 guifg=#ECF3F2 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#7988CA guifg=#ECF3F2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#334959 guifg=#ECF3F2 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#CD9A8A guifg=#ECF3F2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#738999 ctermbg=11
 
 " Diffs
 " -----------------

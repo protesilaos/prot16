@@ -1,8 +1,7 @@
 " Name: Vin light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/vin
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#DFEDC4 guifg=#606D54 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#7F8D64 ctermbg=12
 
 hi Folded guibg=#DFEDC4 guifg=#101D04 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#DFEDC4 guifg=#101D04 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#7F8D64 ctermfg=12
 hi SpecialKey guifg=#7F8D64 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A3415C guifg=#EFFDD4 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#DFEDC4 guifg=#101D04 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#8858A5 guifg=#EFFDD4 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#DFEDC4 guifg=#101D04 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#7D851D guifg=#EFFDD4 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#7F8D64 ctermbg=12
 
 " Diffs
 " -----------------

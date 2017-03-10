@@ -1,8 +1,7 @@
 " Name: Gaia dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/gaia
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#3D3E3F guifg=#9B9D8F cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#7D7E7F ctermbg=11
 
 hi Folded guibg=#3D3E3F guifg=#EBEDDF ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#3D3E3F guifg=#EBEDDF ctermbg=0 ctermfg=15
 
 hi NonText guifg=#7D7E7F ctermfg=11
 hi SpecialKey guifg=#7D7E7F ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#9D6936 guifg=#EBEDDF ctermbg=1 ctermfg=15
 hi SpellCap guibg=#3D3E3F guifg=#EBEDDF ctermbg=0 ctermfg=15
 hi SpellRare guibg=#8A8DB7 guifg=#EBEDDF ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#3D3E3F guifg=#EBEDDF ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#BDAA4A guifg=#EBEDDF ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#7D7E7F ctermbg=11
 
 " Diffs
 " -----------------

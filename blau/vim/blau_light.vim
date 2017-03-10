@@ -1,8 +1,7 @@
 " Name: Blau light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/blau
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#CFCCCE guifg=#68686F cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#7F7C7E ctermbg=12
 
 hi Folded guibg=#CFCCCE guifg=#28282F ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#CFCCCE guifg=#28282F ctermbg=7 ctermfg=8
 
 hi NonText guifg=#7F7C7E ctermfg=12
 hi SpecialKey guifg=#7F7C7E ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A43D56 guifg=#DFDCDE ctermbg=1 ctermfg=15
 hi SpellCap guibg=#CFCCCE guifg=#28282F ctermbg=7 ctermfg=8
 hi SpellRare guibg=#5E6FB5 guifg=#DFDCDE ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#2F95A5 guifg=#DFDCDE ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#CFCCCE guifg=#28282F ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#BB8B11 guifg=#DFDCDE ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#7F7C7E ctermbg=12
 
 " Diffs
 " -----------------

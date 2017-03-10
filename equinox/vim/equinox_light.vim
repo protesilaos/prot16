@@ -1,8 +1,7 @@
 " Name: Equinox light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/equinox
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#ECEAEE guifg=#7D7981 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#7C7A7E ctermbg=12
 
 hi Folded guibg=#ECEAEE guifg=#1D1921 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#ECEAEE guifg=#1D1921 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#7C7A7E ctermfg=12
 hi SpecialKey guifg=#7C7A7E ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#9A334F guifg=#FCFAFE ctermbg=1 ctermfg=15
 hi SpellCap guibg=#ECEAEE guifg=#1D1921 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#8955BA guifg=#FCFAFE ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#ECEAEE guifg=#1D1921 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#859356 guifg=#FCFAFE ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#7C7A7E ctermbg=12
 
 " Diffs
 " -----------------

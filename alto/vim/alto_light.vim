@@ -1,8 +1,7 @@
 " Name: Alto light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/alto
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#EAEADC guifg=#687D7A cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#8A8A7C ctermbg=12
 
 hi Folded guibg=#EAEADC guifg=#182D2A ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#EAEADC guifg=#182D2A ctermbg=7 ctermfg=8
 
 hi NonText guifg=#8A8A7C ctermfg=12
 hi SpecialKey guifg=#8A8A7C ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#C6414D guifg=#FAFAEC ctermbg=1 ctermfg=15
 hi SpellCap guibg=#EAEADC guifg=#182D2A ctermbg=7 ctermfg=8
 hi SpellRare guibg=#9A7BC8 guifg=#FAFAEC ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#EAEADC guifg=#182D2A ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#C6A13D guifg=#FAFAEC ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#8A8A7C ctermbg=12
 
 " Diffs
 " -----------------

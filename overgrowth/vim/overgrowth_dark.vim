@@ -1,8 +1,7 @@
 " Name: Overgrowth dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/overgrowth
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#334F44 guifg=#A6A592 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#637F74 ctermbg=11
 
 hi Folded guibg=#334F44 guifg=#E6E5D2 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#334F44 guifg=#E6E5D2 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#637F74 ctermfg=11
 hi SpecialKey guifg=#637F74 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#CA6A4A guifg=#E6E5D2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#334F44 guifg=#E6E5D2 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#8A6EBB guifg=#E6E5D2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#334F44 guifg=#E6E5D2 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#A8950D guifg=#E6E5D2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#637F74 ctermbg=11
 
 " Diffs
 " -----------------

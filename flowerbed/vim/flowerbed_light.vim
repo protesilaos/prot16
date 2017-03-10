@@ -1,8 +1,7 @@
 " Name: Flowerbed light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/flowerbed
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#DCE3E2 guifg=#738999 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#8C9392 ctermbg=12
 
 hi Folded guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#8C9392 ctermfg=12
 hi SpecialKey guifg=#8C9392 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#D86A87 guifg=#ECF3F2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#7988CA guifg=#ECF3F2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#DCE3E2 guifg=#233949 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#CD9A8A guifg=#ECF3F2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#8C9392 ctermbg=12
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Magus light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/magus
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#E2DDD6 guifg=#726A69 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#A29D96 ctermbg=12
 
 hi Folded guibg=#E2DDD6 guifg=#322A29 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#E2DDD6 guifg=#322A29 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#A29D96 ctermfg=12
 hi SpecialKey guifg=#A29D96 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#BD5956 guifg=#F2EDE6 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#E2DDD6 guifg=#322A29 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#7A7DA7 guifg=#F2EDE6 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#65AB85 guifg=#F2EDE6 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#E2DDD6 guifg=#322A29 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#C1A222 guifg=#F2EDE6 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#A29D96 ctermbg=12
 
 " Diffs
 " -----------------

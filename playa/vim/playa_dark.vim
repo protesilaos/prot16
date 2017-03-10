@@ -1,8 +1,7 @@
 " Name: Playa dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/playa
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#335F64 guifg=#AAA190 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#638F94 ctermbg=11
 
 hi Folded guibg=#335F64 guifg=#FAF1E0 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#335F64 guifg=#FAF1E0 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#638F94 ctermfg=11
 hi SpecialKey guifg=#638F94 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#CA6E6A guifg=#FAF1E0 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#335F64 guifg=#FAF1E0 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#AA85CB guifg=#FAF1E0 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#335F64 guifg=#FAF1E0 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#DDBA7D guifg=#FAF1E0 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#638F94 ctermbg=11
 
 " Diffs
 " -----------------

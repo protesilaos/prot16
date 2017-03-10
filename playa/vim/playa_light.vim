@@ -1,8 +1,7 @@
 " Name: Playa light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/playa
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#EAE1D0 guifg=#638F94 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#AAA190 ctermbg=12
 
 hi Folded guibg=#EAE1D0 guifg=#234154 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#EAE1D0 guifg=#234154 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#AAA190 ctermfg=12
 hi SpecialKey guifg=#AAA190 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#CA6E6A guifg=#FAF1E0 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#EAE1D0 guifg=#234154 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#AA85CB guifg=#FAF1E0 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#EAE1D0 guifg=#234154 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#DDBA7D guifg=#FAF1E0 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#AAA190 ctermbg=12
 
 " Diffs
 " -----------------

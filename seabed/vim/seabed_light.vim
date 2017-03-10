@@ -1,8 +1,7 @@
 " Name: Seabed light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/seabed
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#263D48 guifg=#666D78 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#667D88 ctermbg=12
 
 hi Folded guibg=#263D48 guifg=#060D18 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#263D48 guifg=#060D18 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#667D88 ctermfg=12
 hi SpecialKey guifg=#667D88 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#78456B guifg=#162D38 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#263D48 guifg=#060D18 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#4D5B94 guifg=#162D38 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#263D48 guifg=#060D18 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#6A865A guifg=#162D38 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#667D88 ctermbg=12
 
 " Diffs
 " -----------------

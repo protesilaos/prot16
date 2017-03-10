@@ -1,8 +1,7 @@
 " Name: Gaia light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/gaia
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#DBDDCF guifg=#7D7E7F cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#9B9D8F ctermbg=12
 
 hi Folded guibg=#DBDDCF guifg=#2D2E2F ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#DBDDCF guifg=#2D2E2F ctermbg=7 ctermfg=8
 
 hi NonText guifg=#9B9D8F ctermfg=12
 hi SpecialKey guifg=#9B9D8F ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#9D6936 guifg=#EBEDDF ctermbg=1 ctermfg=15
 hi SpellCap guibg=#DBDDCF guifg=#2D2E2F ctermbg=7 ctermfg=8
 hi SpellRare guibg=#8A8DB7 guifg=#EBEDDF ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#DBDDCF guifg=#2D2E2F ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#BDAA4A guifg=#EBEDDF ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#9B9D8F ctermbg=12
 
 " Diffs
 " -----------------

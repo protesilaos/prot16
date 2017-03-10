@@ -1,8 +1,7 @@
 " Name: Alto dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/alto
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#283D3A guifg=#8A8A7C cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#687D7A ctermbg=11
 
 hi Folded guibg=#283D3A guifg=#FAFAEC ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#283D3A guifg=#FAFAEC ctermbg=0 ctermfg=15
 
 hi NonText guifg=#687D7A ctermfg=11
 hi SpecialKey guifg=#687D7A ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#C6414D guifg=#FAFAEC ctermbg=1 ctermfg=15
 hi SpellCap guibg=#283D3A guifg=#FAFAEC ctermbg=0 ctermfg=15
 hi SpellRare guibg=#9A7BC8 guifg=#FAFAEC ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#283D3A guifg=#FAFAEC ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#C6A13D guifg=#FAFAEC ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#687D7A ctermbg=11
 
 " Diffs
 " -----------------

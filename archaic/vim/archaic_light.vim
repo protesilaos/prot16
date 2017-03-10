@@ -1,8 +1,7 @@
 " Name: Archaic light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/archaic
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#EEE1C8 guifg=#7E7976 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#9E9178 ctermbg=12
 
 hi Folded guibg=#EEE1C8 guifg=#2E2926 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#EEE1C8 guifg=#2E2926 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#9E9178 ctermfg=12
 hi SpecialKey guifg=#9E9178 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#AB5637 guifg=#FEF1D8 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#EEE1C8 guifg=#2E2926 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#8A6BB5 guifg=#FEF1D8 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#368876 guifg=#FEF1D8 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#EEE1C8 guifg=#2E2926 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#A97906 guifg=#FEF1D8 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#9E9178 ctermbg=12
 
 " Diffs
 " -----------------

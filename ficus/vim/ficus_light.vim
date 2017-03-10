@@ -1,8 +1,7 @@
 " Name: Ficus light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/ficus
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#DDE1D5 guifg=#67556C cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#8D9185 ctermbg=12
 
 hi Folded guibg=#DDE1D5 guifg=#27152C ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#DDE1D5 guifg=#27152C ctermbg=7 ctermfg=8
 
 hi NonText guifg=#8D9185 ctermfg=12
 hi SpecialKey guifg=#8D9185 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#AA3A5A guifg=#EDF1E5 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#DDE1D5 guifg=#27152C ctermbg=7 ctermfg=8
 hi SpellRare guibg=#A46ACD guifg=#EDF1E5 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#6CACAB guifg=#EDF1E5 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#DDE1D5 guifg=#27152C ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#A0A60A guifg=#EDF1E5 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#8D9185 ctermbg=12
 
 " Diffs
 " -----------------

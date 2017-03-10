@@ -1,8 +1,7 @@
 " Name: Sonho light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/sonho
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#EFE0E2 guifg=#8A7678 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#8F8082 ctermbg=12
 
 hi Folded guibg=#EFE0E2 guifg=#4A3638 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#EFE0E2 guifg=#4A3638 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#8F8082 ctermfg=12
 hi SpecialKey guifg=#8F8082 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#CD4679 guifg=#FFF0F2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#EFE0E2 guifg=#4A3638 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#A77CCF guifg=#FFF0F2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#5FB8B4 guifg=#FFF0F2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#EFE0E2 guifg=#4A3638 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#D9A652 guifg=#FFF0F2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#8F8082 ctermbg=12
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Orionis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/orionis
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#2F3A3D guifg=#8F9193 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#5F6A6D ctermbg=11
 
 hi Folded guibg=#2F3A3D guifg=#EFF1F3 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#2F3A3D guifg=#EFF1F3 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#5F6A6D ctermfg=11
 hi SpecialKey guifg=#5F6A6D ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#974F6C guifg=#EFF1F3 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#2F3A3D guifg=#EFF1F3 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#7E7EAD guifg=#EFF1F3 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#2F3A3D guifg=#EFF1F3 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#9A8F0C guifg=#EFF1F3 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#5F6A6D ctermbg=11
 
 " Diffs
 " -----------------

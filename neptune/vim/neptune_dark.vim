@@ -1,8 +1,7 @@
 " Name: Neptune dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/neptune
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#383C46 guifg=#808188 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#686C76 ctermbg=11
 
 hi Folded guibg=#383C46 guifg=#F0F1F8 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#383C46 guifg=#F0F1F8 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#686C76 ctermfg=11
 hi SpecialKey guifg=#686C76 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A97552 guifg=#F0F1F8 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#383C46 guifg=#F0F1F8 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#7A7DCA guifg=#F0F1F8 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#383C46 guifg=#F0F1F8 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#B9A552 guifg=#F0F1F8 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#686C76 ctermbg=11
 
 " Diffs
 " -----------------

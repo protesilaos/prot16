@@ -1,8 +1,7 @@
 " Name: Overgrowth light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/overgrowth
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#D6D5C2 guifg=#637F74 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#A6A592 ctermbg=12
 
 hi Folded guibg=#D6D5C2 guifg=#233F34 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#D6D5C2 guifg=#233F34 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#A6A592 ctermfg=12
 hi SpecialKey guifg=#A6A592 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#CA6A4A guifg=#E6E5D2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#D6D5C2 guifg=#233F34 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#8A6EBB guifg=#E6E5D2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#D6D5C2 guifg=#233F34 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#A8950D guifg=#E6E5D2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#A6A592 ctermbg=12
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Symbiosis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/symbiosis
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#212D2C guifg=#8C8A89 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#616D6C ctermbg=11
 
 hi Folded guibg=#212D2C guifg=#FCFAF9 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#212D2C guifg=#FCFAF9 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#616D6C ctermfg=11
 hi SpecialKey guifg=#616D6C ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#B95846 guifg=#FCFAF9 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#212D2C guifg=#FCFAF9 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#9166AB guifg=#FCFAF9 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#212D2C guifg=#FCFAF9 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#A89641 guifg=#FCFAF9 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#616D6C ctermbg=11
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Termina dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/termina
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#2A3235 guifg=#9E9C8E cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#5A6265 ctermbg=11
 
 hi Folded guibg=#2A3235 guifg=#FEFCEE ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#2A3235 guifg=#FEFCEE ctermbg=0 ctermfg=15
 
 hi NonText guifg=#5A6265 ctermfg=11
 hi SpecialKey guifg=#5A6265 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#985637 guifg=#FEFCEE ctermbg=1 ctermfg=15
 hi SpellCap guibg=#2A3235 guifg=#FEFCEE ctermbg=0 ctermfg=15
 hi SpellRare guibg=#8479A6 guifg=#FEFCEE ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#629298 guifg=#FEFCEE ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#2A3235 guifg=#FEFCEE ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#9A813D guifg=#FEFCEE ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#5A6265 ctermbg=11
 
 " Diffs
 " -----------------

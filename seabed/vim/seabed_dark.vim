@@ -1,8 +1,7 @@
 " Name: Seabed dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/seabed
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#161D28 guifg=#667D88 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#666D78 ctermbg=11
 
 hi Folded guibg=#161D28 guifg=#162D38 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#161D28 guifg=#162D38 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#666D78 ctermfg=11
 hi SpecialKey guifg=#666D78 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#78456B guifg=#162D38 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#161D28 guifg=#162D38 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#4D5B94 guifg=#162D38 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#161D28 guifg=#162D38 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#6A865A guifg=#162D38 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#666D78 ctermbg=11
 
 " Diffs
 " -----------------

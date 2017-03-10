@@ -1,8 +1,7 @@
 " Name: Cyprium dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/cyprium
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#475944 guifg=#9B998A cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#879984 ctermbg=11
 
 hi Folded guibg=#475944 guifg=#EBE9DA ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#475944 guifg=#EBE9DA ctermbg=0 ctermfg=15
 
 hi NonText guifg=#879984 ctermfg=11
 hi SpecialKey guifg=#879984 ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A36A5F guifg=#EBE9DA ctermbg=1 ctermfg=15
 hi SpellCap guibg=#475944 guifg=#EBE9DA ctermbg=0 ctermfg=15
 hi SpellRare guibg=#8B85BA guifg=#EBE9DA ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#475944 guifg=#EBE9DA ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#A38E10 guifg=#EBE9DA ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#879984 ctermbg=11
 
 " Diffs
 " -----------------

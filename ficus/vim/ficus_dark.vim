@@ -1,8 +1,7 @@
 " Name: Ficus dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/ficus
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=dark
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#37253C guifg=#8D9185 cterm=none ctermbg=0 ctermf
 hi ColorColumn guibg=#67556C ctermbg=11
 
 hi Folded guibg=#37253C guifg=#EDF1E5 ctermbg=0 ctermfg=15
+hi FoldColumn guibg=#37253C guifg=#EDF1E5 ctermbg=0 ctermfg=15
 
 hi NonText guifg=#67556C ctermfg=11
 hi SpecialKey guifg=#67556C ctermfg=11
@@ -93,6 +93,10 @@ hi SpellBad guibg=#AA3A5A guifg=#EDF1E5 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#37253C guifg=#EDF1E5 ctermbg=0 ctermfg=15
 hi SpellRare guibg=#A46ACD guifg=#EDF1E5 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#6CACAB guifg=#EDF1E5 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#37253C guifg=#EDF1E5 ctermbg=0 ctermfg=15
+hi PmenuSel guibg=#A0A60A guifg=#EDF1E5 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#67556C ctermbg=11
 
 " Diffs
 " -----------------

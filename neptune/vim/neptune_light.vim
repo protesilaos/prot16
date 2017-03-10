@@ -1,8 +1,7 @@
 " Name: Neptune light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/neptune
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#E0E1E8 guifg=#686C76 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#808188 ctermbg=12
 
 hi Folded guibg=#E0E1E8 guifg=#282C36 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#E0E1E8 guifg=#282C36 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#808188 ctermfg=12
 hi SpecialKey guifg=#808188 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A97552 guifg=#F0F1F8 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#E0E1E8 guifg=#282C36 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#7A7DCA guifg=#F0F1F8 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#E0E1E8 guifg=#282C36 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#B9A552 guifg=#F0F1F8 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#808188 ctermbg=12
 
 " Diffs
 " -----------------

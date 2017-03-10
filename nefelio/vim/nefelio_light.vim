@@ -1,8 +1,7 @@
 " Name: Nefelio light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/nefelio
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#DADFE2 guifg=#686366 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#9A9FA2 ctermbg=12
 
 hi Folded guibg=#DADFE2 guifg=#282326 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#DADFE2 guifg=#282326 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#9A9FA2 ctermfg=12
 hi SpecialKey guifg=#9A9FA2 ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#BA3D5A guifg=#EAEFF2 ctermbg=1 ctermfg=15
 hi SpellCap guibg=#DADFE2 guifg=#282326 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#956CDA guifg=#EAEFF2 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#34B7BD guifg=#EAEFF2 ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#DADFE2 guifg=#282326 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#CA9E5D guifg=#EAEFF2 ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#9A9FA2 ctermbg=12
 
 " Diffs
 " -----------------

@@ -1,8 +1,7 @@
 " Name: Oliveira light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/oliveira
-" Version: 0.0.1.alpha-20170226
-" Note: This is an early version. May undergo significant changes.
+" Version: 0.1.0.beta-20170310
 
 set background=light
 hi clear
@@ -76,6 +75,7 @@ hi CursorLineNr gui=none guibg=#E1E3DB guifg=#757972 cterm=none ctermbg=7 ctermf
 hi ColorColumn guibg=#91938B ctermbg=12
 
 hi Folded guibg=#E1E3DB guifg=#252922 ctermbg=7 ctermfg=8
+hi FoldColumn guibg=#E1E3DB guifg=#252922 ctermbg=7 ctermfg=8
 
 hi NonText guifg=#91938B ctermfg=12
 hi SpecialKey guifg=#91938B ctermfg=12
@@ -93,6 +93,10 @@ hi SpellBad guibg=#A64E3C guifg=#F1F3EB ctermbg=1 ctermfg=15
 hi SpellCap guibg=#E1E3DB guifg=#252922 ctermbg=7 ctermfg=8
 hi SpellRare guibg=#7C85B7 guifg=#F1F3EB ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#5CAA9A guifg=#F1F3EB ctermbg=6 ctermfg=15
+
+hi Pmenu guibg=#E1E3DB guifg=#252922 ctermbg=7 ctermfg=8
+hi PmenuSel guibg=#A59520 guifg=#F1F3EB ctermbg=3 ctermfg=15
+hi PmenuSbar guibg=#91938B ctermbg=12
 
 " Diffs
 " -----------------
