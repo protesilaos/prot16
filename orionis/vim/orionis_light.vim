@@ -14,7 +14,7 @@ let g:colors_name = "orionis_light"
 " General
 " -----------------
 hi Normal guibg=#EFF1F3 guifg=#5F6163 ctermbg=none ctermfg=10
-hi Visual guibg=#DFE1E3 guifg=#5F6163 ctermbg=7 ctermfg=10
+hi Visual guibg=#2F3A3D guifg=#8F9A9D ctermbg=0 ctermfg=14
 hi Search guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#8F9193 cterm=italic ctermfg=12

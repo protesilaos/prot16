@@ -14,7 +14,7 @@ let g:colors_name = "bionis_dark"
 " General
 " -----------------
 hi Normal guibg=#251A27 guifg=#B5AAB7 ctermbg=none ctermfg=14
-hi Visual guibg=#352A37 guifg=#B5AAB7 ctermbg=0 ctermfg=14
+hi Visual guibg=#EBE8ED guifg=#4B484D ctermbg=7 ctermfg=10
 hi Search guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#857A87 cterm=italic ctermfg=11

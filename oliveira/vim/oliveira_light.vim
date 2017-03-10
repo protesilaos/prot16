@@ -14,7 +14,7 @@ let g:colors_name = "oliveira_light"
 " General
 " -----------------
 hi Normal guibg=#F1F3EB guifg=#51534B ctermbg=none ctermfg=10
-hi Visual guibg=#E1E3DB guifg=#51534B ctermbg=7 ctermfg=10
+hi Visual guibg=#353932 guifg=#959992 ctermbg=0 ctermfg=14
 hi Search guibg=#5CAA9A guifg=#F1F3EB ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#91938B cterm=italic ctermfg=12

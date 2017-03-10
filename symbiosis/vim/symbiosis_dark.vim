@@ -14,7 +14,7 @@ let g:colors_name = "symbiosis_dark"
 " General
 " -----------------
 hi Normal guibg=#111D1C guifg=#A1ADAC ctermbg=none ctermfg=14
-hi Visual guibg=#212D2C guifg=#A1ADAC ctermbg=0 ctermfg=14
+hi Visual guibg=#ECEAE9 guifg=#4C4A49 ctermbg=7 ctermfg=10
 hi Search guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#616D6C cterm=italic ctermfg=11

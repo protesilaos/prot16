@@ -14,7 +14,7 @@ let g:colors_name = "bionis_light"
 " General
 " -----------------
 hi Normal guibg=#FBF8FD guifg=#4B484D ctermbg=none ctermfg=10
-hi Visual guibg=#EBE8ED guifg=#4B484D ctermbg=7 ctermfg=10
+hi Visual guibg=#352A37 guifg=#B5AAB7 ctermbg=0 ctermfg=14
 hi Search guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9B989D cterm=italic ctermfg=12

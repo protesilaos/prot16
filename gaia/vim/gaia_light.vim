@@ -14,7 +14,7 @@ let g:colors_name = "gaia_light"
 " General
 " -----------------
 hi Normal guibg=#EBEDDF guifg=#6B6D5F ctermbg=none ctermfg=10
-hi Visual guibg=#DBDDCF guifg=#6B6D5F ctermbg=7 ctermfg=10
+hi Visual guibg=#3D3E3F guifg=#ADAEAF ctermbg=0 ctermfg=14
 hi Search guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9B9D8F cterm=italic ctermfg=12

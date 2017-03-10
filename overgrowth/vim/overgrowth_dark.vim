@@ -14,7 +14,7 @@ let g:colors_name = "overgrowth_dark"
 " General
 " -----------------
 hi Normal guibg=#233F34 guifg=#93AFA4 ctermbg=none ctermfg=14
-hi Visual guibg=#334F44 guifg=#93AFA4 ctermbg=0 ctermfg=14
+hi Visual guibg=#D6D5C2 guifg=#767562 ctermbg=7 ctermfg=10
 hi Search guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#637F74 cterm=italic ctermfg=11

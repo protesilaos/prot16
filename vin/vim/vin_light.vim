@@ -14,7 +14,7 @@ let g:colors_name = "vin_light"
 " General
 " -----------------
 hi Normal guibg=#EFFDD4 guifg=#3F4D24 ctermbg=none ctermfg=10
-hi Visual guibg=#DFEDC4 guifg=#3F4D24 ctermbg=7 ctermfg=10
+hi Visual guibg=#202D14 guifg=#B0BDA4 ctermbg=0 ctermfg=14
 hi Search guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#7F8D64 cterm=italic ctermfg=12

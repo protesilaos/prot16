@@ -14,7 +14,7 @@ let g:colors_name = "playa_dark"
 " General
 " -----------------
 hi Normal guibg=#234154 guifg=#93BFC4 ctermbg=none ctermfg=14
-hi Visual guibg=#335F64 guifg=#93BFC4 ctermbg=0 ctermfg=14
+hi Visual guibg=#EAE1D0 guifg=#7A7160 ctermbg=7 ctermfg=10
 hi Search guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#638F94 cterm=italic ctermfg=11

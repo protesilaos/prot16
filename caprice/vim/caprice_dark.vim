@@ -14,7 +14,7 @@ let g:colors_name = "caprice_dark"
 " General
 " -----------------
 hi Normal guibg=#211B29 guifg=#A19BA9 ctermbg=none ctermfg=14
-hi Visual guibg=#312B39 guifg=#A19BA9 ctermbg=0 ctermfg=14
+hi Visual guibg=#EEEBEC guifg=#2E2B2C ctermbg=7 ctermfg=10
 hi Search guibg=#587EBC guifg=#FEFBFC ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#716B79 cterm=italic ctermfg=11

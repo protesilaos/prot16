@@ -14,7 +14,7 @@ let g:colors_name = "termina_dark"
 " General
 " -----------------
 hi Normal guibg=#1A2225 guifg=#8A9295 ctermbg=none ctermfg=14
-hi Visual guibg=#2A3235 guifg=#8A9295 ctermbg=0 ctermfg=14
+hi Visual guibg=#EEECDE guifg=#5E5C4E ctermbg=7 ctermfg=10
 hi Search guibg=#629298 guifg=#FEFCEE ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#5A6265 cterm=italic ctermfg=11

@@ -14,7 +14,7 @@ let g:colors_name = "cyprium_dark"
 " General
 " -----------------
 hi Normal guibg=#374934 guifg=#A7B9A4 ctermbg=none ctermfg=14
-hi Visual guibg=#475944 guifg=#A7B9A4 ctermbg=0 ctermfg=14
+hi Visual guibg=#DBD9CA guifg=#6B695A ctermbg=7 ctermfg=10
 hi Search guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#879984 cterm=italic ctermfg=11

@@ -14,7 +14,7 @@ let g:colors_name = "seabed_dark"
 " General
 " -----------------
 hi Normal guibg=#060D18 guifg=#969DA8 ctermbg=none ctermfg=14
-hi Visual guibg=#161D28 guifg=#969DA8 ctermbg=0 ctermfg=14
+hi Visual guibg=#263D48 guifg=#96ADB8 ctermbg=7 ctermfg=10
 hi Search guibg=#35838C guifg=#162D38 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#666D78 cterm=italic ctermfg=11

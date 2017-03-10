@@ -14,7 +14,7 @@ let g:colors_name = "nefelio_light"
 " General
 " -----------------
 hi Normal guibg=#EAEFF2 guifg=#6A6F72 ctermbg=none ctermfg=10
-hi Visual guibg=#DADFE2 guifg=#6A6F72 ctermbg=7 ctermfg=10
+hi Visual guibg=#383336 guifg=#989396 ctermbg=0 ctermfg=14
 hi Search guibg=#34B7BD guifg=#EAEFF2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9A9FA2 cterm=italic ctermfg=12

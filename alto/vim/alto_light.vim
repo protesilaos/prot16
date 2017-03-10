@@ -14,7 +14,7 @@ let g:colors_name = "alto_light"
 " General
 " -----------------
 hi Normal guibg=#FAFAEC guifg=#5A5A4C ctermbg=none ctermfg=10
-hi Visual guibg=#EAEADC guifg=#5A5A4C ctermbg=7 ctermfg=10
+hi Visual guibg=#283D3A guifg=#98ADAA ctermbg=0 ctermfg=14
 hi Search guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#8A8A7C cterm=italic ctermfg=12

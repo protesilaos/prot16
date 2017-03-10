@@ -14,7 +14,7 @@ let g:colors_name = "neptune_light"
 " General
 " -----------------
 hi Normal guibg=#F0F1F8 guifg=#404148 ctermbg=none ctermfg=10
-hi Visual guibg=#E0E1E8 guifg=#404148 ctermbg=7 ctermfg=10
+hi Visual guibg=#383C46 guifg=#A8ACB6 ctermbg=0 ctermfg=14
 hi Search guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#808188 cterm=italic ctermfg=12

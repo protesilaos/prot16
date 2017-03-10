@@ -14,7 +14,7 @@ let g:colors_name = "magus_light"
 " General
 " -----------------
 hi Normal guibg=#F2EDE6 guifg=#625D56 ctermbg=none ctermfg=10
-hi Visual guibg=#E2DDD6 guifg=#625D56 ctermbg=7 ctermfg=10
+hi Visual guibg=#423A39 guifg=#A29A99 ctermbg=0 ctermfg=14
 hi Search guibg=#65AB85 guifg=#F2EDE6 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#A29D96 cterm=italic ctermfg=12

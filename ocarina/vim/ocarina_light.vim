@@ -14,7 +14,7 @@ let g:colors_name = "ocarina_light"
 " General
 " -----------------
 hi Normal guibg=#EBEBE7 guifg=#6B6B67 ctermbg=none ctermfg=10
-hi Visual guibg=#DBDBD7 guifg=#6B6B67 ctermbg=7 ctermfg=10
+hi Visual guibg=#313C3D guifg=#919C9D ctermbg=0 ctermfg=14
 hi Search guibg=#48A99B guifg=#EBEBE7 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9B9B97 cterm=italic ctermfg=12

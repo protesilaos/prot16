@@ -14,7 +14,7 @@ let g:colors_name = "flowerbed_dark"
 " General
 " -----------------
 hi Normal guibg=#233949 guifg=#A3B9C9 ctermbg=none ctermfg=14
-hi Visual guibg=#334959 guifg=#A3B9C9 ctermbg=0 ctermfg=14
+hi Visual guibg=#DCE3E2 guifg=#5C6362 ctermbg=7 ctermfg=10
 hi Search guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#738999 cterm=italic ctermfg=11

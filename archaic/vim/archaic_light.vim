@@ -14,7 +14,7 @@ let g:colors_name = "archaic_light"
 " General
 " -----------------
 hi Normal guibg=#FEF1D8 guifg=#5E5138 ctermbg=none ctermfg=10
-hi Visual guibg=#EEE1C8 guifg=#5E5138 ctermbg=7 ctermfg=10
+hi Visual guibg=#3E3936 guifg=#AEA9A6 ctermbg=0 ctermfg=14
 hi Search guibg=#368876 guifg=#FEF1D8 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#9E9178 cterm=italic ctermfg=12

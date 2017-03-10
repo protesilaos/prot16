@@ -14,7 +14,7 @@ let g:colors_name = "sonho_light"
 " General
 " -----------------
 hi Normal guibg=#FFF0F2 guifg=#5F5052 ctermbg=none ctermfg=10
-hi Visual guibg=#EFE0E2 guifg=#5F5052 ctermbg=7 ctermfg=10
+hi Visual guibg=#5A4648 guifg=#BAA6A8 ctermbg=0 ctermfg=14
 hi Search guibg=#5FB8B4 guifg=#FFF0F2 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#8F8082 cterm=italic ctermfg=12

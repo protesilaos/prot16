@@ -14,7 +14,7 @@ let g:colors_name = "ficus_dark"
 " General
 " -----------------
 hi Normal guibg=#27152C guifg=#97859C ctermbg=none ctermfg=14
-hi Visual guibg=#37253C guifg=#97859C ctermbg=0 ctermfg=14
+hi Visual guibg=#DDE1D5 guifg=#5D6155 ctermbg=7 ctermfg=10
 hi Search guibg=#6CACAB guifg=#EDF1E5 ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#67556C cterm=italic ctermfg=11

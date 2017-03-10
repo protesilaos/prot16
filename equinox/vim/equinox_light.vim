@@ -14,7 +14,7 @@ let g:colors_name = "equinox_light"
 " General
 " -----------------
 hi Normal guibg=#FCFAFE guifg=#3C3A3E ctermbg=none ctermfg=10
-hi Visual guibg=#ECEAEE guifg=#3C3A3E ctermbg=7 ctermfg=10
+hi Visual guibg=#2D2931 guifg=#ADA9B1 ctermbg=0 ctermfg=14
 hi Search guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
 
 hi Comment gui=italic guifg=#7C7A7E cterm=italic ctermfg=12
