@@ -27,6 +27,8 @@ This is the master repository of all the items I have developed. Each directory 
   - a `README` with further instructions.
 - under `urxvt`:
   - a sample Xresources with the colour scheme (you need to copy/paste it into your `.Xresources`)
+- under `xfce4-notifications`:
+  - style sheets for the native XFCE4 notifications (add the file to `~/.themes/$theme-name/xfce-notify-4.0/gtk.css `)
 
 *NOTE: You can also get the theme you want for your favourite application by using the new [Prot16 Builder](https://github.com/protesilaos/prot16-builder).*
 
