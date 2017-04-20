@@ -6,10 +6,13 @@ This is the master repository of all the items I have developed. Each directory 
 
 For specific use cases, please refer to the relevant GitHub project:
 
+- [Prot16 Builder](https://github.com/protesilaos/prot16-builder) (an npm tool to build themes on demand)
+- [Prot16 Data](https://github.com/protesilaos/prot16-data) (colour values and colour mapping for each theme)
 - [Prot16 Vim](https://github.com/protesilaos/prot16-vim) (themes for Vim GUI and terminal)
 - [Prot16 Vim Airline](https://github.com/protesilaos/prot16-vim-airline) (themes for the vim-airline plugin)
 - [Prot16 XFCE4 Terminal](https://github.com/protesilaos/prot16-xfce4-terminal) (themes for the XFCE4 terminal emulator)
-- [Prot16 Builder](https://github.com/protesilaos/prot16-builder) (an npm tool to build themes on demand)
+- [Prot16 URXVT](https://github.com/protesilaos/prot16-urxvt) (themes for the URXVT terminal)
+- [Prot16 for Jekyll/Rouge](https://github.com/protesilaos/prot16-jekyll-rouge) (syntax highlighting for Jekyll websites)
 - [Prot16 Atom index](https://github.com/protesilaos/prot16-atom-index) (a list with the Atom editor ports)
 
 ## Classification of themes
