@@ -1,0 +1,11 @@
+[Scheme]
+Name=Blau dark
+ColorForeground=#98989F
+ColorBackground=#28282F
+ColorCursor=#98989F
+ColorBold=#98989F
+ColorPalette=#38383F;#A43D56;#3BA67A;#BB8B11;#2F7CB1;#A5657A;#2F95A5;#CFCCCE;#28282F;#BB651B;#4F4C4E;#68686F;#7F7C7E;#5E6FB5;#98989F;#DFDCDE
+TabActivityColor=#3BA67A
+ColorSelectionBackground=#38383F
+ColorSelection=#98989F
+
