@@ -40,7 +40,7 @@ You can [contact me](https://protesilaos.com/contact/) in advance if you need an
 
 ### Thanks to
 
-- [metalelf0](https://github.com/metalelf0) for all the iTerm2 ports, plus the `/utils/prot16_to_iterm2.rb` script.
+- [metalelf0](https://github.com/metalelf0) for all the iTerm2 ports, plus the `/utils/build/prot16_to_iterm2.rb` script.
 
 ## Acknowledgements
 
