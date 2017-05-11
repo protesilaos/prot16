@@ -1,9 +1,9 @@
 #!/bin/bash
-mkdir -p $HOME/prot16/${name}/urxvt/
-
 for filename in $(ls ~/prot16-builder/db/schemes)
 do
   name=$(echo $filename | cut -f 1 -d '.')
+
+  mkdir -p $HOME/prot16/${name}/urxvt/
 
   prot16-builder -s ${name} -t urxvt -b light > $HOME/prot16/${name}/urxvt/${name}-light.Xresources
   tput setaf 1; echo "Preparing ${name} light for urxvt"

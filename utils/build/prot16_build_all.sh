@@ -1,15 +1,15 @@
 #!/bin/bash
-mkdir -p $HOME/prot16/${name}/hyper/
-mkdir -p $HOME/prot16/${name}/terminator
-mkdir -p $HOME/prot16/${name}/xfce4-terminal
-mkdir -p $HOME/prot16/${name}/xfce4-notifications
-mkdir -p $HOME/prot16/${name}/vim-airline
-mkdir -p $HOME/prot16/${name}/vim
-mkdir -p $HOME/prot16/${name}/urxvt
-
 for filename in $(ls ~/prot16-builder/db/schemes)
 do
   name=$(echo $filename | cut -f 1 -d '.')
+
+  mkdir -p $HOME/prot16/${name}/hyper/
+  mkdir -p $HOME/prot16/${name}/terminator
+  mkdir -p $HOME/prot16/${name}/xfce4-terminal
+  mkdir -p $HOME/prot16/${name}/xfce4-notifications
+  mkdir -p $HOME/prot16/${name}/vim-airline
+  mkdir -p $HOME/prot16/${name}/vim
+  mkdir -p $HOME/prot16/${name}/urxvt
 
   prot16-builder -s ${name} -t hyper -b light > $HOME/prot16/${name}/hyper/${name}-light.js
   tput setaf 2; echo "Preparing ${name} light for Hyper"
@@ -26,10 +26,10 @@ do
   prot16-builder -s ${name} -t xfce4-terminal -b dark > $HOME/prot16/${name}/xfce4-terminal/${name}-dark.theme
   tput setaf 9; echo "Preparing ${name} dark for XFCE4-Terminal"
 
-  prot16-builder -s ${name} -t xfce4-notifications -b light > $HOME/prot16/${name}/xfce4-notifications/${name}-light.theme
-  tput setaf 9; echo "Preparing ${name} light for XFCE4-Terminal"
-  prot16-builder -s ${name} -t xfce4-notifications -b dark > $HOME/prot16/${name}/xfce4-notifications/${name}-dark.theme
-  tput setaf 9; echo "Preparing ${name} dark for XFCE4-Terminal"
+  prot16-builder -s ${name} -t xfce4-notifications -b light > $HOME/prot16/${name}/xfce4-notifications/${name}_light.css
+  tput setaf 4; echo "Preparing ${name} light for XFCE4 notifications module"
+  prot16-builder -s ${name} -t xfce4-notifications -b dark > $HOME/prot16/${name}/xfce4-notifications/${name}_dark.css
+  tput setaf 4; echo "Preparing ${name} dark for XFCE4 notifications module"
 
   prot16-builder -s ${name} -t vim-airline -b light > $HOME/prot16/${name}/vim-airline/${name}_light.vim
   tput setaf 1; echo "Preparing ${name} light for Vim airline"

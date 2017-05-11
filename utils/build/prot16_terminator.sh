@@ -1,9 +1,9 @@
 #!/bin/bash
-mkdir -p $HOME/prot16/${name}/terminator/
-
 for filename in $(ls ~/prot16-builder/db/schemes)
 do
   name=$(echo $filename | cut -f 1 -d '.')
+
+  mkdir -p $HOME/prot16/${name}/terminator/
 
   prot16-builder -s ${name} -t terminator -b light > $HOME/prot16/${name}/terminator/${name}-light.txt
   tput setaf 9; echo "Preparing ${name} light for terminator"
