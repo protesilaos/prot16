@@ -1,0 +1,11 @@
+[Scheme]
+Name=Hinterland light
+ColorForeground=#3d463f
+ColorBackground=#f9f8fc
+ColorCursor=#3d463f
+ColorBold=#3d463f
+ColorPalette=#22272B;#983f16;#3D814C;#b09020;#217ab3;#ad5c5b;#01917b;#e9e8ec;#12171B;#9e6c3d;#3d463f;#60604f;#768592;#7d6cab;#8aa0a4;#f9f8fc
+TabActivityColor=#3D814C
+ColorSelectionBackground=#e9e8ec
+ColorSelection=#3d463f
+

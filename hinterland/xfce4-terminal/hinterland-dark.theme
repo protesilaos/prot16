@@ -1,0 +1,11 @@
+[Scheme]
+Name=Hinterland dark
+ColorForeground=#8aa0a4
+ColorBackground=#12171B
+ColorCursor=#8aa0a4
+ColorBold=#8aa0a4
+ColorPalette=#22272B;#983f16;#3D814C;#b09020;#217ab3;#ad5c5b;#01917b;#e9e8ec;#12171B;#9e6c3d;#3d463f;#60604f;#768592;#7d6cab;#8aa0a4;#f9f8fc
+TabActivityColor=#3D814C
+ColorSelectionBackground=#22272B
+ColorSelection=#8aa0a4
+
