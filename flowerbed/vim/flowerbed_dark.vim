@@ -1,7 +1,7 @@
 " Name: Flowerbed dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/flowerbed
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "flowerbed_dark"
 hi Normal guibg=#233949 guifg=#A3B9C9 ctermbg=none ctermfg=14
 hi Visual guibg=#DCE3E2 guifg=#5C6362 ctermbg=7 ctermfg=10
 hi Search guibg=#1CABA1 guifg=#ECF3F2 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#334959 guifg=#A3B9C9 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#334959 guifg=#5C6362 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#334959 guifg=#738999 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#4AA7D2 guifg=#ECF3F2 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#738999 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#334959 guifg=#D89A47 cterm=none ctermbg=0 ctermfg=9

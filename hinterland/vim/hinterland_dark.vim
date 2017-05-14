@@ -1,7 +1,7 @@
 " Name: Hinterland dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/hinterland
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "hinterland_dark"
 hi Normal guibg=#12171B guifg=#8aa0a4 ctermbg=none ctermfg=14
 hi Visual guibg=#e9e8ec guifg=#3d463f ctermbg=7 ctermfg=10
 hi Search guibg=#01917b guifg=#f9f8fc ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#22272B guifg=#8aa0a4 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#22272B guifg=#3d463f cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#22272B guifg=#60604f cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#217ab3 guifg=#f9f8fc cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#60604f cterm=italic ctermfg=11
 hi Todo gui=none guibg=#22272B guifg=#ad5c5b cterm=none ctermbg=0 ctermfg=5

@@ -1,7 +1,7 @@
 " Name: Ficus dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/ficus
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "ficus_dark"
 hi Normal guibg=#27152C guifg=#97859C ctermbg=none ctermfg=14
 hi Visual guibg=#DDE1D5 guifg=#5D6155 ctermbg=7 ctermfg=10
 hi Search guibg=#6CACAB guifg=#EDF1E5 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#37253C guifg=#97859C cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#37253C guifg=#5D6155 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#37253C guifg=#67556C cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#6D75CD guifg=#EDF1E5 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#67556C cterm=italic ctermfg=11
 hi Todo gui=none guibg=#37253C guifg=#6D75CD cterm=none ctermbg=0 ctermfg=4

@@ -1,7 +1,7 @@
 " Name: Overgrowth dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/overgrowth
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "overgrowth_dark"
 hi Normal guibg=#233F34 guifg=#93AFA4 ctermbg=none ctermfg=14
 hi Visual guibg=#D6D5C2 guifg=#767562 ctermbg=7 ctermfg=10
 hi Search guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#334F44 guifg=#93AFA4 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#334F44 guifg=#767562 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#334F44 guifg=#637F74 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#359FCA guifg=#E6E5D2 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#637F74 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#334F44 guifg=#359FCA cterm=none ctermbg=0 ctermfg=4

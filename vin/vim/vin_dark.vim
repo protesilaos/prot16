@@ -1,7 +1,7 @@
 " Name: Vin dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/vin
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "vin_dark"
 hi Normal guibg=#101D04 guifg=#B0BDA4 ctermbg=none ctermfg=14
 hi Visual guibg=#DFEDC4 guifg=#3F4D24 ctermbg=7 ctermfg=10
 hi Search guibg=#13865A guifg=#EFFDD4 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#202D14 guifg=#B0BDA4 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#202D14 guifg=#3F4D24 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#202D14 guifg=#606D54 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#5A5DA8 guifg=#EFFDD4 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#606D54 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#202D14 guifg=#5A5DA8 cterm=none ctermbg=0 ctermfg=4

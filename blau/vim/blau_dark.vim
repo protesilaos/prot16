@@ -1,7 +1,7 @@
 " Name: Blau dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/blau
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "blau_dark"
 hi Normal guibg=#28282F guifg=#98989F ctermbg=none ctermfg=14
 hi Visual guibg=#CFCCCE guifg=#4F4C4E ctermbg=7 ctermfg=10
 hi Search guibg=#2F95A5 guifg=#DFDCDE ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#38383F guifg=#98989F cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#38383F guifg=#4F4C4E cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#38383F guifg=#68686F cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#2F7CB1 guifg=#DFDCDE cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#68686F cterm=italic ctermfg=11
 hi Todo gui=none guibg=#38383F guifg=#BB8B11 cterm=none ctermbg=0 ctermfg=3

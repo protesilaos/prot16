@@ -1,7 +1,7 @@
 " Name: Oliveira dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/oliveira
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "oliveira_dark"
 hi Normal guibg=#252922 guifg=#959992 ctermbg=none ctermfg=14
 hi Visual guibg=#E1E3DB guifg=#51534B ctermbg=7 ctermfg=10
 hi Search guibg=#5CAA9A guifg=#F1F3EB ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#353932 guifg=#959992 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#353932 guifg=#51534B cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#353932 guifg=#757972 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#4A8DAC guifg=#F1F3EB cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#757972 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#353932 guifg=#A35C35 cterm=none ctermbg=0 ctermfg=9

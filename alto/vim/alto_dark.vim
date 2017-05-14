@@ -1,7 +1,7 @@
 " Name: Alto dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/alto
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "alto_dark"
 hi Normal guibg=#182D2A guifg=#98ADAA ctermbg=none ctermfg=14
 hi Visual guibg=#EAEADC guifg=#5A5A4C ctermbg=7 ctermfg=10
 hi Search guibg=#57AB8B guifg=#FAFAEC ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#283D3A guifg=#98ADAA cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#283D3A guifg=#5A5A4C cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#283D3A guifg=#687D7A cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#378BBD guifg=#FAFAEC cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#687D7A cterm=italic ctermfg=11
 hi Todo gui=none guibg=#283D3A guifg=#C9753D cterm=none ctermbg=0 ctermfg=9

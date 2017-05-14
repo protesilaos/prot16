@@ -1,7 +1,7 @@
 " Name: Ocarina dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/ocarina
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "ocarina_dark"
 hi Normal guibg=#212C2D guifg=#919C9D ctermbg=none ctermfg=14
 hi Visual guibg=#DBDBD7 guifg=#6B6B67 ctermbg=7 ctermfg=10
 hi Search guibg=#48A99B guifg=#EBEBE7 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#313C3D guifg=#919C9D cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#313C3D guifg=#6B6B67 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#313C3D guifg=#616C6D cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#2AA2A5 guifg=#EBEBE7 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#616C6D cterm=italic ctermfg=11
 hi Todo gui=none guibg=#313C3D guifg=#2AA2A5 cterm=none ctermbg=0 ctermfg=4

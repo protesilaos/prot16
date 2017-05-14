@@ -1,7 +1,7 @@
 " Name: Gaia dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/gaia
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "gaia_dark"
 hi Normal guibg=#2D2E2F guifg=#ADAEAF ctermbg=none ctermfg=14
 hi Visual guibg=#DBDDCF guifg=#6B6D5F ctermbg=7 ctermfg=10
 hi Search guibg=#85AF85 guifg=#EBEDDF ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#3D3E3F guifg=#ADAEAF cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#3D3E3F guifg=#6B6D5F cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#3D3E3F guifg=#7D7E7F cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#6C9CBA guifg=#EBEDDF cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#7D7E7F cterm=italic ctermfg=11
 hi Todo gui=none guibg=#3D3E3F guifg=#6C9CBA cterm=none ctermbg=0 ctermfg=4

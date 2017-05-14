@@ -1,7 +1,7 @@
 " Name: Caprice dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/caprice
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "caprice_dark"
 hi Normal guibg=#211B29 guifg=#A19BA9 ctermbg=none ctermfg=14
 hi Visual guibg=#EEEBEC guifg=#2E2B2C ctermbg=7 ctermfg=10
 hi Search guibg=#587EBC guifg=#FEFBFC ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#312B39 guifg=#A19BA9 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#312B39 guifg=#2E2B2C cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#312B39 guifg=#716B79 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#585EBC guifg=#FEFBFC cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#716B79 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#312B39 guifg=#983D4F cterm=none ctermbg=0 ctermfg=1

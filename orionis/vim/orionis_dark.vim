@@ -1,7 +1,7 @@
 " Name: Orionis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/orionis
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "orionis_dark"
 hi Normal guibg=#1F2A2D guifg=#8F9A9D ctermbg=none ctermfg=14
 hi Visual guibg=#DFE1E3 guifg=#5F6163 ctermbg=7 ctermfg=10
 hi Search guibg=#52A6AD guifg=#EFF1F3 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#2F3A3D guifg=#8F9A9D cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#2F3A3D guifg=#5F6163 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#2F3A3D guifg=#5F6A6D cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#4D8AB3 guifg=#EFF1F3 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#5F6A6D cterm=italic ctermfg=11
 hi Todo gui=none guibg=#2F3A3D guifg=#974F6C cterm=none ctermbg=0 ctermfg=1

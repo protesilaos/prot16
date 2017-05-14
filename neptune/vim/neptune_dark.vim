@@ -1,7 +1,7 @@
 " Name: Neptune dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/neptune
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "neptune_dark"
 hi Normal guibg=#282C36 guifg=#A8ACB6 ctermbg=none ctermfg=14
 hi Visual guibg=#E0E1E8 guifg=#404148 ctermbg=7 ctermfg=10
 hi Search guibg=#55AFAF guifg=#F0F1F8 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#383C46 guifg=#A8ACB6 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#383C46 guifg=#404148 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#383C46 guifg=#686C76 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#3C8CBB guifg=#F0F1F8 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#686C76 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#383C46 guifg=#A97552 cterm=none ctermbg=0 ctermfg=1

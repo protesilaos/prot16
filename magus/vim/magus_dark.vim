@@ -1,7 +1,7 @@
 " Name: Magus dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/magus
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "magus_dark"
 hi Normal guibg=#322A29 guifg=#A29A99 ctermbg=none ctermfg=14
 hi Visual guibg=#E2DDD6 guifg=#625D56 ctermbg=7 ctermfg=10
 hi Search guibg=#65AB85 guifg=#F2EDE6 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#423A39 guifg=#A29A99 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#423A39 guifg=#625D56 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#423A39 guifg=#726A69 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#5C8CAA guifg=#F2EDE6 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#726A69 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#423A39 guifg=#7A7DA7 cterm=none ctermbg=0 ctermfg=13

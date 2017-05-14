@@ -1,7 +1,7 @@
 " Name: Cyprium dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/cyprium
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "cyprium_dark"
 hi Normal guibg=#374934 guifg=#A7B9A4 ctermbg=none ctermfg=14
 hi Visual guibg=#DBD9CA guifg=#6B695A ctermbg=7 ctermfg=10
 hi Search guibg=#5C9B85 guifg=#EBE9DA ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#475944 guifg=#A7B9A4 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#475944 guifg=#6B695A cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#475944 guifg=#879984 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#5C959A guifg=#EBE9DA cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#879984 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#475944 guifg=#A36A5F cterm=none ctermbg=0 ctermfg=1

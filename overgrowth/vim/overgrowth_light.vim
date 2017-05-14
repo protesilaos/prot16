@@ -16,6 +16,14 @@ hi Normal guibg=#E6E5D2 guifg=#767562 ctermbg=none ctermfg=10
 hi Visual guibg=#334F44 guifg=#93AFA4 ctermbg=0 ctermfg=14
 hi Search guibg=#15B59B guifg=#E6E5D2 ctermbg=6 ctermfg=15
 
+hi StatusLine gui=none,bold guibg=#D6D5C2 guifg=#767562 cterm=none,bold ctermbg=7 ctermfg=10
+hi StatusLineNC gui=none guibg=#D6D5C2 guifg=#93AFA4 cterm=none ctermbg=7 ctermfg=14
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#D6D5C2 guifg=#A6A592 cterm=none ctermbg=7 ctermfg=12
+hi TabLineSel gui=none guibg=#359FCA guifg=#E6E5D2 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
+
+hi Comment gui=italic guifg=#637F74 cterm=italic ctermfg=11
 hi Comment gui=italic guifg=#A6A592 cterm=italic ctermfg=12
 hi Todo gui=none guibg=#D6D5C2 guifg=#359FCA cterm=none ctermbg=7 ctermfg=4
 

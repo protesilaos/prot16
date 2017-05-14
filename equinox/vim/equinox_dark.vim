@@ -1,7 +1,7 @@
 " Name: Equinox dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/equinox
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "equinox_dark"
 hi Normal guibg=#1D1921 guifg=#ADA9B1 ctermbg=none ctermfg=14
 hi Visual guibg=#ECEAEE guifg=#3C3A3E ctermbg=7 ctermfg=10
 hi Search guibg=#369AA6 guifg=#FCFAFE ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#2D2931 guifg=#ADA9B1 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#2D2931 guifg=#3C3A3E cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#2D2931 guifg=#7D7981 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#536CB2 guifg=#FCFAFE cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#7D7981 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#2D2931 guifg=#CC5D9A cterm=none ctermbg=0 ctermfg=5

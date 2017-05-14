@@ -1,7 +1,7 @@
 " Name: Symbiosis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/symbiosis
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "symbiosis_dark"
 hi Normal guibg=#111D1C guifg=#A1ADAC ctermbg=none ctermfg=14
 hi Visual guibg=#ECEAE9 guifg=#4C4A49 ctermbg=7 ctermfg=10
 hi Search guibg=#48A597 guifg=#FCFAF9 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#212D2C guifg=#A1ADAC cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#212D2C guifg=#4C4A49 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#212D2C guifg=#616D6C cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#3D8CAD guifg=#FCFAF9 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#616D6C cterm=italic ctermfg=11
 hi Todo gui=none guibg=#212D2C guifg=#669824 cterm=none ctermbg=0 ctermfg=2

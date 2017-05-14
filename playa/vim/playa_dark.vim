@@ -1,7 +1,7 @@
 " Name: Playa dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/playa
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "playa_dark"
 hi Normal guibg=#234154 guifg=#93BFC4 ctermbg=none ctermfg=14
 hi Visual guibg=#EAE1D0 guifg=#7A7160 ctermbg=7 ctermfg=10
 hi Search guibg=#35C5BD guifg=#FAF1E0 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#335F64 guifg=#93BFC4 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#335F64 guifg=#7A7160 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#335F64 guifg=#638F94 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#65AFCD guifg=#FAF1E0 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#638F94 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#335F64 guifg=#CA6E6A cterm=none ctermbg=0 ctermfg=1

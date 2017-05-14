@@ -1,7 +1,7 @@
 " Name: Sonho dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/sonho
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "sonho_dark"
 hi Normal guibg=#4A3638 guifg=#BAA6A8 ctermbg=none ctermfg=14
 hi Visual guibg=#EFE0E2 guifg=#5F5052 ctermbg=7 ctermfg=10
 hi Search guibg=#5FB8B4 guifg=#FFF0F2 ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#5A4648 guifg=#BAA6A8 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#5A4648 guifg=#5F5052 cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#5A4648 guifg=#8A7678 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#479CB5 guifg=#FFF0F2 cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#8A7678 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#5A4648 guifg=#479CB5 cterm=none ctermbg=0 ctermfg=4

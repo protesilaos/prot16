@@ -1,7 +1,7 @@
 " Name: Bionis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/bionis
-" Version: 0.1.0.beta-20170310
+" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
@@ -15,6 +15,13 @@ let g:colors_name = "bionis_dark"
 hi Normal guibg=#251A27 guifg=#B5AAB7 ctermbg=none ctermfg=14
 hi Visual guibg=#EBE8ED guifg=#4B484D ctermbg=7 ctermfg=10
 hi Search guibg=#439B9B guifg=#FBF8FD ctermbg=6 ctermfg=15
+
+hi StatusLine gui=none,bold guibg=#352A37 guifg=#B5AAB7 cterm=none,bold ctermbg=0 ctermfg=14
+hi StatusLineNC gui=none guibg=#352A37 guifg=#4B484D cterm=none ctermbg=0 ctermfg=10
+hi VertSplit gui=none cterm=none
+hi TabLine gui=none guibg=#352A37 guifg=#857A87 cterm=none ctermbg=0 ctermfg=11
+hi TabLineSel gui=none guibg=#5A7ACD guifg=#FBF8FD cterm=none ctermbg=4 ctermfg=15
+hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#857A87 cterm=italic ctermfg=11
 hi Todo gui=none guibg=#352A37 guifg=#CB6832 cterm=none ctermbg=0 ctermfg=9
