@@ -4,14 +4,14 @@
 " The variant (light/dark) has an _ underscore. Dash does not work.
 
 let g:airline#themes#vin_dark#palette = {}
-let s:guidbg = "#101D04"
-let s:guidhl = "#202D14"
+let s:guidbg = "#181A28"
+let s:guidhl = "#282A38"
 let s:guilt1 = "#3F4D24"
-let s:guidt2 = "#606D54"
-let s:guilt2 = "#7F8D64"
-let s:guidt1 = "#B0BDA4"
-let s:guilhl = "#DFEDC4"
-let s:guilbg = "#EFFDD4"
+let s:guidt2 = "#626442"
+let s:guilt2 = "#727584"
+let s:guidt1 = "#6D8476"
+let s:guilhl = "#E0E2DA"
+let s:guilbg = "#F0F2EA"
 let s:guired = "#A3415C"
 let s:guiora = "#8D522D"
 let s:guiyel = "#7D851D"

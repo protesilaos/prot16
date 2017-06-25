@@ -1,11 +1,11 @@
 [Scheme]
 Name=Vin light
 ColorForeground=#3F4D24
-ColorBackground=#EFFDD4
+ColorBackground=#F0F2EA
 ColorCursor=#3F4D24
 ColorBold=#3F4D24
-ColorPalette=#202D14;#A3415C;#487D14;#7D851D;#5A5DA8;#AC587A;#13865A;#DFEDC4;#101D04;#8D522D;#3F4D24;#606D54;#7F8D64;#8858A5;#B0BDA4;#EFFDD4
+ColorPalette=#282A38;#A3415C;#487D14;#7D851D;#5A5DA8;#AC587A;#13865A;#E0E2DA;#181A28;#8D522D;#3F4D24;#626442;#727584;#8858A5;#6D8476;#F0F2EA
 TabActivityColor=#487D14
-ColorSelectionBackground=#DFEDC4
+ColorSelectionBackground=#E0E2DA
 ColorSelection=#3F4D24
 

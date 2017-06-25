@@ -1,5 +1,5 @@
 #XfceNotifyWindow {
-    background-color: #EFFDD4;
+    background-color: #F0F2EA;
     border-radius: 2px;
     border: none;
     padding: 40px;
@@ -22,7 +22,7 @@
     border-style: none;
     background-image: none;
     background-color: #8858A5;
-    color: #B0BDA4;
+    color: #6D8476;
     padding: 0.5em 1em;
 }
 
@@ -30,6 +30,6 @@
     border-style: none;
     background-image: none;
     background-color: #5A5DA8;
-    color: #B0BDA4;
+    color: #6D8476;
 }
 

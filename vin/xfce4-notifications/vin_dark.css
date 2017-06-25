@@ -1,5 +1,5 @@
 #XfceNotifyWindow {
-    background-color: #101D04;
+    background-color: #181A28;
     border-radius: 2px;
     border: none;
     padding: 40px;
@@ -9,7 +9,7 @@
 #XfceNotifyWindow image {
     font-size: 12px;
     font-weight: 400;
-    color: #B0BDA4;
+    color: #6D8476;
 }
 
 #XfceNotifyWindow label#summary {
