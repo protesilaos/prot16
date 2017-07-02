@@ -1,18 +1,18 @@
 scheme: "Symbiosis"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
-dbg: "111D1C" # Dark background
-dhl: "212D2C" # Dark highlight
-dt2: "616D6C" # Dark bg text secondary
-dt1: "A1ADAC" # Dark bg text primary
-lbg: "FCFAF9" # Light background
-lhl: "ECEAE9" # Light highlight
-lt2: "8C8A89" # Light bg text secondary
-lt1: "4C4A49" # Light bg text primary
-red: "B95846" # Red
-ora: "A87226" # Orange
-yel: "A89641" # Yellow
+dbg: "111d1c" # Dark background
+dhl: "212d2c" # Dark highlight
+dt2: "58623b" # Dark bg text secondary
+dt1: "79988b" # Dark bg text primary
+lbg: "fcfaf9" # Light background
+lhl: "eceae9" # Light highlight
+lt2: "828cad" # Light bg text secondary
+lt1: "3c513d" # Light bg text primary
+red: "b95846" # Red
+ora: "a87226" # Orange
+yel: "a89641" # Yellow
 gre: "669824" # Green
-cya: "48A597" # Cyan
-blu: "3D8CAD" # Blue
-vio: "9166AB" # Violet­­
-mag: "BB7EAA" # Magenta
+cya: "28a597" # Cyan
+blu: "3d8cad" # Blue
+vio: "9166ab" # Violet
+mag: "bb7eaa" # Magenta

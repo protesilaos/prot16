@@ -1,5 +1,5 @@
 #XfceNotifyWindow {
-    background-color: #111D1C;
+    background-color: #111d1c;
     border-radius: 2px;
     border: none;
     padding: 40px;
@@ -9,20 +9,20 @@
 #XfceNotifyWindow image {
     font-size: 12px;
     font-weight: 400;
-    color: #A1ADAC;
+    color: #79988b;
 }
 
 #XfceNotifyWindow label#summary {
     font-size: 18px;
     font-weight: 700;
-    color: #9166AB;
+    color: #9166ab;
 }
 
 #XfceNotifyWindow button {
     border-style: none;
     background-image: none;
-    background-color: #B95846;
-    color: #4C4A49;
+    background-color: #b95846;
+    color: #3c513d;
     padding: 0.5em 1em;
 }
 
@@ -30,6 +30,6 @@
     border-style: none;
     background-image: none;
     background-color: #669824;
-    color: #4C4A49;
+    color: #3c513d;
 }
 

@@ -4,22 +4,22 @@
 " The variant (light/dark) has an _ underscore. Dash does not work.
 
 let g:airline#themes#symbiosis_dark#palette = {}
-let s:guidbg = "#111D1C"
-let s:guidhl = "#212D2C"
-let s:guilt1 = "#4C4A49"
-let s:guidt2 = "#616D6C"
-let s:guilt2 = "#8C8A89"
-let s:guidt1 = "#A1ADAC"
-let s:guilhl = "#ECEAE9"
-let s:guilbg = "#FCFAF9"
-let s:guired = "#B95846"
-let s:guiora = "#A87226"
-let s:guiyel = "#A89641"
+let s:guidbg = "#111d1c"
+let s:guidhl = "#212d2c"
+let s:guilt1 = "#3c513d"
+let s:guidt2 = "#58623b"
+let s:guilt2 = "#828cad"
+let s:guidt1 = "#79988b"
+let s:guilhl = "#eceae9"
+let s:guilbg = "#fcfaf9"
+let s:guired = "#b95846"
+let s:guiora = "#a87226"
+let s:guiyel = "#a89641"
 let s:guigre = "#669824"
-let s:guicya = "#48A597"
-let s:guiblu = "#3D8CAD"
-let s:guivio = "#9166AB"
-let s:guimag = "#BB7EAA"
+let s:guicya = "#28a597"
+let s:guiblu = "#3d8cad"
+let s:guivio = "#9166ab"
+let s:guimag = "#bb7eaa"
 
 let s:ctermdbg = 8
 let s:ctermdhl = 0

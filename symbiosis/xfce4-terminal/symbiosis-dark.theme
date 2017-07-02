@@ -1,11 +1,11 @@
 [Scheme]
 Name=Symbiosis dark
-ColorForeground=#A1ADAC
-ColorBackground=#111D1C
-ColorCursor=#A1ADAC
-ColorBold=#A1ADAC
-ColorPalette=#212D2C;#B95846;#669824;#A89641;#3D8CAD;#BB7EAA;#48A597;#ECEAE9;#111D1C;#A87226;#4C4A49;#616D6C;#8C8A89;#9166AB;#A1ADAC;#FCFAF9
+ColorForeground=#79988b
+ColorBackground=#111d1c
+ColorCursor=#79988b
+ColorBold=#79988b
+ColorPalette=#212d2c;#b95846;#669824;#a89641;#3d8cad;#bb7eaa;#28a597;#eceae9;#111d1c;#a87226;#3c513d;#58623b;#828cad;#9166ab;#79988b;#fcfaf9
 TabActivityColor=#669824
-ColorSelectionBackground=#212D2C
-ColorSelection=#A1ADAC
+ColorSelectionBackground=#212d2c
+ColorSelection=#79988b
 
