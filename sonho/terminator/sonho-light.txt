@@ -1,13 +1,13 @@
 [global_config]
-  title_inactive_bg_color = "#EFE0E2"
-  title_inactive_fg_color = "#8F8082"
-  title_receive_bg_color = "#CD4679"
-  title_receive_fg_color = "#FFF0F2"
-  title_transmit_bg_color = "#479CB5"
-  title_transmit_fg_color = "#FFF0F2"
+  title_inactive_bg_color = "#efe0e2"
+  title_inactive_fg_color = "#8896bb"
+  title_receive_bg_color = "#cd4679"
+  title_receive_fg_color = "#fff0f2"
+  title_transmit_bg_color = "#479cb5"
+  title_transmit_fg_color = "#fff0f2"
 [profiles]
   [[default]]
-    palette = "#5A4648:#CD4679:#11BF8C:#D9A652:#479CB5:#DD619F:#5FB8B4:#EFE0E2:#4A3638:#D9766D:#5F5052:#8A7678:#8F8082:#A77CCF:#BAA6A8:#FFF0F2"
-    foreground_color = "#5F5052"
-    background_color = "#FFF0F2"
+    palette = "#5a4648:#cd4679:#11bf8c:#d9a652:#479cb5:#dd619f:#38A8b9:#efe0e2:#4a3638:#d9766d:#677468:#8a7668:#8896bb:#a77ccf:#99aabc:#fff0f2"
+    foreground_color = "#677468"
+    background_color = "#fff0f2"
 

@@ -1,11 +1,11 @@
 [Scheme]
 Name=Sonho dark
-ColorForeground=#BAA6A8
-ColorBackground=#4A3638
-ColorCursor=#BAA6A8
-ColorBold=#BAA6A8
-ColorPalette=#5A4648;#CD4679;#11BF8C;#D9A652;#479CB5;#DD619F;#5FB8B4;#EFE0E2;#4A3638;#D9766D;#5F5052;#8A7678;#8F8082;#A77CCF;#BAA6A8;#FFF0F2
-TabActivityColor=#11BF8C
-ColorSelectionBackground=#5A4648
-ColorSelection=#BAA6A8
+ColorForeground=#99aabc
+ColorBackground=#4a3638
+ColorCursor=#99aabc
+ColorBold=#99aabc
+ColorPalette=#5a4648;#cd4679;#11bf8c;#d9a652;#479cb5;#dd619f;#38A8b9;#efe0e2;#4a3638;#d9766d;#677468;#8a7668;#8896bb;#a77ccf;#99aabc;#fff0f2
+TabActivityColor=#11bf8c
+ColorSelectionBackground=#5a4648
+ColorSelection=#99aabc
 
