@@ -2,17 +2,17 @@ scheme: "Nefelio"
 author: "Protesilaos Stavrou (https://protesilaos.com)"
 dbg: "282326" # Dark background
 dhl: "383336" # Dark highlight
-dt2: "686366" # Dark bg text secondary
-dt1: "989396" # Dark bg text primary
-lbg: "EAEFF2" # Light background
-lhl: "DADFE2" # Light highlight
-lt2: "9A9FA2" # Light bg text secondary
-lt1: "6A6F72" # Light bg text primary
-red: "BA3D5A" # Red
-ora: "CA6F5F" # Orange
-yel: "CA9E5D" # Yellow
-gre: "1CB57A" # Green
-cya: "34B7BD" # Cyan
-blu: "3F8EDA" # Blue
-vio: "956CDA" # Violet
-mag: "C34D95" # Magenta
+dt2: "686356" # Dark bg text secondary
+dt1: "82a3a6" # Dark bg text primary
+lbg: "eaeff2" # Light background
+lhl: "dadfe2" # Light highlight
+lt2: "7a8fa2" # Light bg text secondary
+lt1: "5a6662" # Light bg text primary
+red: "ba3d5a" # Red
+ora: "ca6f5f" # Orange
+yel: "ca9e5d" # Yellow
+gre: "1cb57a" # Green
+cya: "34b7bd" # Cyan
+blu: "3f8eda" # Blue
+vio: "956cda" # Violet
+mag: "c34d95" # Magenta

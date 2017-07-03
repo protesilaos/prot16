@@ -1,11 +1,11 @@
 [Scheme]
 Name=Nefelio dark
-ColorForeground=#989396
+ColorForeground=#82a3a6
 ColorBackground=#282326
-ColorCursor=#989396
-ColorBold=#989396
-ColorPalette=#383336;#BA3D5A;#1CB57A;#CA9E5D;#3F8EDA;#C34D95;#34B7BD;#DADFE2;#282326;#CA6F5F;#6A6F72;#686366;#9A9FA2;#956CDA;#989396;#EAEFF2
-TabActivityColor=#1CB57A
+ColorCursor=#82a3a6
+ColorBold=#82a3a6
+ColorPalette=#383336;#ba3d5a;#1cb57a;#ca9e5d;#3f8eda;#c34d95;#34b7bd;#dadfe2;#282326;#ca6f5f;#5a6662;#686356;#7a8fa2;#956cda;#82a3a6;#eaeff2
+TabActivityColor=#1cb57a
 ColorSelectionBackground=#383336
-ColorSelection=#989396
+ColorSelection=#82a3a6
 
