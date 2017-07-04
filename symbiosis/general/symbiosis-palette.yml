@@ -1,0 +1,20 @@
+scheme: "Symbiosis"
+url: "https://protesilaos.com/symbiosis"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "111d1c" # Dark background
+dhl: "212d2c" # Dark highlight
+dt2: "58623b" # Dark bg text secondary
+dt1: "79988b" # Dark bg text primary
+lbg: "fcfaf9" # Light background
+lhl: "eceae9" # Light highlight
+lt2: "828cad" # Light bg text secondary
+lt1: "3c513d" # Light bg text primary
+red: "b95846" # Red
+ora: "a87226" # Orange
+yel: "a89641" # Yellow
+gre: "669824" # Green
+cya: "28a597" # Cyan
+blu: "3d8cad" # Blue
+vio: "9166ab" # Violet
+mag: "bb7eaa" # Magenta
+

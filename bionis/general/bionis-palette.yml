@@ -1,0 +1,20 @@
+scheme: "Bionis"
+url: "https://protesilaos.com/bionis"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "251A27" # Dark background
+dhl: "352A37" # Dark highlight
+dt2: "857A87" # Dark bg text secondary
+dt1: "B5AAB7" # Dark bg text primary
+lbg: "FBF8FD" # Light background
+lhl: "EBE8ED" # Light highlight
+lt2: "9B989D" # Light bg text secondary
+lt1: "4B484D" # Light bg text primary
+red: "C25A5B" # Red
+ora: "CB6832" # Orange
+yel: "BA8A00" # Yellow
+gre: "4DA35C" # Green
+cya: "439B9B" # Cyan
+blu: "5A7ACD" # Blue
+vio: "AA6BC5" # Violet
+mag: "C25783" # Magenta
+

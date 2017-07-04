@@ -1,0 +1,20 @@
+scheme: "Alto"
+url: "https://protesilaos.com/alto"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "182D2A" # Dark background
+dhl: "283D3A" # Dark highlight
+dt2: "687D7A" # Dark bg text secondary
+dt1: "98ADAA" # Dark bg text primary
+lbg: "FAFAEC" # Light background
+lhl: "EAEADC" # Light highlight
+lt2: "8A8A7C" # Light bg text secondary
+lt1: "5A5A4C" # Light bg text primary
+red: "C6414D" # Red
+ora: "C9753D" # Orange
+yel: "C6A13D" # Yellow
+gre: "679945" # Green
+cya: "57AB8B" # Cyan
+blu: "378BBD" # Blue
+vio: "9A7BC8" # Violet
+mag: "C97885" # Magenta
+

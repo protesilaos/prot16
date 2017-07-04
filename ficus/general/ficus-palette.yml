@@ -1,0 +1,20 @@
+scheme: "Ficus"
+url: "https://protesilaos.com/ficus"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "27152C" # Dark background
+dhl: "37253C" # Dark highlight
+dt2: "67556C" # Dark bg text secondary
+dt1: "97859C" # Dark bg text primary
+lbg: "EDF1E5" # Light background
+lhl: "DDE1D5" # Light highlight
+lt2: "8D9185" # Light bg text secondary
+lt1: "5D6155" # Light bg text primary
+red: "AA3A5A" # Red
+ora: "AC6E00" # Orange
+yel: "A0A60A" # Yellow
+gre: "84A33C" # Green
+cya: "6CACAB" # Cyan
+blu: "6D75CD" # Blue
+vio: "A46ACD" # Violet
+mag: "CB5E9A" # Magenta
+

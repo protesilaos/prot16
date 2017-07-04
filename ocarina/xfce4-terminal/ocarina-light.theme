@@ -1,11 +1,11 @@
 [Scheme]
 Name=Ocarina light
-ColorForeground=#6B6B67
-ColorBackground=#EBEBE7
-ColorCursor=#6B6B67
-ColorBold=#6B6B67
-ColorPalette=#313C3D;#BA6F5B;#3D9D54;#93A34A;#2AA2A5;#A77B9B;#48A99B;#DBDBD7;#212C2D;#A2853A;#6B6B67;#616C6D;#9B9B97;#7A99BA;#919C9D;#EBEBE7
-TabActivityColor=#3D9D54
-ColorSelectionBackground=#DBDBD7
-ColorSelection=#6B6B67
+ColorForeground=#556d5c
+ColorBackground=#ebebe7
+ColorCursor=#556d5c
+ColorBold=#556d5c
+ColorPalette=#313c3d;#ba6f5b;#3d9954;#93a34a;#2a92a5;#a77b9b;#38a997;#dbdbd7;#212c2d;#a2853a;#556d5c;#716c4d;#7a9297;#7a84ba;#88a99b;#ebebe7
+TabActivityColor=#3d9954
+ColorSelectionBackground=#dbdbd7
+ColorSelection=#556d5c
 

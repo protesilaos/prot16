@@ -1,18 +1,64 @@
 scheme: "Caprice"
-author: "Protesilaos Stavrou (https://protesilaos.com)"
-dbg: "211B29" # Dark background
-dhl: "312B39" # Dark highlight
-dt2: "716B79" # Dark bg text secondary
-dt1: "A19BA9" # Dark bg text primary
-lbg: "FEFBFC" # Light background
-lhl: "EEEBEC" # Light highlight
-lt2: "7E7B7C" # Light bg text secondary
-lt1: "2E2B2C" # Light bg text primary
-red: "983D4F" # Red
-ora: "9A5D38" # Orange
-yel: "A58A30" # Yellow
-gre: "278975" # Green
-cya: "587EBC" # Cyan
-blu: "585EBC" # Blue
-vio: "8955A2" # Violet
-mag: "AC4D7A" # Magenta
+author: "Protesilaos Stavrou (https://protesilaos.com/caprice)"
+
+# Colour values
+valuedbg: "211B29" # Dark background
+valuedhl: "312B39" # Dark highlight
+valuedt2: "716B79" # Dark bg text secondary
+valuedt1: "A19BA9" # Dark bg text primary
+valuelbg: "FEFBFC" # Light background
+valuelhl: "EEEBEC" # Light highlight
+valuelt2: "7E7B7C" # Light bg text secondary
+valuelt1: "2E2B2C" # Light bg text primary
+valuered: "983D4F" # Red
+valueora: "9A5D38" # Orange
+valueyel: "A58A30" # Yellow
+valuegre: "278975" # Green
+valuecya: "587EBC" # Cyan
+valueblu: "585EBC" # Blue
+valuevio: "8955A2" # Violet
+valuemag: "AC4D7A" # Magenta
+
+# Visual order used for colour mapping
+valuep1: "8955A2" # Violet
+valuep2: "278975" # Green
+valuep3: "585EBC" # Blue
+values1: "587EBC" # Cyan
+values2: "AC4D7A" # Magenta
+valuet1: "983D4F" # Red
+valuet2: "9A5D38" # Orange
+valuet3: "A58A30" # Yellow
+
+# IMPORTANT Terminal values follow this sequence in the relevant templates:
+# 0=dhl; 1=red; 2=gre; 3=yel; 4=blu; 5=mag; 6=cya; 7=lhl;
+# 8=dbg; 9=ora; 10=lt1; 11=dt2; 12=lt2; 13=vio; 14=dt1; 15=lbg.
+# Based on the colour mapping of Solarized for terminals such those of GNOME and XFCE4.
+
+# Terminal codes for colour values
+# This presupposes that the terminal sequence is followed
+valuecdbg: "8"
+valuecdhl: "0"
+valuecdt2: "11"
+valuecdt1: "14"
+valueclbg: "15"
+valueclhl: "7"
+valueclt2: "12"
+valueclt1: "10"
+valuecred: "1"
+valuecora: "9"
+valuecyel: "3"
+valuecgre: "2"
+valueccya: "6"
+valuecblu: "4"
+valuecvio: "13"
+valuecmag: "5"
+
+# Terminal accent colours corresponding to the visual order
+valuecp1: "13"
+valuecp2: "2"
+valuecp3: "4"
+valuecs1: "6"
+valuecs2: "5"
+valuect1: "1"
+valuect2: "9"
+valuect3: "3"

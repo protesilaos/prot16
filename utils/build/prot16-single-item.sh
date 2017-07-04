@@ -24,7 +24,7 @@
 
 # Define theme slug
 # NOTE this could be a loop for all items. Just keeping it simple.
-scheme=nefelio
+scheme=ocarina
 
 # Prepare files for prot16 repo
 prot16-builder -s ${scheme} -t jekyll-rouge -b light > $HOME/prot16/${scheme}/general/${scheme}-light.scss

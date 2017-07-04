@@ -1,0 +1,20 @@
+scheme: "Hinterland"
+url: "https://protesilaos.com/hinterland"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "12171B" # Dark background
+dhl: "22272B" # Dark highlight
+dt2: "60604f" # Dark bg text secondary
+dt1: "8aa0a4" # Dark bg text primary
+lbg: "f9f8fc" # Light background
+lhl: "e9e8ec" # Light highlight
+lt2: "768592" # Light bg text secondary
+lt1: "3d463f" # Light bg text primary
+red: "983f16" # Red
+ora: "9e6c3d" # Orange
+yel: "b09020" # Yellow
+gre: "3D814C" # Green
+cya: "01917b" # Cyan
+blu: "217ab3" # Blue
+vio: "7d6cab" # Violet
+mag: "ad5c5b" # Magenta
+

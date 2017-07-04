@@ -20,9 +20,8 @@
 
 # IMPORTANT The loop requires the prot16-builder git repo at the home directory
 # git clone git@github.com:protesilaos/prot16-builder.git ~/prot16-builder --depth=1
-for scheme in $(ls ~/prot16-builder/db/schemes)
+for scheme in $(cat ~/prot16/utils/data/prot16-items.txt)
 do
-  name=$(echo $scheme | cut -f 1 -d '.')
     # Prepare files for prot16 repo
     prot16-builder -s ${scheme} -t jekyll-rouge -b light > $HOME/prot16/${scheme}/general/${scheme}-light.scss
     prot16-builder -s ${scheme} -t jekyll-rouge -b dark > $HOME/prot16/${scheme}/general/${scheme}-dark.scss
@@ -77,7 +76,7 @@ for reponame in $(cat $HOME/prot16/utils/data/prot16-export-repos-list.txt)
 do
     cd $HOME/$reponame
     git add -A
-    git commit -m "Update ${scheme}"
+    git commit -m "Update scheme"
     git push -u origin master
 done
 

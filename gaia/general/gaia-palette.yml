@@ -1,0 +1,20 @@
+scheme: "Gaia"
+url: "https://protesilaos.com/gaia"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "2D2E2F" # Dark background
+dhl: "3D3E3F" # Dark highlight
+dt2: "7D7E7F" # Dark bg text secondary
+dt1: "ADAEAF" # Dark bg text primary
+lbg: "EBEDDF" # Light background
+lhl: "DBDDCF" # Light highlight
+lt2: "9B9D8F" # Light bg text secondary
+lt1: "6B6D5F" # Light bg text primary
+red: "9D6936" # Red
+ora: "B38121" # Orange
+yel: "BDAA4A" # Yellow
+gre: "8B9C3A" # Green
+cya: "85AF85" # Cyan
+blu: "6C9CBA" # Blue
+vio: "8A8DB7" # Violet
+mag: "BD9198" # Magenta
+

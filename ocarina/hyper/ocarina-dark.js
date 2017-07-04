@@ -7,19 +7,19 @@ module.exports = {
     fontFamily: 'Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
-    cursorColor: '#919C9D',
+    cursorColor: '#88a99b',
 
     // `BEAM` for |, `UNDERLINE` for _, `BLOCK` for █
     cursorShape: 'BLOCK',
 
     // color of the text
-    foregroundColor: '#919C9D',
+    foregroundColor: '#88a99b',
 
     // terminal background color
-    backgroundColor: '#212C2D',
+    backgroundColor: '#212c2d',
 
     // border color (window, tabs)
-    borderColor: '#313C3D',
+    borderColor: '#313c3d',
 
     // custom css to embed in the main window
     css: '',
@@ -44,22 +44,22 @@ module.exports = {
     // including the 6 x 6 color cubes and the grayscale map, just provide
     // an array here instead of a color map object
     colors: {
-      black: '#313C3D',
-      red: '#BA6F5B',
-      green: '#3D9D54',
-      yellow: '#93A34A',
-      blue: '#2AA2A5',
-      magenta: '#A77B9B',
-      cyan: '#48A99B',
-      white: '#DBDBD7',
-      lightBlack: '#212C2D',
-      lightRed: '#A2853A',
-      lightGreen: '#6B6B67',
-      lightYellow: '#616C6D',
-      lightBlue: '#9B9B97',
-      lightMagenta: '#7A99BA',
-      lightCyan: '#919C9D',
-      lightWhite: '#EBEBE7'
+      black: '#313c3d',
+      red: '#ba6f5b',
+      green: '#3d9954',
+      yellow: '#93a34a',
+      blue: '#2a92a5',
+      magenta: '#a77b9b',
+      cyan: '#38a997',
+      white: '#dbdbd7',
+      lightBlack: '#212c2d',
+      lightRed: '#a2853a',
+      lightGreen: '#556d5c',
+      lightYellow: '#716c4d',
+      lightBlue: '#7a9297',
+      lightMagenta: '#7a84ba',
+      lightCyan: '#88a99b',
+      lightWhite: '#ebebe7'
     },
 
     // the shell to run when spawning a new session (i.e. /usr/local/bin/fish)

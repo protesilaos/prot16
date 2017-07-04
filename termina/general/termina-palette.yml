@@ -1,0 +1,20 @@
+scheme: "Termina"
+url: "https://protesilaos.com/termina"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "1A2225" # Dark background
+dhl: "2A3235" # Dark highlight
+dt2: "5A6265" # Dark bg text secondary
+dt1: "8A9295" # Dark bg text primary
+lbg: "FEFCEE" # Light background
+lhl: "EEECDE" # Light highlight
+lt2: "9E9C8E" # Light bg text secondary
+lt1: "5E5C4E" # Light bg text primary
+red: "985637" # Red
+ora: "9D6A47" # Orange
+yel: "9A813D" # Yellow
+gre: "728852" # Green
+cya: "629298" # Cyan
+blu: "597899" # Blue
+vio: "8479A6" # Violet
+mag: "A3636D" # Magenta
+

@@ -1,0 +1,20 @@
+scheme: "Sonho"
+url: "https://protesilaos.com/sonho"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "4a3638" # Dark background
+dhl: "5a4648" # Dark highlight
+dt2: "8a7668" # Dark bg text secondary
+dt1: "99aabc" # Dark bg text primary
+lbg: "fff0f2" # Light background
+lhl: "efe0e2" # Light highlight
+lt2: "8896bb" # Light bg text secondary
+lt1: "677468" # Light bg text primary
+red: "cd4679" # Red
+ora: "d9766d" # Orange
+yel: "d9a652" # Yellow
+gre: "11bf8c" # Green
+cya: "38A8b9" # Cyan
+blu: "479cb5" # Blue
+vio: "a77ccf" # Violet
+mag: "dd619f" # Magenta
+
