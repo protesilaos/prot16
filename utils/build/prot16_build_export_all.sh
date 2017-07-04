@@ -28,7 +28,7 @@ do
     prot16-builder -s ${scheme} -t jekyll-rouge -b dark > $HOME/prot16/${scheme}/general/${scheme}-dark.scss
 
     prot16-builder -s ${scheme} -t yaml -b light > $HOME/prot16/${scheme}/general/${scheme}-palette.yml
-    cp -rf $HOME/prot16-builder/db/schemes/${scheme}.yml $HOME/prot16/${scheme}/general/{$scheme}-values.yml
+    cp -rf $HOME/prot16-builder/db/schemes/${scheme}.yml $HOME/prot16/${scheme}/general/${scheme}-values.yml
 
     prot16-builder -s ${scheme} -t hyper -b light > $HOME/prot16/${scheme}/hyper/${scheme}-light.js
     prot16-builder -s ${scheme} -t hyper -b dark > $HOME/prot16/${scheme}/hyper/${scheme}-dark.js
