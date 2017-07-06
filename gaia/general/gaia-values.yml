@@ -2,32 +2,32 @@ scheme: "Gaia"
 author: "Protesilaos Stavrou (https://protesilaos.com/gaia)"
 
 # Colour values
-valuedbg: "2D2E2F" # Dark background
-valuedhl: "3D3E3F" # Dark highlight
-valuedt2: "7D7E7F" # Dark bg text secondary
-valuedt1: "ADAEAF" # Dark bg text primary
-valuelbg: "EBEDDF" # Light background
-valuelhl: "DBDDCF" # Light highlight
-valuelt2: "9B9D8F" # Light bg text secondary
-valuelt1: "6B6D5F" # Light bg text primary
-valuered: "9D6936" # Red
-valueora: "B38121" # Orange
-valueyel: "BDAA4A" # Yellow
-valuegre: "8B9C3A" # Green
-valuecya: "85AF85" # Cyan
-valueblu: "6C9CBA" # Blue
-valuevio: "8A8DB7" # Violet
-valuemag: "BD9198" # Magenta
+valuedbg: "2d2e2f" # Dark background
+valuedhl: "3d3e3f" # Dark highlight
+valuedt2: "786c4d" # Dark bg text secondary
+valuedt1: "94ae9f" # Dark bg text primary
+valuelbg: "ebeddf" # Light background
+valuelhl: "dbddcf" # Light highlight
+valuelt2: "7b8d9d" # Light bg text secondary
+valuelt1: "5B6c4a" # Light bg text primary
+valuered: "a67336" # Red
+valueora: "a9880b" # Orange
+valueyel: "ad9f4d" # Yellow
+valuegre: "7c8e2d" # Green
+valuecya: "5d9d7c" # Cyan
+valueblu: "6c9cba" # Blue
+valuevio: "8a8db7" # Violet
+valuemag: "bd9198" # Magenta
 
 # Visual order used for colour mapping
-valuep1: "9D6936" # Red
-valuep2: "8B9C3A" # Green
-valuep3: "B38121" # Orange
-values1: "85AF85" # Cyan
-values2: "BDAA4A" # Yellow
-valuet1: "6C9CBA" # Blue
-valuet2: "8A8DB7" # Violet
-valuet3: "BD9198" # Magenta
+valuep1: "a67336" # Red
+valuep2: "7c8e2d" # Green
+valuep3: "a9880b" # Orange
+values1: "5d9d7c" # Cyan
+values2: "ad9f4d" # Yellow
+valuet1: "6c9cba" # Blue
+valuet2: "8a8db7" # Violet
+valuet3: "bd9198" # Magenta
 
 # IMPORTANT Terminal values follow this sequence in the relevant templates:
 # 0=dhl; 1=red; 2=gre; 3=yel; 4=blu; 5=mag; 6=cya; 7=lhl;
