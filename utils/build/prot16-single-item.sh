@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# IMPORTANT Deprecated in favour of prot16/utils/build/prot16-single-build-export.sh
+
 # Builds and exports all content files for a single prot16 colour scheme
 
     # This program is free software: you can redistribute it and/or modify
