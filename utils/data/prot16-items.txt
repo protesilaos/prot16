@@ -7,6 +7,7 @@ cyprium
 equinox
 ficus
 flowerbed
+fortuna
 gaia
 hinterland
 magus

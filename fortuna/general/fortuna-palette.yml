@@ -1,0 +1,20 @@
+scheme: "Fortuna"
+url: "https://protesilaos.com/fortuna"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "453731" # Dark background
+dhl: "554741" # Dark highlight
+dt2: "837858" # Dark bg text secondary
+dt1: "98b4ac" # Dark bg text primary
+lbg: "f2f1ef" # Light background
+lhl: "e2e1df" # Light highlight
+lt2: "78849c" # Light bg text secondary
+lt1: "5d6348" # Light bg text primary
+red: "da5447" # Red
+ora: "dc7926" # Orange
+yel: "db9d0b" # Yellow
+gre: "78ad28" # Green
+cya: "16adac" # Cyan
+blu: "3894cd" # Blue
+vio: "aa8bee" # Violet
+mag: "dc6788" # Magenta
+

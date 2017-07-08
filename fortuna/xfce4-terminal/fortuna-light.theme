@@ -1,0 +1,11 @@
+[Scheme]
+Name=Fortuna light
+ColorForeground=#5d6348
+ColorBackground=#f2f1ef
+ColorCursor=#5d6348
+ColorBold=#5d6348
+ColorPalette=#554741;#da5447;#78ad28;#db9d0b;#3894cd;#dc6788;#16adac;#e2e1df;#453731;#dc7926;#5d6348;#837858;#78849c;#aa8bee;#98b4ac;#f2f1ef
+TabActivityColor=#78ad28
+ColorSelectionBackground=#e2e1df
+ColorSelection=#5d6348
+
