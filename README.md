@@ -31,6 +31,7 @@ Termina | Ocarina | Nefelio
 . | Vin | Sonho
 . | . | Symbiosis
 . | . | Hinterland
+. | . | Fortuna
 
 ## Contributing
 
