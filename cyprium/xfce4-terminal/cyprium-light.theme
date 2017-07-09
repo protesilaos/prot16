@@ -1,11 +1,11 @@
 [Scheme]
 Name=Cyprium light
-ColorForeground=#6B695A
-ColorBackground=#EBE9DA
-ColorCursor=#6B695A
-ColorBold=#6B695A
-ColorPalette=#475944;#A36A5F;#6B8C4A;#A38E10;#5C959A;#BB6384;#5C9B85;#DBD9CA;#374934;#B37521;#6B695A;#879984;#9B998A;#8B85BA;#A7B9A4;#EBE9DA
-TabActivityColor=#6B8C4A
-ColorSelectionBackground=#DBD9CA
-ColorSelection=#6B695A
+ColorForeground=#6e7b54
+ColorBackground=#ebe9da
+ColorCursor=#6e7b54
+ColorBold=#6e7b54
+ColorPalette=#475944;#b86a5c;#669252;#a38e10;#5c8c9e;#bc7374;#4c9b94;#dbd9ca;#374934;#b37521;#6e7b54;#879464;#9299aa;#8B85ac;#82a394;#ebe9da
+TabActivityColor=#669252
+ColorSelectionBackground=#dbd9ca
+ColorSelection=#6e7b54
 
