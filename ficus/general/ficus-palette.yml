@@ -1,20 +1,20 @@
 scheme: "Ficus"
 url: "https://protesilaos.com/ficus"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "27152C" # Dark background
-dhl: "37253C" # Dark highlight
-dt2: "67556C" # Dark bg text secondary
-dt1: "97859C" # Dark bg text primary
-lbg: "EDF1E5" # Light background
-lhl: "DDE1D5" # Light highlight
-lt2: "8D9185" # Light bg text secondary
-lt1: "5D6155" # Light bg text primary
-red: "AA3A5A" # Red
-ora: "AC6E00" # Orange
-yel: "A0A60A" # Yellow
-gre: "84A33C" # Green
-cya: "6CACAB" # Cyan
-blu: "6D75CD" # Blue
-vio: "A46ACD" # Violet
-mag: "CB5E9A" # Magenta
+dbg: "27152c" # Dark background
+dhl: "37253c" # Dark highlight
+dt2: "747145" # Dark bg text secondary
+dt1: "87a5a7" # Dark bg text primary
+lbg: "edf1e5" # Light background
+lhl: "dde1d5" # Light highlight
+lt2: "778ca7" # Light bg text secondary
+lt1: "667155" # Light bg text primary
+red: "c84954" # Red
+ora: "bd7e20" # Orange
+yel: "a9a60a" # Yellow
+gre: "84a33c" # Green
+cya: "3caaa9" # Cyan
+blu: "6d75cd" # Blue
+vio: "a46acd" # Violet
+mag: "cb5e9a" # Magenta
 

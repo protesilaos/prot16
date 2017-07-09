@@ -1,11 +1,11 @@
 [Scheme]
 Name=Ficus dark
-ColorForeground=#97859C
-ColorBackground=#27152C
-ColorCursor=#97859C
-ColorBold=#97859C
-ColorPalette=#37253C;#AA3A5A;#84A33C;#A0A60A;#6D75CD;#CB5E9A;#6CACAB;#DDE1D5;#27152C;#AC6E00;#5D6155;#67556C;#8D9185;#A46ACD;#97859C;#EDF1E5
-TabActivityColor=#84A33C
-ColorSelectionBackground=#37253C
-ColorSelection=#97859C
+ColorForeground=#87a5a7
+ColorBackground=#27152c
+ColorCursor=#87a5a7
+ColorBold=#87a5a7
+ColorPalette=#37253c;#c84954;#84a33c;#a9a60a;#6d75cd;#cb5e9a;#3caaa9;#dde1d5;#27152c;#bd7e20;#667155;#747145;#778ca7;#a46acd;#87a5a7;#edf1e5
+TabActivityColor=#84a33c
+ColorSelectionBackground=#37253c
+ColorSelection=#87a5a7
 

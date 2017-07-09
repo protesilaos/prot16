@@ -2,32 +2,32 @@ scheme: "Ficus"
 author: "Protesilaos Stavrou (https://protesilaos.com/ficus)"
 
 # Colour values
-valuedbg: "27152C" # Dark background
-valuedhl: "37253C" # Dark highlight
-valuedt2: "67556C" # Dark bg text secondary
-valuedt1: "97859C" # Dark bg text primary
-valuelbg: "EDF1E5" # Light background
-valuelhl: "DDE1D5" # Light highlight
-valuelt2: "8D9185" # Light bg text secondary
-valuelt1: "5D6155" # Light bg text primary
-valuered: "AA3A5A" # Red
-valueora: "AC6E00" # Orange
-valueyel: "A0A60A" # Yellow
-valuegre: "84A33C" # Green
-valuecya: "6CACAB" # Cyan
-valueblu: "6D75CD" # Blue
-valuevio: "A46ACD" # Violet
-valuemag: "CB5E9A" # Magenta
+valuedbg: "27152c" # Dark background
+valuedhl: "37253c" # Dark highlight
+valuedt2: "747145" # Dark bg text secondary
+valuedt1: "87a5a7" # Dark bg text primary
+valuelbg: "edf1e5" # Light background
+valuelhl: "dde1d5" # Light highlight
+valuelt2: "778ca7" # Light bg text secondary
+valuelt1: "667155" # Light bg text primary
+valuered: "c84954" # Red
+valueora: "bd7e20" # Orange
+valueyel: "a9a60a" # Yellow
+valuegre: "84a33c" # Green
+valuecya: "3caaa9" # Cyan
+valueblu: "6d75cd" # Blue
+valuevio: "a46acd" # Violet
+valuemag: "cb5e9a" # Magenta
 
 # Visual order used for colour mapping
-valuep1: "CB5E9A" # Magenta
-valuep2: "A46ACD" # Violet
-valuep3: "84A33C" # Green
-values1: "A0A60A" # Yellow
-values2: "6CACAB" # Cyan
-valuet1: "6D75CD" # Blue
-valuet2: "AA3A5A" # Red
-valuet3: "AC6E00" # Orange
+valuep1: "cb5e9a" # Magenta
+valuep2: "a46acd" # Violet
+valuep3: "84a33c" # Green
+values1: "a9a60a" # Yellow
+values2: "3caaa9" # Cyan
+valuet1: "6d75cd" # Blue
+valuet2: "c84954" # Red
+valuet3: "bd7e20" # Orange
 
 # IMPORTANT Terminal values follow this sequence in the relevant templates:
 # 0=dhl; 1=red; 2=gre; 3=yel; 4=blu; 5=mag; 6=cya; 7=lhl;
