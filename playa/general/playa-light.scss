@@ -7,21 +7,21 @@
 
 // Variables ----------------------------
 $dbg: #234154; // Dark background
-$dhl: #335F64; // Dark highlight
-$dt2: #638F94; // Dark bg text secondary
-$dt1: #93BFC4; // Dark bg text primary
-$lbg: #FAF1E0; // Light background
-$lhl: #EAE1D0; // Light highlight
-$lt2: #AAA190; // Light bg text secondary
-$lt1: #7A7160; // Light bg text primary
-$red: #CA6E6A; // Red
-$ora: #CB8D6A; // Orange
-$yel: #DDBA7D; // Yellow
-$gre: #7DB97A; // Green
-$cya: #35C5BD; // Cyan
-$blu: #65AFCD; // Blue
-$vio: #AA85CB; // Violet
-$mag: #CB7E9A; // Magenta
+$dhl: #335f64; // Dark highlight
+$dt2: #868265; // Dark bg text secondary
+$dt1: #93b9b4; // Dark bg text primary
+$lbg: #faf1e0; // Light background
+$lhl: #eae1d0; // Light highlight
+$lt2: #7c949d; // Light bg text secondary
+$lt1: #5a7160; // Light bg text primary
+$red: #ca6e6a; // Red
+$ora: #cb8d6a; // Orange
+$yel: #ccb45d; // Yellow
+$gre: #7db97a; // Green
+$cya: #4dc4b7; // Cyan
+$blu: #65afcd; // Blue
+$vio: #aa85cb; // Violet
+$mag: #cb7e9a; // Magenta
 
 // Base Defaults ------------------------
 $text1: $lt1;
@@ -30,14 +30,14 @@ $background: $lbg;
 $highlight: $lhl;
 
 // Colour order
-$primary1: #65AFCD;
-$primary2: #7DB97A;
-$primary3: #35C5BD;
-$secondary1: #CB8D6A;
-$secondary2: #DDBA7D;
-$tertiary1: #CA6E6A;
-$tertiary2: #AA85CB;
-$tertiary3: #CB7E9A;
+$primary1: #65afcd;
+$primary2: #7db97a;
+$primary3: #4dc4b7;
+$secondary1: #cb8d6a;
+$secondary2: #ccb45d;
+$tertiary1: #ca6e6a;
+$tertiary2: #aa85cb;
+$tertiary3: #cb7e9a;
 
 // Syntax -------------------------------
 // NOTE Classes are prefixed with .highlight
