@@ -2,6 +2,7 @@ alto
 archaic
 bionis
 blau
+camo
 caprice
 cyprium
 equinox
