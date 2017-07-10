@@ -1,0 +1,11 @@
+[Scheme]
+Name=Camo dark
+ColorForeground=#91a3a4
+ColorBackground=#22372B
+ColorCursor=#91a3a4
+ColorBold=#91a3a4
+ColorPalette=#32473B;#bd720d;#589424;#baa60b;#528abd;#b27c9a;#31a2ab;#d9dedb;#22372B;#bd8c2b;#6a745e;#887d5c;#7695a8;#8b7cba;#91a3a4;#e9eeeb
+TabActivityColor=#589424
+ColorSelectionBackground=#32473B
+ColorSelection=#91a3a4
+
