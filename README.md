@@ -17,21 +17,40 @@ For specific use cases, please refer to the relevant GitHub project:
 
 ## Classification of themes
 
-Choosing a theme is up to personal preference. The following table can help you find what you are looking for, though note that these are general descriptions rather than precise facts.
+Choosing a theme is up to personal preference. The following list can help you find what you are looking for, though note that these are general descriptions rather than precise facts.
 
-Low contrast | Medium contrast | High contrast
---- | --- | --- |
-Cyprium | Alto | Archaic
-Gaia | Blau | Bionis
-Orionis | Flowerbed | Caprice
-Playa | Magus | Equinox
-Seabed | Neptune | Ficus
-Termina | Ocarina | Nefelio
-. | Oliveira | Overgrowth
-. | Vin | Sonho
-. | . | Symbiosis
-. | . | Hinterland
-. | . | Fortuna
+For a live demo, see each theme under https://protesilaos.com/schemes
+
+```
+Theme name - level of contrast - short description
+
+Alto - medium - neutral, almost generic palette
+Archaic - high - vibrant, warm palette
+Bionis - medium - vibrant, blue-purple hints with warm accents
+Blau - medium - neutral, slightly blue-ish tones
+Camo - medium - relaxed, subdued, earthly colours
+Caprice - high - vibrant, cold purple-ish palette
+Cyprium - low - very opinionated, subdued landscape colours
+Equinox - high - vibrant, cold blue-ish palette
+Ficus - high - very opinionated, bright and colourful
+Flowerbed -medium - relaxed, cyan-ish palette
+Fortuna - high - very opinionated, bright and refreshing
+Gaia - low - relaxed, subdued, natural, slightly cold tones
+Hinterland - medium - vibrant, landscape colours
+Magus - medium - very opinionated, warm palette
+Nefelio - high - very opinionated, bright and colourful
+Neptune - medium - neutral, slightly cold colours
+Ocarina - medium - vibrant, slightly green-ish tones
+Oliveira - medium - relaxed, slightly subdued natural colours
+Orionis - low - neutral, slightly teal-ish tones
+Overgrowth - high - very opinionated, warm and bright tones
+Playa - low - relaxed, slightly cyan-ish and warm tones
+Seabed - low - very opinionated, subdued, dark-blue-ish tones
+Sonho - high - very opinionated, warm colours with a pop style
+Symbiosis - high - vibrant, almost generic palette
+Termina - low - neutral, subdued earthly colours
+Vin - medium - vibrant, fruity tones
+```
 
 ## Contributing
 
