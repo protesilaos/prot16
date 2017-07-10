@@ -76,7 +76,7 @@
 <key>Color Space</key>
 <string>sRGB</string>
 <key>Green Component</key>
-<real>0.48627450980392156</real>
+<real>0.4549019607843137</real>
 <key>Red Component</key>
 <real>0.6980392156862745</real>
 </dict>
@@ -154,7 +154,7 @@
 <key>Color Space</key>
 <string>sRGB</string>
 <key>Green Component</key>
-<real>0.48627450980392156</real>
+<real>0.4549019607843137</real>
 <key>Red Component</key>
 <real>0.6980392156862745</real>
 </dict>

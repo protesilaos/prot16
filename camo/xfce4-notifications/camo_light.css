@@ -9,19 +9,19 @@
 #XfceNotifyWindow image {
     font-size: 12px;
     font-weight: 400;
-    color: #6a745e;
+    color: #5a644e;
 }
 
 #XfceNotifyWindow label#summary {
     font-size: 18px;
     font-weight: 700;
-    color: #bd720d;
+    color: #589424;
 }
 
 #XfceNotifyWindow button {
     border-style: none;
     background-image: none;
-    background-color: #b27c9a;
+    background-color: #bd720d;
     color: #91a3a4;
     padding: 0.5em 1em;
 }

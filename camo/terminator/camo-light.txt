@@ -7,7 +7,7 @@
   title_transmit_fg_color = "#e9eeeb"
 [profiles]
   [[default]]
-    palette = "#32473B:#bd720d:#589424:#baa60b:#528abd:#b27c9a:#31a2ab:#d9dedb:#22372B:#bd8c2b:#6a745e:#887d5c:#7695a8:#8b7cba:#91a3a4:#e9eeeb"
-    foreground_color = "#6a745e"
+    palette = "#32473B:#bd720d:#589424:#baa60b:#528abd:#b2749a:#31a2ab:#d9dedb:#22372B:#bd8c2b:#5a644e:#887d5c:#7695a8:#8b7cba:#91a3a4:#e9eeeb"
+    foreground_color = "#5a644e"
     background_color = "#e9eeeb"
 

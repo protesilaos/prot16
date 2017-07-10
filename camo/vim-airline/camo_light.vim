@@ -6,7 +6,7 @@
 let g:airline#themes#camo_light#palette = {}
 let s:guidbg = "#22372B"
 let s:guidhl = "#32473B"
-let s:guilt1 = "#6a745e"
+let s:guilt1 = "#5a644e"
 let s:guidt2 = "#887d5c"
 let s:guilt2 = "#7695a8"
 let s:guidt1 = "#91a3a4"
@@ -19,7 +19,7 @@ let s:guigre = "#589424"
 let s:guicya = "#31a2ab"
 let s:guiblu = "#528abd"
 let s:guivio = "#8b7cba"
-let s:guimag = "#b27c9a"
+let s:guimag = "#b2749a"
 
 let s:ctermdbg = 8
 let s:ctermdhl = 0

@@ -8,7 +8,7 @@ dt1: "91a3a4" # Dark bg text primary
 lbg: "e9eeeb" # Light background
 lhl: "d9dedb" # Light highlight
 lt2: "7695a8" # Light bg text secondary
-lt1: "6a745e" # Light bg text primary
+lt1: "5a644e" # Light bg text primary
 red: "bd720d" # Red
 ora: "bd8c2b" # Orange
 yel: "baa60b" # Yellow
@@ -16,5 +16,5 @@ gre: "589424" # Green
 cya: "31a2ab" # Cyan
 blu: "528abd" # Blue
 vio: "8b7cba" # Violet
-mag: "b27c9a" # Magenta
+mag: "b2749a" # Magenta
 

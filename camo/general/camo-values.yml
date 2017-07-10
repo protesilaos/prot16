@@ -9,7 +9,7 @@ valuedt1: "91a3a4" # Dark bg text primary
 valuelbg: "e9eeeb" # Light background
 valuelhl: "d9dedb" # Light highlight
 valuelt2: "7695a8" # Light bg text secondary
-valuelt1: "6a745e" # Light bg text primary
+valuelt1: "5a644e" # Light bg text primary
 valuered: "bd720d" # Red
 valueora: "bd8c2b" # Orange
 valueyel: "baa60b" # Yellow
@@ -17,13 +17,13 @@ valuegre: "589424" # Green
 valuecya: "31a2ab" # Cyan
 valueblu: "528abd" # Blue
 valuevio: "8b7cba" # Violet
-valuemag: "b27c9a" # Magenta
+valuemag: "b2749a" # Magenta
 
 # Visual order used for colour mapping
-valuep1: "bd720d" # Red
-valuep2: "b27c9a" # Magenta
-valuep3: "589424" # Green
-values1: "bd8c2b" # Orange
+valuep1: "589424" # Green
+valuep2: "bd720d" # Red
+valuep3: "bd8c2b" # Orange
+values1: "b2749a" # Magenta
 values2: "8b7cba" # Violet
 valuet1: "528abd" # Blue
 valuet2: "31a2ab" # Cyan
@@ -54,10 +54,10 @@ valuecvio: "13"
 valuecmag: "5"
 
 # Terminal accent colours corresponding to the visual order
-valuecp1: "1"
-valuecp2: "5"
-valuecp3: "2"
-valuecs1: "9"
+valuecp1: "2"
+valuecp2: "1"
+valuecp3: "9"
+valuecs1: "5"
 valuecs2: "13"
 valuect1: "4"
 valuect2: "6"

@@ -1,11 +1,11 @@
 [Scheme]
 Name=Camo light
-ColorForeground=#6a745e
+ColorForeground=#5a644e
 ColorBackground=#e9eeeb
-ColorCursor=#6a745e
-ColorBold=#6a745e
-ColorPalette=#32473B;#bd720d;#589424;#baa60b;#528abd;#b27c9a;#31a2ab;#d9dedb;#22372B;#bd8c2b;#6a745e;#887d5c;#7695a8;#8b7cba;#91a3a4;#e9eeeb
+ColorCursor=#5a644e
+ColorBold=#5a644e
+ColorPalette=#32473B;#bd720d;#589424;#baa60b;#528abd;#b2749a;#31a2ab;#d9dedb;#22372B;#bd8c2b;#5a644e;#887d5c;#7695a8;#8b7cba;#91a3a4;#e9eeeb
 TabActivityColor=#589424
 ColorSelectionBackground=#d9dedb
-ColorSelection=#6a745e
+ColorSelection=#5a644e
 

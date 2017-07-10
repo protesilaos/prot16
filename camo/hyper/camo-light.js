@@ -7,13 +7,13 @@ module.exports = {
     fontFamily: 'Menlo, "DejaVu Sans Mono", Consolas, "Lucida Console", monospace',
 
     // terminal cursor background color and opacity (hex, rgb, hsl, hsv, hwb or cmyk)
-    cursorColor: '#6a745e',
+    cursorColor: '#5a644e',
 
     // `BEAM` for |, `UNDERLINE` for _, `BLOCK` for █
     cursorShape: 'BLOCK',
 
     // color of the text
-    foregroundColor: '#6a745e',
+    foregroundColor: '#5a644e',
 
     // terminal background color
     backgroundColor: '#e9eeeb',
@@ -49,12 +49,12 @@ module.exports = {
       green: '#589424',
       yellow: '#baa60b',
       blue: '#528abd',
-      magenta: '#b27c9a',
+      magenta: '#b2749a',
       cyan: '#31a2ab',
       white: '#d9dedb',
       lightBlack: '#22372B',
       lightRed: '#bd8c2b',
-      lightGreen: '#6a745e',
+      lightGreen: '#5a644e',
       lightYellow: '#887d5c',
       lightBlue: '#7695a8',
       lightMagenta: '#8b7cba',
