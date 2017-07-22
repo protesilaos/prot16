@@ -2,32 +2,32 @@ scheme: "Termina"
 author: "Protesilaos Stavrou (https://protesilaos.com/termina)"
 
 # Colour values
-valuedbg: "1A2225" # Dark background
-valuedhl: "2A3235" # Dark highlight
-valuedt2: "5A6265" # Dark bg text secondary
-valuedt1: "8A9295" # Dark bg text primary
-valuelbg: "FEFCEE" # Light background
-valuelhl: "EEECDE" # Light highlight
-valuelt2: "9E9C8E" # Light bg text secondary
-valuelt1: "5E5C4E" # Light bg text primary
-valuered: "985637" # Red
-valueora: "9D6A47" # Orange
-valueyel: "9A813D" # Yellow
-valuegre: "728852" # Green
-valuecya: "629298" # Cyan
-valueblu: "597899" # Blue
-valuevio: "8479A6" # Violet
-valuemag: "A3636D" # Magenta
+valuedbg: "2a2235" # Dark background
+valuedhl: "3a3245" # Dark highlight
+valuedt2: "7a7b65" # Dark bg text secondary
+valuedt1: "7a929a" # Dark bg text primary
+valuelbg: "f0f1ef" # Light background
+valuelhl: "e0e1df" # Light highlight
+valuelt2: "7e96a8" # Light bg text secondary
+valuelt1: "53623e" # Light bg text primary
+valuered: "a24e37" # Red
+valueora: "9d7a47" # Orange
+valueyel: "94960d" # Yellow
+valuegre: "749234" # Green
+valuecya: "529298" # Cyan
+valueblu: "5a7ca8" # Blue
+valuevio: "8a6fa2" # Violet
+valuemag: "a3636d" # Magenta
 
 # Visual order used for colour mapping
-valuep1: "728852" # Green
-valuep2: "8479A6" # Violet
-valuep3: "9D6A47" # Orange
-values1: "629298" # Cyan
-values2: "597899" # Blue
-valuet1: "A3636D" # Magenta
-valuet2: "9A813D" # Yellow
-valuet3: "985637" # Red
+valuep1: "749234" # Green
+valuep2: "8a6fa2" # Violet
+valuep3: "9d7a47" # Orange
+values1: "529298" # Cyan
+values2: "5a7ca8" # Blue
+valuet1: "a3636d" # Magenta
+valuet2: "94960d" # Yellow
+valuet3: "a24e37" # Red
 
 # IMPORTANT Terminal values follow this sequence in the relevant templates:
 # 0=dhl; 1=red; 2=gre; 3=yel; 4=blu; 5=mag; 6=cya; 7=lhl;
