@@ -11,6 +11,7 @@ flowerbed
 fortuna
 gaia
 hinterland
+hyperion
 magus
 nefelio
 neptune
