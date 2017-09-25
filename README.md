@@ -37,6 +37,7 @@ Flowerbed -medium - relaxed, cyan-ish palette
 Fortuna - high - very opinionated, bright and refreshing
 Gaia - low - relaxed, subdued, natural, slightly cold tones
 Hinterland - medium - vibrant, landscape colours
+Hyperion - high - vibrant, neutral palette
 Magus - medium - very opinionated, warm palette
 Nefelio - high - very opinionated, bright and colourful
 Neptune - medium - neutral, slightly cold colours
