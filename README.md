@@ -41,6 +41,7 @@ Hyperion - high - vibrant, neutral palette
 Magus - medium - very opinionated, warm palette
 Nefelio - high - very opinionated, bright and colourful
 Neptune - medium - neutral, slightly cold colours
+Noir - low - opinionated, subdued, slightly warm colours
 Ocarina - medium - vibrant, slightly green-ish tones
 Oliveira - medium - relaxed, slightly subdued natural colours
 Orionis - low - neutral, slightly teal-ish tones
