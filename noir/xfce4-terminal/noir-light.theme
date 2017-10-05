@@ -1,0 +1,11 @@
+[Scheme]
+Name=Noir light
+ColorForeground=#758f74
+ColorBackground=#191e18
+ColorCursor=#758f74
+ColorBold=#758f74
+ColorPalette=#182624;#a2744a;#358664;#76924c;#4a78a6;#a28d7c;#358092;#292e28;#081614;#90842a;#758f74;#7c7d59;#758c9b;#7f7dad;#728d8c;#191e18
+TabActivityColor=#358664
+ColorSelectionBackground=#292e28
+ColorSelection=#758f74
+

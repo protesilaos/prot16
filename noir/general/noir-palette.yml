@@ -1,0 +1,20 @@
+scheme: "Noir"
+url: "https://protesilaos.com/noir"
+author: "Protesilaos Stavrou <public@protesilaos.com>"
+dbg: "081614" # Dark background
+dhl: "182624" # Dark highlight
+dt2: "7c7d59" # Dark bg text secondary
+dt1: "728d8c" # Dark bg text primary
+lbg: "191e18" # Light background
+lhl: "292e28" # Light highlight
+lt2: "758c9b" # Light bg text secondary
+lt1: "758f74" # Light bg text primary
+red: "a2744a" # Red
+ora: "90842a" # Orange
+yel: "76924c" # Yellow
+gre: "358664" # Green
+cya: "358092" # Cyan
+blu: "4a78a6" # Blue
+vio: "7f7dad" # Violet
+mag: "a28d7c" # Magenta
+
