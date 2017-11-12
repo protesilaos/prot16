@@ -1,0 +1,22 @@
+! Colour scheme: nefelio (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/nefelio
+xterm*background: #282326
+xterm*foreground: #82a3a6
+xterm*cursorColor: #82a3a6
+xterm*color0: #282326
+xterm*color1: #ba3d5a
+xterm*color2: #1cb57a
+xterm*color3: #ca9e5d
+xterm*color4: #3f8eda
+xterm*color5: #c34d95
+xterm*color6: #34b7bd
+xterm*color7: #dadfe2
+xterm*color8: #383336
+xterm*color9: #ca6f5f
+xterm*color10: #5a6662
+xterm*color11: #686356
+xterm*color12: #7a8fa2
+xterm*color13: #956cda
+xterm*color14: #82a3a6
+xterm*color15: #eaeff2

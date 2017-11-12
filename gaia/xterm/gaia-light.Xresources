@@ -1,0 +1,22 @@
+! Colour scheme: gaia (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/gaia
+xterm*background: #ebeddf
+xterm*foreground: #5B6c4a
+xterm*cursorColor: #5B6c4a
+xterm*color0: #2d2e2f
+xterm*color1: #a67336
+xterm*color2: #7c8e2d
+xterm*color3: #ad9f4d
+xterm*color4: #6c9cba
+xterm*color5: #bd9198
+xterm*color6: #5d9d7c
+xterm*color7: #dbddcf
+xterm*color8: #3d3e3f
+xterm*color9: #a9880b
+xterm*color10: #5B6c4a
+xterm*color11: #786c4d
+xterm*color12: #7b8d9d
+xterm*color13: #8a8db7
+xterm*color14: #94ae9f
+xterm*color15: #ebeddf

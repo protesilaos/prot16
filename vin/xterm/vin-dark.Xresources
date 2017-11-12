@@ -1,0 +1,22 @@
+! Colour scheme: vin (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/vin
+xterm*background: #181a28
+xterm*foreground: #6d8476
+xterm*cursorColor: #6d8476
+xterm*color0: #181a28
+xterm*color1: #a3415c
+xterm*color2: #487d14
+xterm*color3: #7d851d
+xterm*color4: #5a5da8
+xterm*color5: #ac587a
+xterm*color6: #13865a
+xterm*color7: #e0e2da
+xterm*color8: #282a38
+xterm*color9: #8d522d
+xterm*color10: #3f4d24
+xterm*color11: #626442
+xterm*color12: #727584
+xterm*color13: #8858a5
+xterm*color14: #6d8476
+xterm*color15: #f0f2ea

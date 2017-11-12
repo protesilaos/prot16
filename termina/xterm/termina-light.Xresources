@@ -1,0 +1,22 @@
+! Colour scheme: termina (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/termina
+xterm*background: #f0f1ef
+xterm*foreground: #53623e
+xterm*cursorColor: #53623e
+xterm*color0: #2a2235
+xterm*color1: #a24e37
+xterm*color2: #749234
+xterm*color3: #94960d
+xterm*color4: #5a7ca8
+xterm*color5: #a3636d
+xterm*color6: #529298
+xterm*color7: #e0e1df
+xterm*color8: #3a3245
+xterm*color9: #9d7a47
+xterm*color10: #53623e
+xterm*color11: #7a7b65
+xterm*color12: #7e96a8
+xterm*color13: #8a6fa2
+xterm*color14: #7a929a
+xterm*color15: #f0f1ef

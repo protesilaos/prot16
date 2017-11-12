@@ -1,0 +1,22 @@
+! Colour scheme: fortuna (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/fortuna
+xterm*background: #453731
+xterm*foreground: #98b4ac
+xterm*cursorColor: #98b4ac
+xterm*color0: #453731
+xterm*color1: #da5447
+xterm*color2: #78ad28
+xterm*color3: #db9d0b
+xterm*color4: #3894cd
+xterm*color5: #dc6788
+xterm*color6: #16adac
+xterm*color7: #e2e1df
+xterm*color8: #554741
+xterm*color9: #dc7926
+xterm*color10: #5d6348
+xterm*color11: #837858
+xterm*color12: #78849c
+xterm*color13: #aa8bee
+xterm*color14: #98b4ac
+xterm*color15: #f2f1ef

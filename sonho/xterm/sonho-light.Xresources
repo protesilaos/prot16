@@ -1,0 +1,22 @@
+! Colour scheme: sonho (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/sonho
+xterm*background: #fff0f2
+xterm*foreground: #677468
+xterm*cursorColor: #677468
+xterm*color0: #4a3638
+xterm*color1: #cd4679
+xterm*color2: #11bf8c
+xterm*color3: #d9a652
+xterm*color4: #479cb5
+xterm*color5: #dd619f
+xterm*color6: #38A8b9
+xterm*color7: #efe0e2
+xterm*color8: #5a4648
+xterm*color9: #d9766d
+xterm*color10: #677468
+xterm*color11: #8a7668
+xterm*color12: #8896bb
+xterm*color13: #a77ccf
+xterm*color14: #99aabc
+xterm*color15: #fff0f2

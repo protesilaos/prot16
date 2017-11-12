@@ -1,0 +1,22 @@
+! Colour scheme: hyperion (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/hyperion
+xterm*background: #f6f6f6
+xterm*foreground: #4d654e
+xterm*cursorColor: #4d654e
+xterm*color0: #0a2d3c
+xterm*color1: #d94832
+xterm*color2: #329c50
+xterm*color3: #dbac13
+xterm*color4: #1d8fde
+xterm*color5: #dc76aa
+xterm*color6: #0eaac8
+xterm*color7: #e6e6e6
+xterm*color8: #1a3d4c
+xterm*color9: #dc7d3a
+xterm*color10: #4d654e
+xterm*color11: #8d9474
+xterm*color12: #6a8ba9
+xterm*color13: #aa7deb
+xterm*color14: #9ebcc8
+xterm*color15: #f6f6f6

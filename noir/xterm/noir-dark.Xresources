@@ -1,0 +1,22 @@
+! Colour scheme: noir (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/noir
+xterm*background: #081614
+xterm*foreground: #728d8c
+xterm*cursorColor: #728d8c
+xterm*color0: #081614
+xterm*color1: #a2744a
+xterm*color2: #358664
+xterm*color3: #76924c
+xterm*color4: #4a78a6
+xterm*color5: #a28d7c
+xterm*color6: #358092
+xterm*color7: #292e28
+xterm*color8: #182624
+xterm*color9: #90842a
+xterm*color10: #758f74
+xterm*color11: #7c7d59
+xterm*color12: #758c9b
+xterm*color13: #7f7dad
+xterm*color14: #728d8c
+xterm*color15: #191e18

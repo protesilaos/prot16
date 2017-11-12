@@ -1,0 +1,22 @@
+! Colour scheme: caprice (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/caprice
+xterm*background: #fefbfc
+xterm*foreground: #2e2b2c
+xterm*cursorColor: #2e2b2c
+xterm*color0: #211b29
+xterm*color1: #983d4f
+xterm*color2: #278975
+xterm*color3: #a58a30
+xterm*color4: #585ebc
+xterm*color5: #ac4d7a
+xterm*color6: #587ebc
+xterm*color7: #eeebec
+xterm*color8: #312b39
+xterm*color9: #9a5d38
+xterm*color10: #2e2b2c
+xterm*color11: #716b79
+xterm*color12: #7e7b7c
+xterm*color13: #8955a2
+xterm*color14: #a19ba9
+xterm*color15: #fefbfc

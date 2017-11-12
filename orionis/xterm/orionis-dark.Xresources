@@ -1,0 +1,22 @@
+! Colour scheme: orionis (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/orionis
+xterm*background: #1f2a2d
+xterm*foreground: #8f9a9d
+xterm*cursorColor: #8f9a9d
+xterm*color0: #1f2a2d
+xterm*color1: #974f6c
+xterm*color2: #5b935b
+xterm*color3: #9a8f0c
+xterm*color4: #4d8ab3
+xterm*color5: #ad6e8f
+xterm*color6: #52a6ad
+xterm*color7: #dfe1e3
+xterm*color8: #2f3a3d
+xterm*color9: #9d7427
+xterm*color10: #5f6163
+xterm*color11: #5f6a6d
+xterm*color12: #8f9193
+xterm*color13: #7e7ead
+xterm*color14: #8f9a9d
+xterm*color15: #eff1f3

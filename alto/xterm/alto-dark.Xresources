@@ -1,0 +1,22 @@
+! Colour scheme: alto (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/alto
+xterm*background: #182d2a
+xterm*foreground: #98adaa
+xterm*cursorColor: #98adaa
+xterm*color0: #182d2a
+xterm*color1: #c6414d
+xterm*color2: #679945
+xterm*color3: #c6a13d
+xterm*color4: #378bbd
+xterm*color5: #c97885
+xterm*color6: #57ab8b
+xterm*color7: #eaeadc
+xterm*color8: #283d3a
+xterm*color9: #c9753d
+xterm*color10: #5a5a4c
+xterm*color11: #687d7a
+xterm*color12: #8a8a7c
+xterm*color13: #9a7bc8
+xterm*color14: #98adaa
+xterm*color15: #fafaec

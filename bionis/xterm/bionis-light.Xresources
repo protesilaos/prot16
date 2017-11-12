@@ -1,0 +1,22 @@
+! Colour scheme: bionis (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/bionis
+xterm*background: #fbf8fd
+xterm*foreground: #4b484d
+xterm*cursorColor: #4b484d
+xterm*color0: #251a27
+xterm*color1: #c25a5b
+xterm*color2: #4da35c
+xterm*color3: #ba8a00
+xterm*color4: #5a7acd
+xterm*color5: #c25783
+xterm*color6: #439b9b
+xterm*color7: #ebe8ed
+xterm*color8: #352a37
+xterm*color9: #cb6832
+xterm*color10: #4b484d
+xterm*color11: #857a87
+xterm*color12: #9b989d
+xterm*color13: #aa6bc5
+xterm*color14: #b5aab7
+xterm*color15: #fbf8fd

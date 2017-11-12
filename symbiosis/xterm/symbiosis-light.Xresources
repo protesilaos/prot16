@@ -1,0 +1,22 @@
+! Colour scheme: symbiosis (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/symbiosis
+xterm*background: #fcfaf9
+xterm*foreground: #3c513d
+xterm*cursorColor: #3c513d
+xterm*color0: #111d1c
+xterm*color1: #b95846
+xterm*color2: #669824
+xterm*color3: #a89641
+xterm*color4: #3d8cad
+xterm*color5: #bb7eaa
+xterm*color6: #28a597
+xterm*color7: #eceae9
+xterm*color8: #212d2c
+xterm*color9: #a87226
+xterm*color10: #3c513d
+xterm*color11: #58623b
+xterm*color12: #828cad
+xterm*color13: #9166ab
+xterm*color14: #79988b
+xterm*color15: #fcfaf9

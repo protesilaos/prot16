@@ -1,0 +1,22 @@
+! Colour scheme: overgrowth (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/overgrowth
+xterm*background: #e6e5d2
+xterm*foreground: #767562
+xterm*cursorColor: #767562
+xterm*color0: #233f34
+xterm*color1: #ca6a4a
+xterm*color2: #4ba212
+xterm*color3: #a8950d
+xterm*color4: #359fca
+xterm*color5: #bb6e8a
+xterm*color6: #15b59b
+xterm*color7: #d6d5c2
+xterm*color8: #334f44
+xterm*color9: #bb7628
+xterm*color10: #767562
+xterm*color11: #637f74
+xterm*color12: #a6a592
+xterm*color13: #8a6ebb
+xterm*color14: #93afa4
+xterm*color15: #e6e5d2

@@ -1,0 +1,22 @@
+! Colour scheme: magus (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/magus
+xterm*background: #f2ede6
+xterm*foreground: #625d56
+xterm*cursorColor: #625d56
+xterm*color0: #322a29
+xterm*color1: #bd5956
+xterm*color2: #8b972a
+xterm*color3: #c1a222
+xterm*color4: #5c8caa
+xterm*color5: #b881a8
+xterm*color6: #65ab85
+xterm*color7: #e2ddd6
+xterm*color8: #423a39
+xterm*color9: #bb7321
+xterm*color10: #625d56
+xterm*color11: #726a69
+xterm*color12: #a29d96
+xterm*color13: #7a7da7
+xterm*color14: #a29a99
+xterm*color15: #f2ede6

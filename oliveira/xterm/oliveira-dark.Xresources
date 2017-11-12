@@ -1,0 +1,22 @@
+! Colour scheme: oliveira (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/oliveira
+xterm*background: #252922
+xterm*foreground: #959992
+xterm*cursorColor: #959992
+xterm*color0: #252922
+xterm*color1: #a64e3c
+xterm*color2: #5ca15a
+xterm*color3: #a59520
+xterm*color4: #4a8dac
+xterm*color5: #a95f85
+xterm*color6: #5caa9a
+xterm*color7: #e1e3db
+xterm*color8: #353932
+xterm*color9: #a35c35
+xterm*color10: #51534b
+xterm*color11: #757972
+xterm*color12: #91938b
+xterm*color13: #7c85b7
+xterm*color14: #959992
+xterm*color15: #f1f3eb

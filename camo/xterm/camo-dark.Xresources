@@ -1,0 +1,22 @@
+! Colour scheme: camo (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/camo
+xterm*background: #22372B
+xterm*foreground: #91a3a4
+xterm*cursorColor: #91a3a4
+xterm*color0: #22372B
+xterm*color1: #bd720d
+xterm*color2: #589424
+xterm*color3: #baa60b
+xterm*color4: #528abd
+xterm*color5: #b2749a
+xterm*color6: #31a2ab
+xterm*color7: #d9dedb
+xterm*color8: #32473B
+xterm*color9: #bd8c2b
+xterm*color10: #5a644e
+xterm*color11: #887d5c
+xterm*color12: #7695a8
+xterm*color13: #8b7cba
+xterm*color14: #91a3a4
+xterm*color15: #e9eeeb

@@ -1,0 +1,22 @@
+! Colour scheme: flowerbed (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/flowerbed
+xterm*background: #ecf3f2
+xterm*foreground: #5c6362
+xterm*cursorColor: #5c6362
+xterm*color0: #233949
+xterm*color1: #d86a87
+xterm*color2: #5cbc7d
+xterm*color3: #cd9a8a
+xterm*color4: #4aa7d2
+xterm*color5: #bc74af
+xterm*color6: #1caba1
+xterm*color7: #dce3e2
+xterm*color8: #334959
+xterm*color9: #d89a47
+xterm*color10: #5c6362
+xterm*color11: #738999
+xterm*color12: #8c9392
+xterm*color13: #7988ca
+xterm*color14: #a3b9c9
+xterm*color15: #ecf3f2

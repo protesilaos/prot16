@@ -1,0 +1,22 @@
+! Colour scheme: ocarina (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/ocarina
+xterm*background: #ebebe7
+xterm*foreground: #556d5c
+xterm*cursorColor: #556d5c
+xterm*color0: #212c2d
+xterm*color1: #ba6f5b
+xterm*color2: #3d9954
+xterm*color3: #93a34a
+xterm*color4: #2a92a5
+xterm*color5: #a77b9b
+xterm*color6: #38a997
+xterm*color7: #dbdbd7
+xterm*color8: #313c3d
+xterm*color9: #a2853a
+xterm*color10: #556d5c
+xterm*color11: #716c4d
+xterm*color12: #7a9297
+xterm*color13: #7a84ba
+xterm*color14: #88a99b
+xterm*color15: #ebebe7

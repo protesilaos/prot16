@@ -1,0 +1,22 @@
+! Colour scheme: hinterland (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/hinterland
+xterm*background: #f9f8fc
+xterm*foreground: #3d463f
+xterm*cursorColor: #3d463f
+xterm*color0: #12171B
+xterm*color1: #983f16
+xterm*color2: #3D814C
+xterm*color3: #b09020
+xterm*color4: #217ab3
+xterm*color5: #ad5c5b
+xterm*color6: #01917b
+xterm*color7: #e9e8ec
+xterm*color8: #22272B
+xterm*color9: #9e6c3d
+xterm*color10: #3d463f
+xterm*color11: #60604f
+xterm*color12: #768592
+xterm*color13: #7d6cab
+xterm*color14: #8aa0a4
+xterm*color15: #f9f8fc

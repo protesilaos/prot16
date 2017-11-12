@@ -1,0 +1,22 @@
+! Colour scheme: blau (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/blau
+xterm*background: #28282f
+xterm*foreground: #98989f
+xterm*cursorColor: #98989f
+xterm*color0: #28282f
+xterm*color1: #a43d56
+xterm*color2: #3ba67a
+xterm*color3: #bb8b11
+xterm*color4: #2f7cb1
+xterm*color5: #a5657a
+xterm*color6: #2f95a5
+xterm*color7: #cfccce
+xterm*color8: #38383f
+xterm*color9: #bb651b
+xterm*color10: #4f4c4e
+xterm*color11: #68686f
+xterm*color12: #7f7c7e
+xterm*color13: #5e6fb5
+xterm*color14: #98989f
+xterm*color15: #dfdcde

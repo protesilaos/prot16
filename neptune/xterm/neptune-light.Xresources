@@ -1,0 +1,22 @@
+! Colour scheme: neptune (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/neptune
+xterm*background: #f0f1f8
+xterm*foreground: #404148
+xterm*cursorColor: #404148
+xterm*color0: #282c36
+xterm*color1: #a97552
+xterm*color2: #48b788
+xterm*color3: #b9a552
+xterm*color4: #3c8cbb
+xterm*color5: #c789a6
+xterm*color6: #55afaf
+xterm*color7: #e0e1e8
+xterm*color8: #383c46
+xterm*color9: #c78956
+xterm*color10: #404148
+xterm*color11: #686c76
+xterm*color12: #808188
+xterm*color13: #7a7dca
+xterm*color14: #a8acb6
+xterm*color15: #f0f1f8

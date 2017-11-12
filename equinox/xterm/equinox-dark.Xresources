@@ -1,0 +1,22 @@
+! Colour scheme: equinox (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/equinox
+xterm*background: #1d192a
+xterm*foreground: #7e9ca8
+xterm*cursorColor: #7e9ca8
+xterm*color0: #1d192a
+xterm*color1: #c44a64
+xterm*color2: #138e6c
+xterm*color3: #8d9928
+xterm*color4: #536cb2
+xterm*color5: #cc5d9a
+xterm*color6: #26a4a9
+xterm*color7: #e4e6ee
+xterm*color8: #2d293a
+xterm*color9: #a96a4b
+xterm*color10: #3c554d
+xterm*color11: #6d7444
+xterm*color12: #67839c
+xterm*color13: #8955ba
+xterm*color14: #7e9ca8
+xterm*color15: #f4f6fe

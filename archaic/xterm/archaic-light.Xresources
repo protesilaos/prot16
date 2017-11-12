@@ -1,0 +1,22 @@
+! Colour scheme: archaic (light variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/archaic
+xterm*background: #fef1d8
+xterm*foreground: #5e5138
+xterm*cursorColor: #5e5138
+xterm*color0: #2e2926
+xterm*color1: #ab5637
+xterm*color2: #688a38
+xterm*color3: #a97906
+xterm*color4: #4884ad
+xterm*color5: #a25763
+xterm*color6: #368876
+xterm*color7: #eee1c8
+xterm*color8: #3e3936
+xterm*color9: #c76d26
+xterm*color10: #5e5138
+xterm*color11: #7e7976
+xterm*color12: #9e9178
+xterm*color13: #8a6bb5
+xterm*color14: #aea9a6
+xterm*color15: #fef1d8

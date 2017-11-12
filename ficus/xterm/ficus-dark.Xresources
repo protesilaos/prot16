@@ -1,0 +1,22 @@
+! Colour scheme: ficus (dark variant)
+! By Protesilaos Stavrou
+! https://protesilaos.com/ficus
+xterm*background: #27152c
+xterm*foreground: #87a5a7
+xterm*cursorColor: #87a5a7
+xterm*color0: #27152c
+xterm*color1: #c84954
+xterm*color2: #84a33c
+xterm*color3: #a9a60a
+xterm*color4: #6d75cd
+xterm*color5: #cb5e9a
+xterm*color6: #3caaa9
+xterm*color7: #dde1d5
+xterm*color8: #37253c
+xterm*color9: #bd7e20
+xterm*color10: #667155
+xterm*color11: #747145
+xterm*color12: #778ca7
+xterm*color13: #a46acd
+xterm*color14: #87a5a7
+xterm*color15: #edf1e5
