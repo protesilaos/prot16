@@ -1,4 +1,5 @@
-! Colour scheme magus
+! Colour scheme: magus (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/magus
 URxvt*background: #322a29
 URxvt*foreground: #a29a99

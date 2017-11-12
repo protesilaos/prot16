@@ -1,4 +1,5 @@
-! Colour scheme ocarina
+! Colour scheme: ocarina (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/ocarina
 URxvt*background: #212c2d
 URxvt*foreground: #88a99b

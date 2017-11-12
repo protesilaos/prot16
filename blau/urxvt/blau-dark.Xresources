@@ -1,4 +1,5 @@
-! Colour scheme blau
+! Colour scheme: blau (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/blau
 URxvt*background: #28282f
 URxvt*foreground: #98989f

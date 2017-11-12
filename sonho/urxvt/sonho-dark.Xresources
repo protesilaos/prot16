@@ -1,4 +1,5 @@
-! Colour scheme sonho
+! Colour scheme: sonho (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/sonho
 URxvt*background: #4a3638
 URxvt*foreground: #99aabc

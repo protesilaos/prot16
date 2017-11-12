@@ -1,4 +1,5 @@
-! Colour scheme orionis
+! Colour scheme: orionis (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/orionis
 URxvt*background: #1f2a2d
 URxvt*foreground: #8f9a9d

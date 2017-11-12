@@ -1,4 +1,5 @@
-! Colour scheme bionis
+! Colour scheme: bionis (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/bionis
 URxvt*background: #251a27
 URxvt*foreground: #b5aab7

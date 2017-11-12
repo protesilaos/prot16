@@ -1,4 +1,5 @@
-! Colour scheme ficus
+! Colour scheme: ficus (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/ficus
 URxvt*background: #27152c
 URxvt*foreground: #87a5a7

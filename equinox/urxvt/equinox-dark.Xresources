@@ -1,4 +1,5 @@
-! Colour scheme equinox
+! Colour scheme: equinox (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/equinox
 URxvt*background: #1d192a
 URxvt*foreground: #7e9ca8

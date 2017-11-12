@@ -1,4 +1,5 @@
-! Colour scheme flowerbed
+! Colour scheme: flowerbed (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/flowerbed
 URxvt*background: #233949
 URxvt*foreground: #a3b9c9

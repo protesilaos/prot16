@@ -1,4 +1,5 @@
-! Colour scheme symbiosis
+! Colour scheme: symbiosis (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/symbiosis
 URxvt*background: #111d1c
 URxvt*foreground: #79988b

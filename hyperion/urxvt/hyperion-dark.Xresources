@@ -1,4 +1,5 @@
-! Colour scheme hyperion
+! Colour scheme: hyperion (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/hyperion
 URxvt*background: #0a2d3c
 URxvt*foreground: #9ebcc8

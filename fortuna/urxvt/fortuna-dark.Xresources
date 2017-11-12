@@ -1,4 +1,5 @@
-! Colour scheme fortuna
+! Colour scheme: fortuna (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/fortuna
 URxvt*background: #453731
 URxvt*foreground: #98b4ac

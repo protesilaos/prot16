@@ -1,4 +1,5 @@
-! Colour scheme nefelio
+! Colour scheme: nefelio (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/nefelio
 URxvt*background: #282326
 URxvt*foreground: #82a3a6

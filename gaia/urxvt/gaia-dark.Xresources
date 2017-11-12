@@ -1,4 +1,5 @@
-! Colour scheme gaia
+! Colour scheme: gaia (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/gaia
 URxvt*background: #2d2e2f
 URxvt*foreground: #94ae9f

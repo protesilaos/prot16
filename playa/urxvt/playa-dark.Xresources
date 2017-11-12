@@ -1,4 +1,5 @@
-! Colour scheme playa
+! Colour scheme: playa (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/playa
 URxvt*background: #234154
 URxvt*foreground: #93b9b4

@@ -1,4 +1,5 @@
-! Colour scheme oliveira
+! Colour scheme: oliveira (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/oliveira
 URxvt*background: #252922
 URxvt*foreground: #959992

@@ -1,4 +1,5 @@
-! Colour scheme archaic
+! Colour scheme: archaic (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/archaic
 URxvt*background: #2e2926
 URxvt*foreground: #aea9a6

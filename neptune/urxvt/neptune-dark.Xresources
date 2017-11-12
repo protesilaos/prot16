@@ -1,4 +1,5 @@
-! Colour scheme neptune
+! Colour scheme: neptune (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/neptune
 URxvt*background: #282c36
 URxvt*foreground: #a8acb6

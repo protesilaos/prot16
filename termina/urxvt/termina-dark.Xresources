@@ -1,4 +1,5 @@
-! Colour scheme termina
+! Colour scheme: termina (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/termina
 URxvt*background: #2a2235
 URxvt*foreground: #7a929a

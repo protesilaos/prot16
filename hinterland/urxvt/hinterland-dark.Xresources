@@ -1,4 +1,5 @@
-! Colour scheme hinterland
+! Colour scheme: hinterland (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/hinterland
 URxvt*background: #12171B
 URxvt*foreground: #8aa0a4

@@ -1,4 +1,5 @@
-! Colour scheme alto
+! Colour scheme: alto (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/alto
 URxvt*background: #182d2a
 URxvt*foreground: #98adaa

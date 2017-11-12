@@ -1,4 +1,5 @@
-! Colour scheme noir
+! Colour scheme: noir (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/noir
 URxvt*background: #081614
 URxvt*foreground: #728d8c

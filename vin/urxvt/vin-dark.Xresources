@@ -1,4 +1,5 @@
-! Colour scheme vin
+! Colour scheme: vin (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/vin
 URxvt*background: #181a28
 URxvt*foreground: #6d8476

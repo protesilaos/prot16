@@ -1,4 +1,5 @@
-! Colour scheme overgrowth
+! Colour scheme: overgrowth (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/overgrowth
 URxvt*background: #233f34
 URxvt*foreground: #93afa4

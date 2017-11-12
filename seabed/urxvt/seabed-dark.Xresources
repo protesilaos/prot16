@@ -1,4 +1,5 @@
-! Colour scheme seabed
+! Colour scheme: seabed (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/seabed
 URxvt*background: #060d18
 URxvt*foreground: #969da8

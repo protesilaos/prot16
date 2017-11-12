@@ -1,4 +1,5 @@
-! Colour scheme caprice
+! Colour scheme: caprice (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/caprice
 URxvt*background: #211b29
 URxvt*foreground: #a19ba9

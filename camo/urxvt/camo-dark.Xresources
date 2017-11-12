@@ -1,4 +1,5 @@
-! Colour scheme camo
+! Colour scheme: camo (dark variant)
+! By Protesilaos Stavrou
 ! https://protesilaos.com/camo
 URxvt*background: #22372B
 URxvt*foreground: #91a3a4
