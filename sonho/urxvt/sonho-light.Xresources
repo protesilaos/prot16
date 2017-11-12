@@ -1,7 +1,10 @@
+! Colour scheme: sonho
+! By Protesilaos Stavrou
+! https://protesilaos.com/sonho
 URxvt*background: #fff0f2
 URxvt*foreground: #677468
 URxvt*cursorColor: #677468
-URxvt*color0: #5a4648
+URxvt*color0: #4a3638
 URxvt*color1: #cd4679
 URxvt*color2: #11bf8c
 URxvt*color3: #d9a652
@@ -9,7 +12,7 @@ URxvt*color4: #479cb5
 URxvt*color5: #dd619f
 URxvt*color6: #38A8b9
 URxvt*color7: #efe0e2
-URxvt*color8: #4a3638
+URxvt*color8: #5a4648
 URxvt*color9: #d9766d
 URxvt*color10: #677468
 URxvt*color11: #8a7668
@@ -17,4 +20,3 @@ URxvt*color12: #8896bb
 URxvt*color13: #a77ccf
 URxvt*color14: #99aabc
 URxvt*color15: #fff0f2
-

@@ -1,20 +1,21 @@
+! Colour scheme oliveira
+! https://protesilaos.com/oliveira
 URxvt*background: #252922
 URxvt*foreground: #959992
 URxvt*cursorColor: #959992
-URxvt*color0: #353932
-URxvt*color1: #A64E3C
-URxvt*color2: #5CA15A
-URxvt*color3: #A59520
-URxvt*color4: #4A8DAC
-URxvt*color5: #A95F85
-URxvt*color6: #5CAA9A
-URxvt*color7: #E1E3DB
-URxvt*color8: #252922
-URxvt*color9: #A35C35
-URxvt*color10: #51534B
+URxvt*color0: #252922
+URxvt*color1: #a64e3c
+URxvt*color2: #5ca15a
+URxvt*color3: #a59520
+URxvt*color4: #4a8dac
+URxvt*color5: #a95f85
+URxvt*color6: #5caa9a
+URxvt*color7: #e1e3db
+URxvt*color8: #353932
+URxvt*color9: #a35c35
+URxvt*color10: #51534b
 URxvt*color11: #757972
-URxvt*color12: #91938B
-URxvt*color13: #7C85B7
+URxvt*color12: #91938b
+URxvt*color13: #7c85b7
 URxvt*color14: #959992
-URxvt*color15: #F1F3EB
-
+URxvt*color15: #f1f3eb

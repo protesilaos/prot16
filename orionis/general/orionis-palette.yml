@@ -1,20 +1,19 @@
-scheme: "Orionis"
+scheme: "orionis"
 url: "https://protesilaos.com/orionis"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "1F2A2D" # Dark background
-dhl: "2F3A3D" # Dark highlight
-dt2: "5F6A6D" # Dark bg text secondary
-dt1: "8F9A9D" # Dark bg text primary
-lbg: "EFF1F3" # Light background
-lhl: "DFE1E3" # Light highlight
-lt2: "8F9193" # Light bg text secondary
-lt1: "5F6163" # Light bg text primary
-red: "974F6C" # Red
-ora: "9D7427" # Orange
-yel: "9A8F0C" # Yellow
-gre: "5B935B" # Green
-cya: "52A6AD" # Cyan
-blu: "4D8AB3" # Blue
-vio: "7E7EAD" # Violet
-mag: "AD6E8F" # Magenta
-
+dbg: "1f2a2d" # Dark background
+dhl: "2f3a3d" # Dark highlight
+dt2: "5f6a6d" # Dark bg text secondary
+dt1: "8f9a9d" # Dark bg text primary
+lbg: "eff1f3" # Light background
+lhl: "dfe1e3" # Light highlight
+lt2: "8f9193" # Light bg text secondary
+lt1: "5f6163" # Light bg text primary
+red: "974f6c" # Red
+ora: "9d7427" # Orange
+yel: "9a8f0c" # Yellow
+gre: "5b935b" # Green
+cya: "52a6ad" # Cyan
+blu: "4d8ab3" # Blue
+vio: "7e7ead" # Violet
+mag: "ad6e8f" # Magenta

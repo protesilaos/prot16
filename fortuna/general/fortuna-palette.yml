@@ -1,4 +1,4 @@
-scheme: "Fortuna"
+scheme: "fortuna"
 url: "https://protesilaos.com/fortuna"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "453731" # Dark background
@@ -17,4 +17,3 @@ cya: "16adac" # Cyan
 blu: "3894cd" # Blue
 vio: "aa8bee" # Violet
 mag: "dc6788" # Magenta
-

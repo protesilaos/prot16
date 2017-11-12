@@ -1,11 +1,10 @@
 [Scheme]
-Name=Sonho light
+Name=sonho light
 ColorForeground=#677468
 ColorBackground=#fff0f2
 ColorCursor=#677468
 ColorBold=#677468
-ColorPalette=#5a4648;#cd4679;#11bf8c;#d9a652;#479cb5;#dd619f;#38A8b9;#efe0e2;#4a3638;#d9766d;#677468;#8a7668;#8896bb;#a77ccf;#99aabc;#fff0f2
+ColorPalette=#4a3638;#cd4679;#11bf8c;#d9a652;#479cb5;#dd619f;#38A8b9;#efe0e2;#5a4648;#d9766d;#677468;#8a7668;#8896bb;#a77ccf;#99aabc;#fff0f2
 TabActivityColor=#11bf8c
 ColorSelectionBackground=#efe0e2
 ColorSelection=#677468
-

@@ -1,11 +1,10 @@
 [Scheme]
-Name=Hyperion light
+Name=hyperion light
 ColorForeground=#4d654e
 ColorBackground=#f6f6f6
 ColorCursor=#4d654e
 ColorBold=#4d654e
-ColorPalette=#1a3d4c;#d94832;#329c50;#dbac13;#1d8fde;#dc76aa;#0eaac8;#e6e6e6;#0a2d3c;#dc7d3a;#4d654e;#8d9474;#6a8ba9;#aa7deb;#9ebcc8;#f6f6f6
+ColorPalette=#0a2d3c;#d94832;#329c50;#dbac13;#1d8fde;#dc76aa;#0eaac8;#e6e6e6;#1a3d4c;#dc7d3a;#4d654e;#8d9474;#6a8ba9;#aa7deb;#9ebcc8;#f6f6f6
 TabActivityColor=#329c50
 ColorSelectionBackground=#e6e6e6
 ColorSelection=#4d654e
-

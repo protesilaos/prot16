@@ -1,20 +1,22 @@
-URxvt*background: #ECF3F2
-URxvt*foreground: #5C6362
-URxvt*cursorColor: #5C6362
-URxvt*color0: #334959
-URxvt*color1: #D86A87
-URxvt*color2: #5CBC7D
-URxvt*color3: #CD9A8A
-URxvt*color4: #4AA7D2
-URxvt*color5: #BC74AF
-URxvt*color6: #1CABA1
-URxvt*color7: #DCE3E2
-URxvt*color8: #233949
-URxvt*color9: #D89A47
-URxvt*color10: #5C6362
+! Colour scheme: flowerbed
+! By Protesilaos Stavrou
+! https://protesilaos.com/flowerbed
+URxvt*background: #ecf3f2
+URxvt*foreground: #5c6362
+URxvt*cursorColor: #5c6362
+URxvt*color0: #233949
+URxvt*color1: #d86a87
+URxvt*color2: #5cbc7d
+URxvt*color3: #cd9a8a
+URxvt*color4: #4aa7d2
+URxvt*color5: #bc74af
+URxvt*color6: #1caba1
+URxvt*color7: #dce3e2
+URxvt*color8: #334959
+URxvt*color9: #d89a47
+URxvt*color10: #5c6362
 URxvt*color11: #738999
-URxvt*color12: #8C9392
-URxvt*color13: #7988CA
-URxvt*color14: #A3B9C9
-URxvt*color15: #ECF3F2
-
+URxvt*color12: #8c9392
+URxvt*color13: #7988ca
+URxvt*color14: #a3b9c9
+URxvt*color15: #ecf3f2

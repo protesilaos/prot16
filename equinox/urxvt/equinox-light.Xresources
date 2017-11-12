@@ -1,7 +1,10 @@
+! Colour scheme: equinox
+! By Protesilaos Stavrou
+! https://protesilaos.com/equinox
 URxvt*background: #f4f6fe
 URxvt*foreground: #3c554d
 URxvt*cursorColor: #3c554d
-URxvt*color0: #2d293a
+URxvt*color0: #1d192a
 URxvt*color1: #c44a64
 URxvt*color2: #138e6c
 URxvt*color3: #8d9928
@@ -9,7 +12,7 @@ URxvt*color4: #536cb2
 URxvt*color5: #cc5d9a
 URxvt*color6: #26a4a9
 URxvt*color7: #e4e6ee
-URxvt*color8: #1d192a
+URxvt*color8: #2d293a
 URxvt*color9: #a96a4b
 URxvt*color10: #3c554d
 URxvt*color11: #6d7444
@@ -17,4 +20,3 @@ URxvt*color12: #67839c
 URxvt*color13: #8955ba
 URxvt*color14: #7e9ca8
 URxvt*color15: #f4f6fe
-

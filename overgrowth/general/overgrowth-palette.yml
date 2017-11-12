@@ -1,20 +1,19 @@
-scheme: "Overgrowth"
+scheme: "overgrowth"
 url: "https://protesilaos.com/overgrowth"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "233F34" # Dark background
-dhl: "334F44" # Dark highlight
-dt2: "637F74" # Dark bg text secondary
-dt1: "93AFA4" # Dark bg text primary
-lbg: "E6E5D2" # Light background
-lhl: "D6D5C2" # Light highlight
-lt2: "A6A592" # Light bg text secondary
+dbg: "233f34" # Dark background
+dhl: "334f44" # Dark highlight
+dt2: "637f74" # Dark bg text secondary
+dt1: "93afa4" # Dark bg text primary
+lbg: "e6e5d2" # Light background
+lhl: "d6d5c2" # Light highlight
+lt2: "a6a592" # Light bg text secondary
 lt1: "767562" # Light bg text primary
-red: "CA6A4A" # Red
-ora: "BB7628" # Orange
-yel: "A8950D" # Yellow
-gre: "4BA212" # Green
-cya: "15B59B" # Cyan
-blu: "359FCA" # Blue
-vio: "8A6EBB" # Violet
-mag: "BB6E8A" # Magenta
-
+red: "ca6a4a" # Red
+ora: "bb7628" # Orange
+yel: "a8950d" # Yellow
+gre: "4ba212" # Green
+cya: "15b59b" # Cyan
+blu: "359fca" # Blue
+vio: "8a6ebb" # Violet
+mag: "bb6e8a" # Magenta

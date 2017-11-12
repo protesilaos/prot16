@@ -1,20 +1,19 @@
-scheme: "Blau"
+scheme: "blau"
 url: "https://protesilaos.com/blau"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "28282F" # Dark background
-dhl: "38383F" # Dark highlight
-dt2: "68686F" # Dark bg text secondary
-dt1: "98989F" # Dark bg text primary
-lbg: "DFDCDE" # Light background
-lhl: "CFCCCE" # Light highlight
-lt2: "7F7C7E" # Light bg text secondary
-lt1: "4F4C4E" # Light bg text primary
-red: "A43D56" # Red
-ora: "BB651B" # Orange
-yel: "BB8B11" # Yellow
-gre: "3BA67A" # Green
-cya: "2F95A5" # Cyan
-blu: "2F7CB1" # Blue
-vio: "5E6FB5" # Violet
-mag: "A5657A" # Magenta
-
+dbg: "28282f" # Dark background
+dhl: "38383f" # Dark highlight
+dt2: "68686f" # Dark bg text secondary
+dt1: "98989f" # Dark bg text primary
+lbg: "dfdcde" # Light background
+lhl: "cfccce" # Light highlight
+lt2: "7f7c7e" # Light bg text secondary
+lt1: "4f4c4e" # Light bg text primary
+red: "a43d56" # Red
+ora: "bb651b" # Orange
+yel: "bb8b11" # Yellow
+gre: "3ba67a" # Green
+cya: "2f95a5" # Cyan
+blu: "2f7cb1" # Blue
+vio: "5e6fb5" # Violet
+mag: "a5657a" # Magenta

@@ -1,7 +1,10 @@
+! Colour scheme: fortuna
+! By Protesilaos Stavrou
+! https://protesilaos.com/fortuna
 URxvt*background: #f2f1ef
 URxvt*foreground: #5d6348
 URxvt*cursorColor: #5d6348
-URxvt*color0: #554741
+URxvt*color0: #453731
 URxvt*color1: #da5447
 URxvt*color2: #78ad28
 URxvt*color3: #db9d0b
@@ -9,7 +12,7 @@ URxvt*color4: #3894cd
 URxvt*color5: #dc6788
 URxvt*color6: #16adac
 URxvt*color7: #e2e1df
-URxvt*color8: #453731
+URxvt*color8: #554741
 URxvt*color9: #dc7926
 URxvt*color10: #5d6348
 URxvt*color11: #837858
@@ -17,4 +20,3 @@ URxvt*color12: #78849c
 URxvt*color13: #aa8bee
 URxvt*color14: #98b4ac
 URxvt*color15: #f2f1ef
-

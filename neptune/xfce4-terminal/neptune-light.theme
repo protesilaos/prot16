@@ -1,11 +1,10 @@
 [Scheme]
-Name=Neptune light
+Name=neptune light
 ColorForeground=#404148
-ColorBackground=#F0F1F8
+ColorBackground=#f0f1f8
 ColorCursor=#404148
 ColorBold=#404148
-ColorPalette=#383C46;#A97552;#48B788;#B9A552;#3C8CBB;#C789A6;#55AFAF;#E0E1E8;#282C36;#C78956;#404148;#686C76;#808188;#7A7DCA;#A8ACB6;#F0F1F8
-TabActivityColor=#48B788
-ColorSelectionBackground=#E0E1E8
+ColorPalette=#282c36;#a97552;#48b788;#b9a552;#3c8cbb;#c789a6;#55afaf;#e0e1e8;#383c46;#c78956;#404148;#686c76;#808188;#7a7dca;#a8acb6;#f0f1f8
+TabActivityColor=#48b788
+ColorSelectionBackground=#e0e1e8
 ColorSelection=#404148
-

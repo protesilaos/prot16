@@ -1,7 +1,9 @@
+! Colour scheme hinterland
+! https://protesilaos.com/hinterland
 URxvt*background: #12171B
 URxvt*foreground: #8aa0a4
 URxvt*cursorColor: #8aa0a4
-URxvt*color0: #22272B
+URxvt*color0: #12171B
 URxvt*color1: #983f16
 URxvt*color2: #3D814C
 URxvt*color3: #b09020
@@ -9,7 +11,7 @@ URxvt*color4: #217ab3
 URxvt*color5: #ad5c5b
 URxvt*color6: #01917b
 URxvt*color7: #e9e8ec
-URxvt*color8: #12171B
+URxvt*color8: #22272B
 URxvt*color9: #9e6c3d
 URxvt*color10: #3d463f
 URxvt*color11: #60604f
@@ -17,4 +19,3 @@ URxvt*color12: #768592
 URxvt*color13: #7d6cab
 URxvt*color14: #8aa0a4
 URxvt*color15: #f9f8fc
-

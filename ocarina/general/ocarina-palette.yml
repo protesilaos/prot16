@@ -1,4 +1,4 @@
-scheme: "Ocarina"
+scheme: "ocarina"
 url: "https://protesilaos.com/ocarina"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "212c2d" # Dark background
@@ -17,4 +17,3 @@ cya: "38a997" # Cyan
 blu: "2a92a5" # Blue
 vio: "7a84ba" # Violet
 mag: "a77b9b" # Magenta
-

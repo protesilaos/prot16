@@ -1,4 +1,4 @@
-scheme: "Noir"
+scheme: "noir"
 url: "https://protesilaos.com/noir"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "081614" # Dark background
@@ -17,4 +17,3 @@ cya: "358092" # Cyan
 blu: "4a78a6" # Blue
 vio: "7f7dad" # Violet
 mag: "a28d7c" # Magenta
-

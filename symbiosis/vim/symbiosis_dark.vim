@@ -1,14 +1,13 @@
-" Name: Symbiosis dark
+" Name: symbiosis dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/symbiosis
-" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "symbiosis_dark"
+let g:colors_name = ""
 
 " General
 " -----------------
@@ -16,15 +15,15 @@ hi Normal guibg=#111d1c guifg=#79988b ctermbg=none ctermfg=14
 hi Visual guibg=#eceae9 guifg=#3c513d ctermbg=7 ctermfg=10
 hi Search guibg=#28a597 guifg=#fcfaf9 ctermbg=6 ctermfg=15
 
-hi StatusLine gui=none,bold guibg=#212d2c guifg=#79988b cterm=none,bold ctermbg=0 ctermfg=14
-hi StatusLineNC gui=none guibg=#212d2c guifg=#3c513d cterm=none ctermbg=0 ctermfg=10
+hi StatusLine gui=none,bold guibg=#212d2c guifg=#79988b cterm=none,bold ctermbg=8 ctermfg=14
+hi StatusLineNC gui=none guibg=#212d2c guifg=#3c513d cterm=none ctermbg=8 ctermfg=10
 hi VertSplit gui=none cterm=none
-hi TabLine gui=none guibg=#212d2c guifg=#58623b cterm=none ctermbg=0 ctermfg=11
+hi TabLine gui=none guibg=#212d2c guifg=#58623b cterm=none ctermbg=8 ctermfg=11
 hi TabLineSel gui=none guibg=#3d8cad guifg=#fcfaf9 cterm=none ctermbg=4 ctermfg=15
 hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#58623b cterm=italic ctermfg=11
-hi Todo gui=none guibg=#212d2c guifg=#669824 cterm=none ctermbg=0 ctermfg=2
+hi Todo gui=none guibg=#212d2c guifg=#669824 cterm=none ctermbg=8 ctermfg=2
 
 hi Warning gui=none guibg=#a89641 guifg=#fcfaf9 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#b95846 guifg=#fcfaf9 cterm=none ctermbg=1 ctermfg=15
@@ -77,12 +76,12 @@ hi Debug guifg=#bb7eaa
 " -----------------
 hi LineNr guifg=#58623b ctermfg=11
 hi Cursor guifg=#79988b ctermfg=14
-hi CursorLine gui=none guibg=#212d2c cterm=none ctermbg=0
-hi CursorLineNr gui=none guibg=#212d2c guifg=#828cad cterm=none ctermbg=0 ctermfg=12
+hi CursorLine gui=none guibg=#212d2c cterm=none ctermbg=8
+hi CursorLineNr gui=none guibg=#212d2c guifg=#828cad cterm=none ctermbg=8 ctermfg=12
 hi ColorColumn guibg=#58623b ctermbg=11
 
-hi Folded guibg=#212d2c guifg=#fcfaf9 ctermbg=0 ctermfg=15
-hi FoldColumn guibg=#212d2c guifg=#fcfaf9 ctermbg=0 ctermfg=15
+hi Folded guibg=#212d2c guifg=#fcfaf9 ctermbg=8 ctermfg=15
+hi FoldColumn guibg=#212d2c guifg=#fcfaf9 ctermbg=8 ctermfg=15
 
 hi NonText guifg=#58623b ctermfg=11
 hi SpecialKey guifg=#58623b ctermfg=11
@@ -97,11 +96,11 @@ hi Underlined guifg=#3d8cad ctermfg=4
 hi Ignore guifg=#a89641 ctermfg=2
 
 hi SpellBad guibg=#b95846 guifg=#fcfaf9 ctermbg=1 ctermfg=15
-hi SpellCap guibg=#212d2c guifg=#fcfaf9 ctermbg=0 ctermfg=15
+hi SpellCap guibg=#212d2c guifg=#fcfaf9 ctermbg=8 ctermfg=15
 hi SpellRare guibg=#9166ab guifg=#fcfaf9 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#28a597 guifg=#fcfaf9 ctermbg=6 ctermfg=15
 
-hi Pmenu guibg=#212d2c guifg=#fcfaf9 ctermbg=0 ctermfg=15
+hi Pmenu guibg=#212d2c guifg=#fcfaf9 ctermbg=8 ctermfg=15
 hi PmenuSel guibg=#a89641 guifg=#fcfaf9 ctermbg=3 ctermfg=15
 hi PmenuSbar guibg=#58623b ctermbg=11
 
@@ -116,4 +115,3 @@ hi diffAdded guifg=#669824 ctermfg=2
 hi diffRemoved guifg=#b95846 ctermfg=1
 hi diffNewFile gui=none guifg=#3d8cad ctermfg=4
 hi diffFile gui=none guifg=#a89641 cterm=none ctermfg=3
-

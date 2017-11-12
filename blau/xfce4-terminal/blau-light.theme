@@ -1,11 +1,10 @@
 [Scheme]
-Name=Blau light
-ColorForeground=#4F4C4E
-ColorBackground=#DFDCDE
-ColorCursor=#4F4C4E
-ColorBold=#4F4C4E
-ColorPalette=#38383F;#A43D56;#3BA67A;#BB8B11;#2F7CB1;#A5657A;#2F95A5;#CFCCCE;#28282F;#BB651B;#4F4C4E;#68686F;#7F7C7E;#5E6FB5;#98989F;#DFDCDE
-TabActivityColor=#3BA67A
-ColorSelectionBackground=#CFCCCE
-ColorSelection=#4F4C4E
-
+Name=blau light
+ColorForeground=#4f4c4e
+ColorBackground=#dfdcde
+ColorCursor=#4f4c4e
+ColorBold=#4f4c4e
+ColorPalette=#28282f;#a43d56;#3ba67a;#bb8b11;#2f7cb1;#a5657a;#2f95a5;#cfccce;#38383f;#bb651b;#4f4c4e;#68686f;#7f7c7e;#5e6fb5;#98989f;#dfdcde
+TabActivityColor=#3ba67a
+ColorSelectionBackground=#cfccce
+ColorSelection=#4f4c4e

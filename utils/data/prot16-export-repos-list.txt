@@ -1,6 +1,4 @@
 prot16-data
-prot16-jekyll-rouge
 prot16-urxvt
 prot16-vim
-prot16-vim-airline
 prot16-xfce4-terminal

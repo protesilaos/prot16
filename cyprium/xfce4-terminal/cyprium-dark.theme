@@ -1,11 +1,10 @@
 [Scheme]
-Name=Cyprium dark
+Name=cyprium dark
 ColorForeground=#82a394
 ColorBackground=#374934
 ColorCursor=#82a394
 ColorBold=#82a394
-ColorPalette=#475944;#b86a5c;#669252;#a38e10;#5c8c9e;#bc7374;#4c9b94;#dbd9ca;#374934;#b37521;#6e7b54;#879464;#9299aa;#8B85ac;#82a394;#ebe9da
+ColorPalette=#374934;#b86a5c;#669252;#a38e10;#5c8c9e;#bc7374;#4c9b94;#dbd9ca;#475944;#b37521;#6e7b54;#879464;#9299aa;#8B85ac;#82a394;#ebe9da
 TabActivityColor=#669252
 ColorSelectionBackground=#475944
 ColorSelection=#82a394
-

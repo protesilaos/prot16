@@ -1,4 +1,4 @@
-scheme: "Sonho"
+scheme: "sonho"
 url: "https://protesilaos.com/sonho"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "4a3638" # Dark background
@@ -17,4 +17,3 @@ cya: "38A8b9" # Cyan
 blu: "479cb5" # Blue
 vio: "a77ccf" # Violet
 mag: "dd619f" # Magenta
-

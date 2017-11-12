@@ -1,11 +1,10 @@
 [Scheme]
-Name=Archaic light
-ColorForeground=#5E5138
-ColorBackground=#FEF1D8
-ColorCursor=#5E5138
-ColorBold=#5E5138
-ColorPalette=#3E3936;#AB5637;#688A38;#A97906;#4884AD;#A25763;#368876;#EEE1C8;#2E2926;#C76D26;#5E5138;#7E7976;#9E9178;#8A6BB5;#AEA9A6;#FEF1D8
-TabActivityColor=#688A38
-ColorSelectionBackground=#EEE1C8
-ColorSelection=#5E5138
-
+Name=archaic light
+ColorForeground=#5e5138
+ColorBackground=#fef1d8
+ColorCursor=#5e5138
+ColorBold=#5e5138
+ColorPalette=#2e2926;#ab5637;#688a38;#a97906;#4884ad;#a25763;#368876;#eee1c8;#3e3936;#c76d26;#5e5138;#7e7976;#9e9178;#8a6bb5;#aea9a6;#fef1d8
+TabActivityColor=#688a38
+ColorSelectionBackground=#eee1c8
+ColorSelection=#5e5138

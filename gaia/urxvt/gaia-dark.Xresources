@@ -1,7 +1,9 @@
+! Colour scheme gaia
+! https://protesilaos.com/gaia
 URxvt*background: #2d2e2f
 URxvt*foreground: #94ae9f
 URxvt*cursorColor: #94ae9f
-URxvt*color0: #3d3e3f
+URxvt*color0: #2d2e2f
 URxvt*color1: #a67336
 URxvt*color2: #7c8e2d
 URxvt*color3: #ad9f4d
@@ -9,7 +11,7 @@ URxvt*color4: #6c9cba
 URxvt*color5: #bd9198
 URxvt*color6: #5d9d7c
 URxvt*color7: #dbddcf
-URxvt*color8: #2d2e2f
+URxvt*color8: #3d3e3f
 URxvt*color9: #a9880b
 URxvt*color10: #5B6c4a
 URxvt*color11: #786c4d
@@ -17,4 +19,3 @@ URxvt*color12: #7b8d9d
 URxvt*color13: #8a8db7
 URxvt*color14: #94ae9f
 URxvt*color15: #ebeddf
-

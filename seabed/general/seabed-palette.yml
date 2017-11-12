@@ -1,20 +1,19 @@
-scheme: "Seabed"
+scheme: "seabed"
 url: "https://protesilaos.com/seabed"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "060D18" # Dark background
-dhl: "161D28" # Dark highlight
-dt2: "666D78" # Dark bg text secondary
-dt1: "969DA8" # Dark bg text primary
-lbg: "162D38" # Light background
-lhl: "263D48" # Light highlight
-lt2: "667D88" # Light bg text secondary
-lt1: "96ADB8" # Light bg text primary
-red: "78456B" # Red
-ora: "6A867A" # Orange
-yel: "6A865A" # Yellow
-gre: "2D886C" # Green
-cya: "35838C" # Cyan
-blu: "3A6A8D" # Blue
-vio: "4D5B94" # Violet
-mag: "846B85" # Magenta
-
+dbg: "060d18" # Dark background
+dhl: "161d28" # Dark highlight
+dt2: "666d78" # Dark bg text secondary
+dt1: "969da8" # Dark bg text primary
+lbg: "162d38" # Light background
+lhl: "263d48" # Light highlight
+lt2: "667d88" # Light bg text secondary
+lt1: "96adb8" # Light bg text primary
+red: "78456b" # Red
+ora: "6a867a" # Orange
+yel: "6a865a" # Yellow
+gre: "2d886c" # Green
+cya: "35838c" # Cyan
+blu: "3a6a8d" # Blue
+vio: "4d5b94" # Violet
+mag: "846b85" # Magenta

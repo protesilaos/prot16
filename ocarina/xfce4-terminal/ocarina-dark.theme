@@ -1,11 +1,10 @@
 [Scheme]
-Name=Ocarina dark
+Name=ocarina dark
 ColorForeground=#88a99b
 ColorBackground=#212c2d
 ColorCursor=#88a99b
 ColorBold=#88a99b
-ColorPalette=#313c3d;#ba6f5b;#3d9954;#93a34a;#2a92a5;#a77b9b;#38a997;#dbdbd7;#212c2d;#a2853a;#556d5c;#716c4d;#7a9297;#7a84ba;#88a99b;#ebebe7
+ColorPalette=#212c2d;#ba6f5b;#3d9954;#93a34a;#2a92a5;#a77b9b;#38a997;#dbdbd7;#313c3d;#a2853a;#556d5c;#716c4d;#7a9297;#7a84ba;#88a99b;#ebebe7
 TabActivityColor=#3d9954
 ColorSelectionBackground=#313c3d
 ColorSelection=#88a99b
-

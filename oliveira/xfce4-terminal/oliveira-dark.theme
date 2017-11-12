@@ -1,11 +1,10 @@
 [Scheme]
-Name=Oliveira dark
+Name=oliveira dark
 ColorForeground=#959992
 ColorBackground=#252922
 ColorCursor=#959992
 ColorBold=#959992
-ColorPalette=#353932;#A64E3C;#5CA15A;#A59520;#4A8DAC;#A95F85;#5CAA9A;#E1E3DB;#252922;#A35C35;#51534B;#757972;#91938B;#7C85B7;#959992;#F1F3EB
-TabActivityColor=#5CA15A
+ColorPalette=#252922;#a64e3c;#5ca15a;#a59520;#4a8dac;#a95f85;#5caa9a;#e1e3db;#353932;#a35c35;#51534b;#757972;#91938b;#7c85b7;#959992;#f1f3eb
+TabActivityColor=#5ca15a
 ColorSelectionBackground=#353932
 ColorSelection=#959992
-

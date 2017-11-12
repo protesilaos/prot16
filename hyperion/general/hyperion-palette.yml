@@ -1,4 +1,4 @@
-scheme: "Hyperion"
+scheme: "hyperion"
 url: "https://protesilaos.com/hyperion"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "0a2d3c" # Dark background
@@ -17,4 +17,3 @@ cya: "0eaac8" # Cyan
 blu: "1d8fde" # Blue
 vio: "aa7deb" # Violet
 mag: "dc76aa" # Magenta
-

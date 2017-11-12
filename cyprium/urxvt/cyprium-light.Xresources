@@ -1,7 +1,10 @@
+! Colour scheme: cyprium
+! By Protesilaos Stavrou
+! https://protesilaos.com/cyprium
 URxvt*background: #ebe9da
 URxvt*foreground: #6e7b54
 URxvt*cursorColor: #6e7b54
-URxvt*color0: #475944
+URxvt*color0: #374934
 URxvt*color1: #b86a5c
 URxvt*color2: #669252
 URxvt*color3: #a38e10
@@ -9,7 +12,7 @@ URxvt*color4: #5c8c9e
 URxvt*color5: #bc7374
 URxvt*color6: #4c9b94
 URxvt*color7: #dbd9ca
-URxvt*color8: #374934
+URxvt*color8: #475944
 URxvt*color9: #b37521
 URxvt*color10: #6e7b54
 URxvt*color11: #879464
@@ -17,4 +20,3 @@ URxvt*color12: #9299aa
 URxvt*color13: #8B85ac
 URxvt*color14: #82a394
 URxvt*color15: #ebe9da
-

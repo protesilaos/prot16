@@ -1,4 +1,4 @@
-scheme: "Termina"
+scheme: "termina"
 url: "https://protesilaos.com/termina"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "2a2235" # Dark background
@@ -17,4 +17,3 @@ cya: "529298" # Cyan
 blu: "5a7ca8" # Blue
 vio: "8a6fa2" # Violet
 mag: "a3636d" # Magenta
-

@@ -1,11 +1,10 @@
 [Scheme]
-Name=Noir dark
+Name=noir dark
 ColorForeground=#728d8c
 ColorBackground=#081614
 ColorCursor=#728d8c
 ColorBold=#728d8c
-ColorPalette=#182624;#a2744a;#358664;#76924c;#4a78a6;#a28d7c;#358092;#292e28;#081614;#90842a;#758f74;#7c7d59;#758c9b;#7f7dad;#728d8c;#191e18
+ColorPalette=#081614;#a2744a;#358664;#76924c;#4a78a6;#a28d7c;#358092;#292e28;#182624;#90842a;#758f74;#7c7d59;#758c9b;#7f7dad;#728d8c;#191e18
 TabActivityColor=#358664
 ColorSelectionBackground=#182624
 ColorSelection=#728d8c
-

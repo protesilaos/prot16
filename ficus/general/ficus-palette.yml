@@ -1,4 +1,4 @@
-scheme: "Ficus"
+scheme: "ficus"
 url: "https://protesilaos.com/ficus"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "27152c" # Dark background
@@ -17,4 +17,3 @@ cya: "3caaa9" # Cyan
 blu: "6d75cd" # Blue
 vio: "a46acd" # Violet
 mag: "cb5e9a" # Magenta
-

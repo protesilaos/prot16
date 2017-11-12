@@ -1,20 +1,19 @@
-scheme: "Oliveira"
+scheme: "oliveira"
 url: "https://protesilaos.com/oliveira"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "252922" # Dark background
 dhl: "353932" # Dark highlight
 dt2: "757972" # Dark bg text secondary
 dt1: "959992" # Dark bg text primary
-lbg: "F1F3EB" # Light background
-lhl: "E1E3DB" # Light highlight
-lt2: "91938B" # Light bg text secondary
-lt1: "51534B" # Light bg text primary
-red: "A64E3C" # Red
-ora: "A35C35" # Orange
-yel: "A59520" # Yellow
-gre: "5CA15A" # Green
-cya: "5CAA9A" # Cyan
-blu: "4A8DAC" # Blue
-vio: "7C85B7" # Violet
-mag: "A95F85" # Magenta
-
+lbg: "f1f3eb" # Light background
+lhl: "e1e3db" # Light highlight
+lt2: "91938b" # Light bg text secondary
+lt1: "51534b" # Light bg text primary
+red: "a64e3c" # Red
+ora: "a35c35" # Orange
+yel: "a59520" # Yellow
+gre: "5ca15a" # Green
+cya: "5caa9a" # Cyan
+blu: "4a8dac" # Blue
+vio: "7c85b7" # Violet
+mag: "a95f85" # Magenta

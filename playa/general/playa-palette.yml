@@ -1,4 +1,4 @@
-scheme: "Playa"
+scheme: "playa"
 url: "https://protesilaos.com/playa"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "234154" # Dark background
@@ -17,4 +17,3 @@ cya: "4dc4b7" # Cyan
 blu: "65afcd" # Blue
 vio: "aa85cb" # Violet
 mag: "cb7e9a" # Magenta
-

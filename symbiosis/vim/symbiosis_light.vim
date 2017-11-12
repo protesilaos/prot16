@@ -1,4 +1,4 @@
-" Name: Symbiosis light
+" Name: symbiosis light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/symbiosis
 " Version: 0.2.0.beta-20170514
@@ -8,12 +8,12 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "symbiosis_light"
+let g:colors_name = ""
 
 " General
 " -----------------
 hi Normal guibg=#fcfaf9 guifg=#3c513d ctermbg=none ctermfg=10
-hi Visual guibg=#212d2c guifg=#79988b ctermbg=0 ctermfg=14
+hi Visual guibg=#212d2c guifg=#79988b ctermbg=8 ctermfg=14
 hi Search guibg=#28a597 guifg=#fcfaf9 ctermbg=6 ctermfg=15
 
 hi StatusLine gui=none,bold guibg=#eceae9 guifg=#3c513d cterm=none,bold ctermbg=7 ctermfg=10
@@ -27,8 +27,8 @@ hi Comment gui=italic guifg=#58623b cterm=italic ctermfg=11
 hi Comment gui=italic guifg=#828cad cterm=italic ctermfg=12
 hi Todo gui=none guibg=#eceae9 guifg=#669824 cterm=none ctermbg=7 ctermfg=2
 
-hi Warning gui=none guibg=#a89641 guifg=#111d1c cterm=none ctermbg=3 ctermfg=8
-hi Error gui=none guibg=#b95846 guifg=#111d1c cterm=none ctermbg=1 ctermfg=8
+hi Warning gui=none guibg=#a89641 guifg=#111d1c cterm=none ctermbg=3 ctermfg=0
+hi Error gui=none guibg=#b95846 guifg=#111d1c cterm=none ctermbg=1 ctermfg=0
 
 hi MatchParen guibg=#28a597 guifg=#fcfaf9 ctermbg=6 ctermfg=15
 
@@ -82,8 +82,8 @@ hi CursorLine gui=none guibg=#eceae9 cterm=none ctermbg=7
 hi CursorLineNr gui=none guibg=#eceae9 guifg=#58623b cterm=none ctermbg=7 ctermfg=11
 hi ColorColumn guibg=#828cad ctermbg=12
 
-hi Folded guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=8
-hi FoldColumn guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=8
+hi Folded guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=0
+hi FoldColumn guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=0
 
 hi NonText guifg=#828cad ctermfg=12
 hi SpecialKey guifg=#828cad ctermfg=12
@@ -98,23 +98,22 @@ hi Underlined guifg=#3d8cad ctermfg=4
 hi Ignore guifg=#a89641 ctermfg=2
 
 hi SpellBad guibg=#b95846 guifg=#fcfaf9 ctermbg=1 ctermfg=15
-hi SpellCap guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=8
+hi SpellCap guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=0
 hi SpellRare guibg=#9166ab guifg=#fcfaf9 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#28a597 guifg=#fcfaf9 ctermbg=6 ctermfg=15
 
-hi Pmenu guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=8
+hi Pmenu guibg=#eceae9 guifg=#111d1c ctermbg=7 ctermfg=0
 hi PmenuSel guibg=#a89641 guifg=#fcfaf9 ctermbg=3 ctermfg=15
 hi PmenuSbar guibg=#828cad ctermbg=12
 
 " Diffs
 " -----------------
-hi DiffAdd guibg=#669824 guifg=#111d1c ctermbg=2 ctermfg=8
-hi DiffDelete gui=none guibg=#b95846 guifg=#111d1c ctermbg=1 cterm=none ctermfg=8
-hi DiffChange guibg=#a87226 guifg=#111d1c ctermbg=9 ctermfg=8
-hi DiffText gui=none guibg=#bb7eaa guifg=#111d1c cterm=none ctermbg=5 ctermfg=8
+hi DiffAdd guibg=#669824 guifg=#111d1c ctermbg=2 ctermfg=0
+hi DiffDelete gui=none guibg=#b95846 guifg=#111d1c ctermbg=1 cterm=none ctermfg=0
+hi DiffChange guibg=#a87226 guifg=#111d1c ctermbg=9 ctermfg=0
+hi DiffText gui=none guibg=#bb7eaa guifg=#111d1c cterm=none ctermbg=5 ctermfg=0
 
 hi diffAdded guifg=#669824 ctermfg=2
 hi diffRemoved guifg=#b95846 ctermfg=1
 hi diffNewFile gui=none guifg=#3d8cad ctermfg=4
 hi diffFile gui=none guifg=#a89641 cterm=none ctermfg=3
-

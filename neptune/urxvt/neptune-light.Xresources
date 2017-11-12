@@ -1,20 +1,22 @@
-URxvt*background: #F0F1F8
+! Colour scheme: neptune
+! By Protesilaos Stavrou
+! https://protesilaos.com/neptune
+URxvt*background: #f0f1f8
 URxvt*foreground: #404148
 URxvt*cursorColor: #404148
-URxvt*color0: #383C46
-URxvt*color1: #A97552
-URxvt*color2: #48B788
-URxvt*color3: #B9A552
-URxvt*color4: #3C8CBB
-URxvt*color5: #C789A6
-URxvt*color6: #55AFAF
-URxvt*color7: #E0E1E8
-URxvt*color8: #282C36
-URxvt*color9: #C78956
+URxvt*color0: #282c36
+URxvt*color1: #a97552
+URxvt*color2: #48b788
+URxvt*color3: #b9a552
+URxvt*color4: #3c8cbb
+URxvt*color5: #c789a6
+URxvt*color6: #55afaf
+URxvt*color7: #e0e1e8
+URxvt*color8: #383c46
+URxvt*color9: #c78956
 URxvt*color10: #404148
-URxvt*color11: #686C76
+URxvt*color11: #686c76
 URxvt*color12: #808188
-URxvt*color13: #7A7DCA
-URxvt*color14: #A8ACB6
-URxvt*color15: #F0F1F8
-
+URxvt*color13: #7a7dca
+URxvt*color14: #a8acb6
+URxvt*color15: #f0f1f8

@@ -1,4 +1,4 @@
-scheme: "Gaia"
+scheme: "gaia"
 url: "https://protesilaos.com/gaia"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "2d2e2f" # Dark background
@@ -17,4 +17,3 @@ cya: "5d9d7c" # Cyan
 blu: "6c9cba" # Blue
 vio: "8a8db7" # Violet
 mag: "bd9198" # Magenta
-

@@ -1,20 +1,19 @@
-scheme: "Neptune"
+scheme: "neptune"
 url: "https://protesilaos.com/neptune"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "282C36" # Dark background
-dhl: "383C46" # Dark highlight
-dt2: "686C76" # Dark bg text secondary
-dt1: "A8ACB6" # Dark bg text primary
-lbg: "F0F1F8" # Light background
-lhl: "E0E1E8" # Light highlight
+dbg: "282c36" # Dark background
+dhl: "383c46" # Dark highlight
+dt2: "686c76" # Dark bg text secondary
+dt1: "a8acb6" # Dark bg text primary
+lbg: "f0f1f8" # Light background
+lhl: "e0e1e8" # Light highlight
 lt2: "808188" # Light bg text secondary
 lt1: "404148" # Light bg text primary
-red: "A97552" # Red
-ora: "C78956" # Orange
-yel: "B9A552" # Yellow
-gre: "48B788" # Green
-cya: "55AFAF" # Cyan
-blu: "3C8CBB" # Blue
-vio: "7A7DCA" # Violet
-mag: "C789A6" # Magenta
-
+red: "a97552" # Red
+ora: "c78956" # Orange
+yel: "b9a552" # Yellow
+gre: "48b788" # Green
+cya: "55afaf" # Cyan
+blu: "3c8cbb" # Blue
+vio: "7a7dca" # Violet
+mag: "c789a6" # Magenta

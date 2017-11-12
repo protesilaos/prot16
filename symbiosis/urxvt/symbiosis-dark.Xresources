@@ -1,7 +1,9 @@
+! Colour scheme symbiosis
+! https://protesilaos.com/symbiosis
 URxvt*background: #111d1c
 URxvt*foreground: #79988b
 URxvt*cursorColor: #79988b
-URxvt*color0: #212d2c
+URxvt*color0: #111d1c
 URxvt*color1: #b95846
 URxvt*color2: #669824
 URxvt*color3: #a89641
@@ -9,7 +11,7 @@ URxvt*color4: #3d8cad
 URxvt*color5: #bb7eaa
 URxvt*color6: #28a597
 URxvt*color7: #eceae9
-URxvt*color8: #111d1c
+URxvt*color8: #212d2c
 URxvt*color9: #a87226
 URxvt*color10: #3c513d
 URxvt*color11: #58623b
@@ -17,4 +19,3 @@ URxvt*color12: #828cad
 URxvt*color13: #9166ab
 URxvt*color14: #79988b
 URxvt*color15: #fcfaf9
-

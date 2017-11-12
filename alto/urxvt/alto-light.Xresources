@@ -1,20 +1,22 @@
-URxvt*background: #FAFAEC
-URxvt*foreground: #5A5A4C
-URxvt*cursorColor: #5A5A4C
-URxvt*color0: #283D3A
-URxvt*color1: #C6414D
+! Colour scheme: alto
+! By Protesilaos Stavrou
+! https://protesilaos.com/alto
+URxvt*background: #fafaec
+URxvt*foreground: #5a5a4c
+URxvt*cursorColor: #5a5a4c
+URxvt*color0: #182d2a
+URxvt*color1: #c6414d
 URxvt*color2: #679945
-URxvt*color3: #C6A13D
-URxvt*color4: #378BBD
-URxvt*color5: #C97885
-URxvt*color6: #57AB8B
-URxvt*color7: #EAEADC
-URxvt*color8: #182D2A
-URxvt*color9: #C9753D
-URxvt*color10: #5A5A4C
-URxvt*color11: #687D7A
-URxvt*color12: #8A8A7C
-URxvt*color13: #9A7BC8
-URxvt*color14: #98ADAA
-URxvt*color15: #FAFAEC
-
+URxvt*color3: #c6a13d
+URxvt*color4: #378bbd
+URxvt*color5: #c97885
+URxvt*color6: #57ab8b
+URxvt*color7: #eaeadc
+URxvt*color8: #283d3a
+URxvt*color9: #c9753d
+URxvt*color10: #5a5a4c
+URxvt*color11: #687d7a
+URxvt*color12: #8a8a7c
+URxvt*color13: #9a7bc8
+URxvt*color14: #98adaa
+URxvt*color15: #fafaec

@@ -1,11 +1,10 @@
 [Scheme]
-Name=Ficus light
+Name=ficus light
 ColorForeground=#667155
 ColorBackground=#edf1e5
 ColorCursor=#667155
 ColorBold=#667155
-ColorPalette=#37253c;#c84954;#84a33c;#a9a60a;#6d75cd;#cb5e9a;#3caaa9;#dde1d5;#27152c;#bd7e20;#667155;#747145;#778ca7;#a46acd;#87a5a7;#edf1e5
+ColorPalette=#27152c;#c84954;#84a33c;#a9a60a;#6d75cd;#cb5e9a;#3caaa9;#dde1d5;#37253c;#bd7e20;#667155;#747145;#778ca7;#a46acd;#87a5a7;#edf1e5
 TabActivityColor=#84a33c
 ColorSelectionBackground=#dde1d5
 ColorSelection=#667155
-

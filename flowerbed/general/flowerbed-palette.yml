@@ -1,20 +1,19 @@
-scheme: "Flowerbed"
+scheme: "flowerbed"
 url: "https://protesilaos.com/flowerbed"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "233949" # Dark background
 dhl: "334959" # Dark highlight
 dt2: "738999" # Dark bg text secondary
-dt1: "A3B9C9" # Dark bg text primary
-lbg: "ECF3F2" # Light background
-lhl: "DCE3E2" # Light highlight
-lt2: "8C9392" # Light bg text secondary
-lt1: "5C6362" # Light bg text primary
-red: "D86A87" # Red
-ora: "D89A47" # Orange
-yel: "CD9A8A" # Yellow
-gre: "5CBC7D" # Green
-cya: "1CABA1" # Cyan
-blu: "4AA7D2" # Blue
-vio: "7988CA" # Violet
-mag: "BC74AF" # Magenta
-
+dt1: "a3b9c9" # Dark bg text primary
+lbg: "ecf3f2" # Light background
+lhl: "dce3e2" # Light highlight
+lt2: "8c9392" # Light bg text secondary
+lt1: "5c6362" # Light bg text primary
+red: "d86a87" # Red
+ora: "d89a47" # Orange
+yel: "cd9a8a" # Yellow
+gre: "5cbc7d" # Green
+cya: "1caba1" # Cyan
+blu: "4aa7d2" # Blue
+vio: "7988ca" # Violet
+mag: "bc74af" # Magenta

@@ -1,11 +1,10 @@
 [Scheme]
-Name=Termina dark
+Name=termina dark
 ColorForeground=#7a929a
 ColorBackground=#2a2235
 ColorCursor=#7a929a
 ColorBold=#7a929a
-ColorPalette=#3a3245;#a24e37;#749234;#94960d;#5a7ca8;#a3636d;#529298;#e0e1df;#2a2235;#9d7a47;#53623e;#7a7b65;#7e96a8;#8a6fa2;#7a929a;#f0f1ef
+ColorPalette=#2a2235;#a24e37;#749234;#94960d;#5a7ca8;#a3636d;#529298;#e0e1df;#3a3245;#9d7a47;#53623e;#7a7b65;#7e96a8;#8a6fa2;#7a929a;#f0f1ef
 TabActivityColor=#749234
 ColorSelectionBackground=#3a3245
 ColorSelection=#7a929a
-

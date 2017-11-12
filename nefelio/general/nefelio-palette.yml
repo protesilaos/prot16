@@ -1,4 +1,4 @@
-scheme: "Nefelio"
+scheme: "nefelio"
 url: "https://protesilaos.com/nefelio"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "282326" # Dark background
@@ -17,4 +17,3 @@ cya: "34b7bd" # Cyan
 blu: "3f8eda" # Blue
 vio: "956cda" # Violet
 mag: "c34d95" # Magenta
-

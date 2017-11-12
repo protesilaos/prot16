@@ -1,11 +1,10 @@
 [Scheme]
-Name=Equinox light
+Name=equinox light
 ColorForeground=#3c554d
 ColorBackground=#f4f6fe
 ColorCursor=#3c554d
 ColorBold=#3c554d
-ColorPalette=#2d293a;#c44a64;#138e6c;#8d9928;#536cb2;#cc5d9a;#26a4a9;#e4e6ee;#1d192a;#a96a4b;#3c554d;#6d7444;#67839c;#8955ba;#7e9ca8;#f4f6fe
+ColorPalette=#1d192a;#c44a64;#138e6c;#8d9928;#536cb2;#cc5d9a;#26a4a9;#e4e6ee;#2d293a;#a96a4b;#3c554d;#6d7444;#67839c;#8955ba;#7e9ca8;#f4f6fe
 TabActivityColor=#138e6c
 ColorSelectionBackground=#e4e6ee
 ColorSelection=#3c554d
-

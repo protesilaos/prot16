@@ -1,7 +1,9 @@
+! Colour scheme noir
+! https://protesilaos.com/noir
 URxvt*background: #081614
 URxvt*foreground: #728d8c
 URxvt*cursorColor: #728d8c
-URxvt*color0: #182624
+URxvt*color0: #081614
 URxvt*color1: #a2744a
 URxvt*color2: #358664
 URxvt*color3: #76924c
@@ -9,7 +11,7 @@ URxvt*color4: #4a78a6
 URxvt*color5: #a28d7c
 URxvt*color6: #358092
 URxvt*color7: #292e28
-URxvt*color8: #081614
+URxvt*color8: #182624
 URxvt*color9: #90842a
 URxvt*color10: #758f74
 URxvt*color11: #7c7d59
@@ -17,4 +19,3 @@ URxvt*color12: #758c9b
 URxvt*color13: #7f7dad
 URxvt*color14: #728d8c
 URxvt*color15: #191e18
-

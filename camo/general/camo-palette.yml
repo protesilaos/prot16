@@ -1,4 +1,4 @@
-scheme: "Camo"
+scheme: "camo"
 url: "https://protesilaos.com/camo"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "22372B" # Dark background
@@ -17,4 +17,3 @@ cya: "31a2ab" # Cyan
 blu: "528abd" # Blue
 vio: "8b7cba" # Violet
 mag: "b2749a" # Magenta
-

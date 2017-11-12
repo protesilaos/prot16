@@ -1,11 +1,10 @@
 [Scheme]
-Name=Flowerbed light
-ColorForeground=#5C6362
-ColorBackground=#ECF3F2
-ColorCursor=#5C6362
-ColorBold=#5C6362
-ColorPalette=#334959;#D86A87;#5CBC7D;#CD9A8A;#4AA7D2;#BC74AF;#1CABA1;#DCE3E2;#233949;#D89A47;#5C6362;#738999;#8C9392;#7988CA;#A3B9C9;#ECF3F2
-TabActivityColor=#5CBC7D
-ColorSelectionBackground=#DCE3E2
-ColorSelection=#5C6362
-
+Name=flowerbed light
+ColorForeground=#5c6362
+ColorBackground=#ecf3f2
+ColorCursor=#5c6362
+ColorBold=#5c6362
+ColorPalette=#233949;#d86a87;#5cbc7d;#cd9a8a;#4aa7d2;#bc74af;#1caba1;#dce3e2;#334959;#d89a47;#5c6362;#738999;#8c9392;#7988ca;#a3b9c9;#ecf3f2
+TabActivityColor=#5cbc7d
+ColorSelectionBackground=#dce3e2
+ColorSelection=#5c6362

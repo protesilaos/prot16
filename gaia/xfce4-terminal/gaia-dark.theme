@@ -1,11 +1,10 @@
 [Scheme]
-Name=Gaia dark
+Name=gaia dark
 ColorForeground=#94ae9f
 ColorBackground=#2d2e2f
 ColorCursor=#94ae9f
 ColorBold=#94ae9f
-ColorPalette=#3d3e3f;#a67336;#7c8e2d;#ad9f4d;#6c9cba;#bd9198;#5d9d7c;#dbddcf;#2d2e2f;#a9880b;#5B6c4a;#786c4d;#7b8d9d;#8a8db7;#94ae9f;#ebeddf
+ColorPalette=#2d2e2f;#a67336;#7c8e2d;#ad9f4d;#6c9cba;#bd9198;#5d9d7c;#dbddcf;#3d3e3f;#a9880b;#5B6c4a;#786c4d;#7b8d9d;#8a8db7;#94ae9f;#ebeddf
 TabActivityColor=#7c8e2d
 ColorSelectionBackground=#3d3e3f
 ColorSelection=#94ae9f
-

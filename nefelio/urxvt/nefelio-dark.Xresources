@@ -1,7 +1,9 @@
+! Colour scheme nefelio
+! https://protesilaos.com/nefelio
 URxvt*background: #282326
 URxvt*foreground: #82a3a6
 URxvt*cursorColor: #82a3a6
-URxvt*color0: #383336
+URxvt*color0: #282326
 URxvt*color1: #ba3d5a
 URxvt*color2: #1cb57a
 URxvt*color3: #ca9e5d
@@ -9,7 +11,7 @@ URxvt*color4: #3f8eda
 URxvt*color5: #c34d95
 URxvt*color6: #34b7bd
 URxvt*color7: #dadfe2
-URxvt*color8: #282326
+URxvt*color8: #383336
 URxvt*color9: #ca6f5f
 URxvt*color10: #5a6662
 URxvt*color11: #686356
@@ -17,4 +19,3 @@ URxvt*color12: #7a8fa2
 URxvt*color13: #956cda
 URxvt*color14: #82a3a6
 URxvt*color15: #eaeff2
-

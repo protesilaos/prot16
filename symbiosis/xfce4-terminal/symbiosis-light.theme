@@ -1,11 +1,10 @@
 [Scheme]
-Name=Symbiosis light
+Name=symbiosis light
 ColorForeground=#3c513d
 ColorBackground=#fcfaf9
 ColorCursor=#3c513d
 ColorBold=#3c513d
-ColorPalette=#212d2c;#b95846;#669824;#a89641;#3d8cad;#bb7eaa;#28a597;#eceae9;#111d1c;#a87226;#3c513d;#58623b;#828cad;#9166ab;#79988b;#fcfaf9
+ColorPalette=#111d1c;#b95846;#669824;#a89641;#3d8cad;#bb7eaa;#28a597;#eceae9;#212d2c;#a87226;#3c513d;#58623b;#828cad;#9166ab;#79988b;#fcfaf9
 TabActivityColor=#669824
 ColorSelectionBackground=#eceae9
 ColorSelection=#3c513d
-

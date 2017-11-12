@@ -1,11 +1,10 @@
 [Scheme]
-Name=Nefelio light
+Name=nefelio light
 ColorForeground=#5a6662
 ColorBackground=#eaeff2
 ColorCursor=#5a6662
 ColorBold=#5a6662
-ColorPalette=#383336;#ba3d5a;#1cb57a;#ca9e5d;#3f8eda;#c34d95;#34b7bd;#dadfe2;#282326;#ca6f5f;#5a6662;#686356;#7a8fa2;#956cda;#82a3a6;#eaeff2
+ColorPalette=#282326;#ba3d5a;#1cb57a;#ca9e5d;#3f8eda;#c34d95;#34b7bd;#dadfe2;#383336;#ca6f5f;#5a6662;#686356;#7a8fa2;#956cda;#82a3a6;#eaeff2
 TabActivityColor=#1cb57a
 ColorSelectionBackground=#dadfe2
 ColorSelection=#5a6662
-

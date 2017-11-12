@@ -1,20 +1,19 @@
-scheme: "Caprice"
+scheme: "caprice"
 url: "https://protesilaos.com/caprice"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
-dbg: "211B29" # Dark background
-dhl: "312B39" # Dark highlight
-dt2: "716B79" # Dark bg text secondary
-dt1: "A19BA9" # Dark bg text primary
-lbg: "FEFBFC" # Light background
-lhl: "EEEBEC" # Light highlight
-lt2: "7E7B7C" # Light bg text secondary
-lt1: "2E2B2C" # Light bg text primary
-red: "983D4F" # Red
-ora: "9A5D38" # Orange
-yel: "A58A30" # Yellow
+dbg: "211b29" # Dark background
+dhl: "312b39" # Dark highlight
+dt2: "716b79" # Dark bg text secondary
+dt1: "a19ba9" # Dark bg text primary
+lbg: "fefbfc" # Light background
+lhl: "eeebec" # Light highlight
+lt2: "7e7b7c" # Light bg text secondary
+lt1: "2e2b2c" # Light bg text primary
+red: "983d4f" # Red
+ora: "9a5d38" # Orange
+yel: "a58a30" # Yellow
 gre: "278975" # Green
-cya: "587EBC" # Cyan
-blu: "585EBC" # Blue
-vio: "8955A2" # Violet
-mag: "AC4D7A" # Magenta
-
+cya: "587ebc" # Cyan
+blu: "585ebc" # Blue
+vio: "8955a2" # Violet
+mag: "ac4d7a" # Magenta

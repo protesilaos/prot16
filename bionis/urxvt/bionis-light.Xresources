@@ -1,20 +1,22 @@
-URxvt*background: #FBF8FD
-URxvt*foreground: #4B484D
-URxvt*cursorColor: #4B484D
-URxvt*color0: #352A37
-URxvt*color1: #C25A5B
-URxvt*color2: #4DA35C
-URxvt*color3: #BA8A00
-URxvt*color4: #5A7ACD
-URxvt*color5: #C25783
-URxvt*color6: #439B9B
-URxvt*color7: #EBE8ED
-URxvt*color8: #251A27
-URxvt*color9: #CB6832
-URxvt*color10: #4B484D
-URxvt*color11: #857A87
-URxvt*color12: #9B989D
-URxvt*color13: #AA6BC5
-URxvt*color14: #B5AAB7
-URxvt*color15: #FBF8FD
-
+! Colour scheme: bionis
+! By Protesilaos Stavrou
+! https://protesilaos.com/bionis
+URxvt*background: #fbf8fd
+URxvt*foreground: #4b484d
+URxvt*cursorColor: #4b484d
+URxvt*color0: #251a27
+URxvt*color1: #c25a5b
+URxvt*color2: #4da35c
+URxvt*color3: #ba8a00
+URxvt*color4: #5a7acd
+URxvt*color5: #c25783
+URxvt*color6: #439b9b
+URxvt*color7: #ebe8ed
+URxvt*color8: #352a37
+URxvt*color9: #cb6832
+URxvt*color10: #4b484d
+URxvt*color11: #857a87
+URxvt*color12: #9b989d
+URxvt*color13: #aa6bc5
+URxvt*color14: #b5aab7
+URxvt*color15: #fbf8fd

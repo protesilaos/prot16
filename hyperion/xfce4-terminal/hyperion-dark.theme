@@ -1,11 +1,10 @@
 [Scheme]
-Name=Hyperion dark
+Name=hyperion dark
 ColorForeground=#9ebcc8
 ColorBackground=#0a2d3c
 ColorCursor=#9ebcc8
 ColorBold=#9ebcc8
-ColorPalette=#1a3d4c;#d94832;#329c50;#dbac13;#1d8fde;#dc76aa;#0eaac8;#e6e6e6;#0a2d3c;#dc7d3a;#4d654e;#8d9474;#6a8ba9;#aa7deb;#9ebcc8;#f6f6f6
+ColorPalette=#0a2d3c;#d94832;#329c50;#dbac13;#1d8fde;#dc76aa;#0eaac8;#e6e6e6;#1a3d4c;#dc7d3a;#4d654e;#8d9474;#6a8ba9;#aa7deb;#9ebcc8;#f6f6f6
 TabActivityColor=#329c50
 ColorSelectionBackground=#1a3d4c
 ColorSelection=#9ebcc8
-

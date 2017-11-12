@@ -1,4 +1,4 @@
-scheme: "Cyprium"
+scheme: "cyprium"
 url: "https://protesilaos.com/cyprium"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "374934" # Dark background
@@ -17,4 +17,3 @@ cya: "4c9b94" # Cyan
 blu: "5c8c9e" # Blue
 vio: "8B85ac" # Violet
 mag: "bc7374" # Magenta
-

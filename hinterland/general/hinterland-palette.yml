@@ -1,4 +1,4 @@
-scheme: "Hinterland"
+scheme: "hinterland"
 url: "https://protesilaos.com/hinterland"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "12171B" # Dark background
@@ -17,4 +17,3 @@ cya: "01917b" # Cyan
 blu: "217ab3" # Blue
 vio: "7d6cab" # Violet
 mag: "ad5c5b" # Magenta
-

@@ -1,7 +1,10 @@
+! Colour scheme: ocarina
+! By Protesilaos Stavrou
+! https://protesilaos.com/ocarina
 URxvt*background: #ebebe7
 URxvt*foreground: #556d5c
 URxvt*cursorColor: #556d5c
-URxvt*color0: #313c3d
+URxvt*color0: #212c2d
 URxvt*color1: #ba6f5b
 URxvt*color2: #3d9954
 URxvt*color3: #93a34a
@@ -9,7 +12,7 @@ URxvt*color4: #2a92a5
 URxvt*color5: #a77b9b
 URxvt*color6: #38a997
 URxvt*color7: #dbdbd7
-URxvt*color8: #212c2d
+URxvt*color8: #313c3d
 URxvt*color9: #a2853a
 URxvt*color10: #556d5c
 URxvt*color11: #716c4d
@@ -17,4 +20,3 @@ URxvt*color12: #7a9297
 URxvt*color13: #7a84ba
 URxvt*color14: #88a99b
 URxvt*color15: #ebebe7
-

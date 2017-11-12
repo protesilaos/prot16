@@ -1,11 +1,10 @@
 [Scheme]
-Name=Equinox dark
+Name=equinox dark
 ColorForeground=#7e9ca8
 ColorBackground=#1d192a
 ColorCursor=#7e9ca8
 ColorBold=#7e9ca8
-ColorPalette=#2d293a;#c44a64;#138e6c;#8d9928;#536cb2;#cc5d9a;#26a4a9;#e4e6ee;#1d192a;#a96a4b;#3c554d;#6d7444;#67839c;#8955ba;#7e9ca8;#f4f6fe
+ColorPalette=#1d192a;#c44a64;#138e6c;#8d9928;#536cb2;#cc5d9a;#26a4a9;#e4e6ee;#2d293a;#a96a4b;#3c554d;#6d7444;#67839c;#8955ba;#7e9ca8;#f4f6fe
 TabActivityColor=#138e6c
 ColorSelectionBackground=#2d293a
 ColorSelection=#7e9ca8
-

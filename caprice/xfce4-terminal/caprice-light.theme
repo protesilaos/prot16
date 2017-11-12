@@ -1,11 +1,10 @@
 [Scheme]
-Name=Caprice light
-ColorForeground=#2E2B2C
-ColorBackground=#FEFBFC
-ColorCursor=#2E2B2C
-ColorBold=#2E2B2C
-ColorPalette=#312B39;#983D4F;#278975;#A58A30;#585EBC;#AC4D7A;#587EBC;#EEEBEC;#211B29;#9A5D38;#2E2B2C;#716B79;#7E7B7C;#8955A2;#A19BA9;#FEFBFC
+Name=caprice light
+ColorForeground=#2e2b2c
+ColorBackground=#fefbfc
+ColorCursor=#2e2b2c
+ColorBold=#2e2b2c
+ColorPalette=#211b29;#983d4f;#278975;#a58a30;#585ebc;#ac4d7a;#587ebc;#eeebec;#312b39;#9a5d38;#2e2b2c;#716b79;#7e7b7c;#8955a2;#a19ba9;#fefbfc
 TabActivityColor=#278975
-ColorSelectionBackground=#EEEBEC
-ColorSelection=#2E2B2C
-
+ColorSelectionBackground=#eeebec
+ColorSelection=#2e2b2c

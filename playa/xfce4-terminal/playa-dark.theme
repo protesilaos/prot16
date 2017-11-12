@@ -1,11 +1,10 @@
 [Scheme]
-Name=Playa dark
+Name=playa dark
 ColorForeground=#93b9b4
 ColorBackground=#234154
 ColorCursor=#93b9b4
 ColorBold=#93b9b4
-ColorPalette=#335f64;#ca6e6a;#7db97a;#ccb45d;#65afcd;#cb7e9a;#4dc4b7;#eae1d0;#234154;#cb8d6a;#5a7160;#868265;#7c949d;#aa85cb;#93b9b4;#faf1e0
+ColorPalette=#234154;#ca6e6a;#7db97a;#ccb45d;#65afcd;#cb7e9a;#4dc4b7;#eae1d0;#335f64;#cb8d6a;#5a7160;#868265;#7c949d;#aa85cb;#93b9b4;#faf1e0
 TabActivityColor=#7db97a
 ColorSelectionBackground=#335f64
 ColorSelection=#93b9b4
-

@@ -1,4 +1,4 @@
-scheme: "Symbiosis"
+scheme: "symbiosis"
 url: "https://protesilaos.com/symbiosis"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "111d1c" # Dark background
@@ -17,4 +17,3 @@ cya: "28a597" # Cyan
 blu: "3d8cad" # Blue
 vio: "9166ab" # Violet
 mag: "bb7eaa" # Magenta
-

@@ -1,14 +1,13 @@
-" Name: Playa dark
+" Name: playa dark
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/playa
-" Version: 0.2.0.beta-20170514
 
 set background=dark
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "playa_dark"
+let g:colors_name = ""
 
 " General
 " -----------------
@@ -16,15 +15,15 @@ hi Normal guibg=#234154 guifg=#93b9b4 ctermbg=none ctermfg=14
 hi Visual guibg=#eae1d0 guifg=#5a7160 ctermbg=7 ctermfg=10
 hi Search guibg=#4dc4b7 guifg=#faf1e0 ctermbg=6 ctermfg=15
 
-hi StatusLine gui=none,bold guibg=#335f64 guifg=#93b9b4 cterm=none,bold ctermbg=0 ctermfg=14
-hi StatusLineNC gui=none guibg=#335f64 guifg=#5a7160 cterm=none ctermbg=0 ctermfg=10
+hi StatusLine gui=none,bold guibg=#335f64 guifg=#93b9b4 cterm=none,bold ctermbg=8 ctermfg=14
+hi StatusLineNC gui=none guibg=#335f64 guifg=#5a7160 cterm=none ctermbg=8 ctermfg=10
 hi VertSplit gui=none cterm=none
-hi TabLine gui=none guibg=#335f64 guifg=#868265 cterm=none ctermbg=0 ctermfg=11
+hi TabLine gui=none guibg=#335f64 guifg=#868265 cterm=none ctermbg=8 ctermfg=11
 hi TabLineSel gui=none guibg=#65afcd guifg=#faf1e0 cterm=none ctermbg=4 ctermfg=15
 hi TabLineFill gui=none cterm=none
 
 hi Comment gui=italic guifg=#868265 cterm=italic ctermfg=11
-hi Todo gui=none guibg=#335f64 guifg=#ca6e6a cterm=none ctermbg=0 ctermfg=1
+hi Todo gui=none guibg=#335f64 guifg=#ca6e6a cterm=none ctermbg=8 ctermfg=1
 
 hi Warning gui=none guibg=#ccb45d guifg=#faf1e0 cterm=none ctermbg=3 ctermfg=15
 hi Error gui=none guibg=#ca6e6a guifg=#faf1e0 cterm=none ctermbg=1 ctermfg=15
@@ -77,12 +76,12 @@ hi Debug guifg=#cb7e9a
 " -----------------
 hi LineNr guifg=#868265 ctermfg=11
 hi Cursor guifg=#93b9b4 ctermfg=14
-hi CursorLine gui=none guibg=#335f64 cterm=none ctermbg=0
-hi CursorLineNr gui=none guibg=#335f64 guifg=#7c949d cterm=none ctermbg=0 ctermfg=12
+hi CursorLine gui=none guibg=#335f64 cterm=none ctermbg=8
+hi CursorLineNr gui=none guibg=#335f64 guifg=#7c949d cterm=none ctermbg=8 ctermfg=12
 hi ColorColumn guibg=#868265 ctermbg=11
 
-hi Folded guibg=#335f64 guifg=#faf1e0 ctermbg=0 ctermfg=15
-hi FoldColumn guibg=#335f64 guifg=#faf1e0 ctermbg=0 ctermfg=15
+hi Folded guibg=#335f64 guifg=#faf1e0 ctermbg=8 ctermfg=15
+hi FoldColumn guibg=#335f64 guifg=#faf1e0 ctermbg=8 ctermfg=15
 
 hi NonText guifg=#868265 ctermfg=11
 hi SpecialKey guifg=#868265 ctermfg=11
@@ -97,11 +96,11 @@ hi Underlined guifg=#cb8d6a ctermfg=9
 hi Ignore guifg=#aa85cb ctermfg=1
 
 hi SpellBad guibg=#ca6e6a guifg=#faf1e0 ctermbg=1 ctermfg=15
-hi SpellCap guibg=#335f64 guifg=#faf1e0 ctermbg=0 ctermfg=15
+hi SpellCap guibg=#335f64 guifg=#faf1e0 ctermbg=8 ctermfg=15
 hi SpellRare guibg=#aa85cb guifg=#faf1e0 ctermbg=13 ctermfg=15
 hi SpellLocal guibg=#4dc4b7 guifg=#faf1e0 ctermbg=6 ctermfg=15
 
-hi Pmenu guibg=#335f64 guifg=#faf1e0 ctermbg=0 ctermfg=15
+hi Pmenu guibg=#335f64 guifg=#faf1e0 ctermbg=8 ctermfg=15
 hi PmenuSel guibg=#ccb45d guifg=#faf1e0 ctermbg=3 ctermfg=15
 hi PmenuSbar guibg=#868265 ctermbg=11
 
@@ -116,4 +115,3 @@ hi diffAdded guifg=#7db97a ctermfg=2
 hi diffRemoved guifg=#ca6e6a ctermfg=1
 hi diffNewFile gui=none guifg=#65afcd ctermfg=4
 hi diffFile gui=none guifg=#ccb45d cterm=none ctermfg=3
-

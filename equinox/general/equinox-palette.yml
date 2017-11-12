@@ -1,4 +1,4 @@
-scheme: "Equinox"
+scheme: "equinox"
 url: "https://protesilaos.com/equinox"
 author: "Protesilaos Stavrou <public@protesilaos.com>"
 dbg: "1d192a" # Dark background
@@ -17,4 +17,3 @@ cya: "26a4a9" # Cyan
 blu: "536cb2" # Blue
 vio: "8955ba" # Violet
 mag: "cc5d9a" # Magenta
-
