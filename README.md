@@ -7,7 +7,7 @@ This is the master repository of all the items I have developed. Each directory 
 For specific use cases, please refer to the relevant GitHub project:
 
 - [Prot16 Generator](https://github.com/protesilaos/prot16-generator) (a bash script to build themes on demand)
-- [Prot16 Data](https://github.com/protesilaos/prot16-data) (colour values and colour mapping for each theme)
+- [Prot16 Data](https://github.com/protesilaos/prot16-data) (colour values for each theme)
 - [Prot16 Vim](https://github.com/protesilaos/prot16-vim) (themes for Vim GUI and terminal)
 - [Prot16 XFCE4 Terminal](https://github.com/protesilaos/prot16-xfce4-terminal) (themes for the XFCE4 terminal emulator)
 - [Prot16 URXVT](https://github.com/protesilaos/prot16-urxvt) (themes for the URXVT terminal)
