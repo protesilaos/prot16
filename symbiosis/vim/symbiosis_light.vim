@@ -1,14 +1,13 @@
 " Name: symbiosis light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/symbiosis
-" Version: 0.2.0.beta-20170514
 
 set background=light
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = ""
+let g:colors_name = "symbiosis_light"
 
 " General
 " -----------------

@@ -1,14 +1,13 @@
 " Name: hinterland light
 " Author: Protesilaos Stavrou <public@protesilaos.com>
 " URL: https://protesilaos.com/hinterland
-" Version: 0.2.0.beta-20170514
 
 set background=light
 hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = ""
+let g:colors_name = "hinterland_light"
 
 " General
 " -----------------
