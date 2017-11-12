@@ -68,11 +68,18 @@ if [ ! -z $match ]; then
     $HOME/prot16-generator/./prot16-generator.sh $scheme urxvt dark > $HOME/prot16/$scheme/urxvt/$scheme-dark.Xresources
     echo "Preparing RXVT-Unicode (urvxt) files"
 
+    $HOME/prot16-generator/./prot16-generator.sh $scheme xterm light > $HOME/prot16/$scheme/xterm/$scheme-light.Xresources
+    $HOME/prot16-generator/./prot16-generator.sh $scheme xterm dark > $HOME/prot16/$scheme/xterm/$scheme-dark.Xresources
+    echo "Preparing xterm files"
+
     # Prepare files for export repos
     cp -f $HOME/prot16/$scheme/general/$scheme-palette.yml $HOME/prot16-data/$scheme.yml
 
     cp -f $HOME/prot16/$scheme/urxvt/$scheme-light.Xresources $HOME/prot16-urxvt/$scheme-light.Xresources
     cp -f $HOME/prot16/$scheme/urxvt/$scheme-dark.Xresources $HOME/prot16-urxvt/$scheme-dark.Xresources
+
+    cp -f $HOME/prot16/$scheme/xterm/$scheme-light.Xresources $HOME/prot16-xterm/$scheme-light.Xresources
+    cp -f $HOME/prot16/$scheme/xterm/$scheme-dark.Xresources $HOME/prot16-xterm/$scheme-dark.Xresources
 
     cp -f $HOME/prot16/$scheme/vim/${scheme}_light.vim $HOME/prot16-vim/colors/${scheme}_light.vim
     cp -f $HOME/prot16/$scheme/vim/${scheme}_dark.vim $HOME/prot16-vim/colors/${scheme}_dark.vim

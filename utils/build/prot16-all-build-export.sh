@@ -43,11 +43,18 @@ do
     $HOME/prot16-generator/./prot16-generator.sh $i urxvt dark > $HOME/prot16/$i/urxvt/$i-dark.Xresources
     echo "Preparing $i RXVT-Unicode (urvxt) files"
 
+    $HOME/prot16-generator/./prot16-generator.sh $i xterm light > $HOME/prot16/$i/xterm/$i-light.Xresources
+    $HOME/prot16-generator/./prot16-generator.sh $i xterm dark > $HOME/prot16/$i/xterm/$i-dark.Xresources
+    echo "Preparing $i xterm files"
+
     # Prepare files for export repos
     cp -f $HOME/prot16/$i/general/$i-palette.yml $HOME/prot16-data/$i.yml
 
     cp -f $HOME/prot16/$i/urxvt/$i-light.Xresources $HOME/prot16-urxvt/$i-light.Xresources
     cp -f $HOME/prot16/$i/urxvt/$i-dark.Xresources $HOME/prot16-urxvt/$i-dark.Xresources
+
+    cp -f $HOME/prot16/$i/xterm/$i-light.Xresources $HOME/prot16-xterm/$i-light.Xresources
+    cp -f $HOME/prot16/$i/xterm/$i-dark.Xresources $HOME/prot16-xterm/$i-dark.Xresources
 
     cp -f $HOME/prot16/$i/vim/${i}_light.vim $HOME/prot16-vim/colors/${i}_light.vim
     cp -f $HOME/prot16/$i/vim/${i}_dark.vim $HOME/prot16-vim/colors/${i}_dark.vim

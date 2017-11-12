@@ -2,3 +2,4 @@ prot16-data
 prot16-urxvt
 prot16-vim
 prot16-xfce4-terminal
+prot16-xterm
