@@ -11,6 +11,7 @@ For specific use cases, please refer to the relevant GitHub project:
 - [Prot16 Vim](https://github.com/protesilaos/prot16-vim) (themes for Vim GUI and terminal)
 - [Prot16 XFCE4 Terminal](https://github.com/protesilaos/prot16-xfce4-terminal) (themes for the XFCE4 terminal emulator)
 - [Prot16 URXVT](https://github.com/protesilaos/prot16-urxvt) (themes for the URXVT terminal)
+- [Prot16 XTERM](https://github.com/protesilaos/prot16-xterm) (themes for the XTERM terminal)
 - [Prot16 Atom index](https://github.com/protesilaos/prot16-atom-index) (a list with the Atom editor ports)
 
 ## Classification of themes
