@@ -19,172 +19,172 @@ For specific use cases, please refer to the relevant GitHub project:
 Terminal emulators running sample content (for actual customisations about GNU/Linux, refer to my [dotfiles](https://github.com/protesilaos/dotfiles))
 
 alto light variant
-![alto_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/alto_light.png)
+![alto_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/alto_light.png)
 
 alto dark variant
-![alto_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/alto_dark.png)
+![alto_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/alto_dark.png)
 
 archaic light variant
-![archaic_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/archaic_light.png)
+![archaic_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/archaic_light.png)
 
 archaic dark variant
-![archaic_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/archaic_dark.png)
+![archaic_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/archaic_dark.png)
 
 bionis light variant
-![bionis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/bionis_light.png)
+![bionis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/bionis_light.png)
 
 bionis dark variant
-![bionis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/bionis_dark.png)
+![bionis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/bionis_dark.png)
 
 blau light variant
-![blau_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/blau_light.png)
+![blau_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/blau_light.png)
 
 blau dark variant
-![blau_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/blau_dark.png)
+![blau_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/blau_dark.png)
 
 camo light variant
-![camo_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/camo_light.png)
+![camo_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/camo_light.png)
 
 camo dark variant
-![camo_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/camo_dark.png)
+![camo_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/camo_dark.png)
 
 caprice light variant
-![caprice_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/caprice_light.png)
+![caprice_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/caprice_light.png)
 
 caprice dark variant
-![caprice_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/caprice_dark.png)
+![caprice_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/caprice_dark.png)
 
 cyprium light variant
-![cyprium_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/cyprium_light.png)
+![cyprium_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/cyprium_light.png)
 
 cyprium dark variant
-![cyprium_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/cyprium_dark.png)
+![cyprium_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/cyprium_dark.png)
 
 equinox light variant
-![equinox_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/equinox_light.png)
+![equinox_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/equinox_light.png)
 
 equinox dark variant
-![equinox_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/equinox_dark.png)
+![equinox_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/equinox_dark.png)
 
 ficus light variant
-![ficus_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/ficus_light.png)
+![ficus_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/ficus_light.png)
 
 ficus dark variant
-![ficus_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/ficus_dark.png)
+![ficus_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/ficus_dark.png)
 
 flowerbed light variant
-![flowerbed_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/flowerbed_light.png)
+![flowerbed_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/flowerbed_light.png)
 
 flowerbed dark variant
-![flowerbed_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/flowerbed_dark.png)
+![flowerbed_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/flowerbed_dark.png)
 
 fortuna light variant
-![fortuna_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/fortuna_light.png)
+![fortuna_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/fortuna_light.png)
 
 fortuna dark variant
-![fortuna_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/fortuna_dark.png)
+![fortuna_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/fortuna_dark.png)
 
 gaia light variant
-![gaia_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/gaia_light.png)
+![gaia_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/gaia_light.png)
 
 gaia dark variant
-![gaia_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/gaia_dark.png)
+![gaia_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/gaia_dark.png)
 
 hinterland light variant
-![hinterland_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/hinterland_light.png)
+![hinterland_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/hinterland_light.png)
 
 hinterland dark variant
-![hinterland_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/hinterland_dark.png)
+![hinterland_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/hinterland_dark.png)
 
 hyperion light variant
-![hyperion_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/hyperion_light.png)
+![hyperion_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/hyperion_light.png)
 
 hyperion dark variant
-![hyperion_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/hyperion_dark.png)
+![hyperion_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/hyperion_dark.png)
 
 magus light variant
-![magus_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/magus_light.png)
+![magus_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/magus_light.png)
 
 magus dark variant
-![magus_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/magus_dark.png)
+![magus_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/magus_dark.png)
 
 nefelio light variant
-![nefelio_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/nefelio_light.png)
+![nefelio_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/nefelio_light.png)
 
 nefelio dark variant
-![nefelio_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/nefelio_dark.png)
+![nefelio_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/nefelio_dark.png)
 
 neptune light variant
-![neptune_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/neptune_light.png)
+![neptune_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/neptune_light.png)
 
 neptune dark variant
-![neptune_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/neptune_dark.png)
+![neptune_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/neptune_dark.png)
 
 noir light variant
-![noir_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/noir_light.png)
+![noir_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/noir_light.png)
 
 noir dark variant
-![noir_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/noir_dark.png)
+![noir_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/noir_dark.png)
 
 ocarina light variant
-![ocarina_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/ocarina_light.png)
+![ocarina_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/ocarina_light.png)
 
 ocarina dark variant
-![ocarina_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/ocarina_dark.png)
+![ocarina_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/ocarina_dark.png)
 
 oliveira light variant
-![oliveira_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/oliveira_light.png)
+![oliveira_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/oliveira_light.png)
 
 oliveira dark variant
-![oliveira_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/oliveira_dark.png)
+![oliveira_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/oliveira_dark.png)
 
 orionis light variant
-![orionis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/orionis_light.png)
+![orionis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/orionis_light.png)
 
 orionis dark variant
-![orionis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/orionis_dark.png)
+![orionis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/orionis_dark.png)
 
 overgrowth light variant
-![overgrowth_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/overgrowth_light.png)
+![overgrowth_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/overgrowth_light.png)
 
 overgrowth dark variant
-![overgrowth_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/overgrowth_dark.png)
+![overgrowth_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/overgrowth_dark.png)
 
 playa light variant
-![playa_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/playa_light.png)
+![playa_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/playa_light.png)
 
 playa dark variant
-![playa_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/playa_dark.png)
+![playa_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/playa_dark.png)
 
 seabed light variant
-![seabed_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/seabed_light.png)
+![seabed_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/seabed_light.png)
 
 seabed dark variant
-![seabed_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/seabed_dark.png)
+![seabed_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/seabed_dark.png)
 
 sonho light variant
-![sonho_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/sonho_light.png)
+![sonho_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/sonho_light.png)
 
 sonho dark variant
-![sonho_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/sonho_dark.png)
+![sonho_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/sonho_dark.png)
 
 symbiosis light variant
-![symbiosis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/symbiosis_light.png)
+![symbiosis_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/symbiosis_light.png)
 
 symbiosis dark variant
-![symbiosis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/symbiosis_dark.png)
+![symbiosis_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/symbiosis_dark.png)
 
 termina light variant
-![termina_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/termina_light.png)
+![termina_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/termina_light.png)
 
 termina dark variant
-![termina_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/termina_dark.png)
+![termina_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/termina_dark.png)
 
 vin light variant
-![vin_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/vin_light.png)
+![vin_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/vin_light.png)
 
 vin dark variant
-![vin_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils.scrots/vin_dark.png)
+![vin_dark sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/vin_dark.png)
 
 <!-- ## Classification of themes -->
 
