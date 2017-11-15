@@ -16,7 +16,7 @@ For specific use cases, please refer to the relevant GitHub project:
 
 ## Screenshots
 
-Terminal emulators running sample content (for actual customisations about GNU/Linux, refer to my [dotfiles](https://github.com/protesilaos/dotfiles))
+Terminal emulators running sample content (for actual GNU/Linux customisations, refer to my [dotfiles](https://github.com/protesilaos/dotfiles))
 
 alto light variant
 ![alto_light sample](https://raw.githubusercontent.com/protesilaos/prot16/master/utils/scrots/alto_light.png)
