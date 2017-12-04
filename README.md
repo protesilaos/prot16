@@ -237,3 +237,6 @@ I was greatly inspired in my work by Ethan Schoonover's [Solarized](http://ethan
 
 The label "Prot16" is a play on my nickname and Chris Kempson's Base16.
 
+## Related project
+
+Also check out [Tempus themes](https://github.com/protesilaos/tempus-themes). *Tempus* is a collection of themes optimised for Vim and terminal emulators that are compliant at the very least with the WCAG AA accessibility standard for colour contrast.
