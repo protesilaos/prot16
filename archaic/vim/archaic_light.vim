@@ -36,8 +36,8 @@ hi MatchParen guibg=#368876 guifg=#fef1d8 ctermbg=6 ctermfg=15
 hi Constant guifg=#ab5637 ctermfg=1
 hi Number guifg=#c76d26 ctermfg=9
 hi Boolean guifg=#8a6bb5 ctermfg=13
-hi Float guifg=#5e5138 ctermfg=10
-hi Label guifg=#5e5138 ctermfg=10
+hi Float guifg=#c76d26 ctermfg=9
+hi Label guifg=#a97906 ctermfg=3
 hi Tag guifg=#5e5138 ctermfg=10
 hi StorageClass guifg=#5e5138 ctermfg=10
 
